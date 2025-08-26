@@ -1,0 +1,3781 @@
+year,month,state,city,crime_type,incidents,population
+2018,1,Delhi,Dwarka,Assault,9,459392
+2018,1,Delhi,Dwarka,Burglary,27,881612
+2018,1,Delhi,Dwarka,Theft,50,466527
+2018,4,Delhi,Dwarka,Assault,43,341627
+2018,4,Delhi,Dwarka,Robbery,29,834409
+2018,4,Delhi,Dwarka,Theft,50,355938
+2018,5,Delhi,Dwarka,Cyber Crime,20,973767
+2018,5,Delhi,Dwarka,Fraud,19,971460
+2018,5,Delhi,Dwarka,Kidnapping,45,387047
+2018,7,Delhi,Dwarka,Fraud,30,1165615
+2018,7,Delhi,Dwarka,Homicide,31,911390
+2018,7,Delhi,Dwarka,Theft,47,814746
+2018,11,Delhi,Dwarka,Burglary,47,223599
+2018,11,Delhi,Dwarka,Homicide,14,528086
+2018,11,Delhi,Dwarka,Robbery,53,548459
+2018,12,Delhi,Dwarka,Cyber Crime,29,814437
+2018,12,Delhi,Dwarka,Robbery,48,1169164
+2018,12,Delhi,Dwarka,Theft,43,636521
+2018,2,Delhi,New Delhi,Burglary,57,1223579
+2018,2,Delhi,New Delhi,Fraud,15,573762
+2018,2,Delhi,New Delhi,Kidnapping,80,723888
+2018,3,Delhi,New Delhi,Burglary,44,1248685
+2018,3,Delhi,New Delhi,Kidnapping,40,556453
+2018,3,Delhi,New Delhi,Theft,12,881620
+2018,4,Delhi,New Delhi,Cyber Crime,66,810656
+2018,4,Delhi,New Delhi,Fraud,58,999035
+2018,4,Delhi,New Delhi,Homicide,30,1499543
+2018,5,Delhi,New Delhi,Fraud,32,1441181
+2018,5,Delhi,New Delhi,Homicide,43,472425
+2018,5,Delhi,New Delhi,Kidnapping,23,255343
+2018,8,Delhi,New Delhi,Burglary,41,927861
+2018,8,Delhi,New Delhi,Homicide,71,1404004
+2018,8,Delhi,New Delhi,Theft,19,1149953
+2018,10,Delhi,New Delhi,Cyber Crime,49,753603
+2018,10,Delhi,New Delhi,Kidnapping,66,1226774
+2018,10,Delhi,New Delhi,Theft,60,197542
+2018,1,Delhi,Rohini,Assault,12,315001
+2018,1,Delhi,Rohini,Burglary,36,114660
+2018,1,Delhi,Rohini,Homicide,44,522442
+2018,5,Delhi,Rohini,Burglary,52,648914
+2018,5,Delhi,Rohini,Homicide,70,597028
+2018,5,Delhi,Rohini,Kidnapping,8,161443
+2018,6,Delhi,Rohini,Cyber Crime,37,320087
+2018,6,Delhi,Rohini,Robbery,70,362263
+2018,6,Delhi,Rohini,Theft,50,454833
+2018,7,Delhi,Rohini,Cyber Crime,62,1048694
+2018,7,Delhi,Rohini,Robbery,49,707720
+2018,7,Delhi,Rohini,Theft,22,666432
+2018,10,Delhi,Rohini,Assault,10,1007411
+2018,10,Delhi,Rohini,Fraud,36,1344288
+2018,10,Delhi,Rohini,Homicide,50,1376052
+2018,11,Delhi,Rohini,Assault,20,841001
+2018,11,Delhi,Rohini,Robbery,25,637202
+2018,11,Delhi,Rohini,Theft,24,1089314
+2018,4,Gujarat,Ahmedabad,Cyber Crime,33,1238772
+2018,4,Gujarat,Ahmedabad,Robbery,28,311636
+2018,4,Gujarat,Ahmedabad,Theft,57,130061
+2018,5,Gujarat,Ahmedabad,Assault,23,623715
+2018,5,Gujarat,Ahmedabad,Burglary,27,483872
+2018,5,Gujarat,Ahmedabad,Homicide,46,1002817
+2018,8,Gujarat,Ahmedabad,Assault,16,500821
+2018,8,Gujarat,Ahmedabad,Fraud,52,1226064
+2018,8,Gujarat,Ahmedabad,Robbery,57,1475133
+2018,9,Gujarat,Ahmedabad,Fraud,41,174866
+2018,9,Gujarat,Ahmedabad,Homicide,10,895210
+2018,9,Gujarat,Ahmedabad,Robbery,54,571755
+2018,10,Gujarat,Ahmedabad,Assault,50,220762
+2018,10,Gujarat,Ahmedabad,Fraud,40,194246
+2018,10,Gujarat,Ahmedabad,Homicide,32,900618
+2018,11,Gujarat,Ahmedabad,Assault,59,1494283
+2018,11,Gujarat,Ahmedabad,Burglary,54,247231
+2018,11,Gujarat,Ahmedabad,Theft,40,1317874
+2018,5,Gujarat,Surat,Fraud,82,768294
+2018,5,Gujarat,Surat,Kidnapping,49,774068
+2018,5,Gujarat,Surat,Robbery,67,184086
+2018,6,Gujarat,Surat,Fraud,64,690696
+2018,6,Gujarat,Surat,Kidnapping,51,886265
+2018,6,Gujarat,Surat,Robbery,13,671722
+2018,7,Gujarat,Surat,Assault,24,593703
+2018,7,Gujarat,Surat,Cyber Crime,19,1093386
+2018,7,Gujarat,Surat,Fraud,26,118474
+2018,8,Gujarat,Surat,Burglary,51,403310
+2018,8,Gujarat,Surat,Cyber Crime,25,109770
+2018,8,Gujarat,Surat,Fraud,55,1260235
+2018,10,Gujarat,Surat,Assault,68,347175
+2018,10,Gujarat,Surat,Kidnapping,29,960525
+2018,10,Gujarat,Surat,Theft,28,511016
+2018,11,Gujarat,Surat,Kidnapping,62,1312845
+2018,11,Gujarat,Surat,Robbery,61,711683
+2018,11,Gujarat,Surat,Theft,26,284119
+2018,1,Gujarat,Vadodara,Assault,9,1326646
+2018,1,Gujarat,Vadodara,Burglary,40,278195
+2018,1,Gujarat,Vadodara,Fraud,55,496677
+2018,2,Gujarat,Vadodara,Assault,22,822736
+2018,2,Gujarat,Vadodara,Fraud,57,864532
+2018,2,Gujarat,Vadodara,Kidnapping,10,217567
+2018,5,Gujarat,Vadodara,Assault,68,1270406
+2018,5,Gujarat,Vadodara,Cyber Crime,20,729708
+2018,5,Gujarat,Vadodara,Fraud,7,1156281
+2018,7,Gujarat,Vadodara,Assault,56,435938
+2018,7,Gujarat,Vadodara,Cyber Crime,62,1202312
+2018,7,Gujarat,Vadodara,Theft,39,593459
+2018,10,Gujarat,Vadodara,Homicide,9,1022986
+2018,10,Gujarat,Vadodara,Kidnapping,25,567942
+2018,10,Gujarat,Vadodara,Theft,24,867998
+2018,12,Gujarat,Vadodara,Fraud,60,274997
+2018,12,Gujarat,Vadodara,Robbery,39,456969
+2018,12,Gujarat,Vadodara,Theft,33,901799
+2018,2,Karnataka,Bengaluru,Cyber Crime,50,831432
+2018,2,Karnataka,Bengaluru,Homicide,41,727973
+2018,2,Karnataka,Bengaluru,Theft,13,1474198
+2018,3,Karnataka,Bengaluru,Cyber Crime,3,167249
+2018,3,Karnataka,Bengaluru,Fraud,24,884508
+2018,3,Karnataka,Bengaluru,Theft,64,1013105
+2018,5,Karnataka,Bengaluru,Fraud,18,1293435
+2018,5,Karnataka,Bengaluru,Kidnapping,62,605546
+2018,5,Karnataka,Bengaluru,Robbery,22,1409689
+2018,6,Karnataka,Bengaluru,Burglary,52,141270
+2018,6,Karnataka,Bengaluru,Kidnapping,4,573521
+2018,6,Karnataka,Bengaluru,Robbery,34,1083890
+2018,10,Karnataka,Bengaluru,Burglary,24,397730
+2018,10,Karnataka,Bengaluru,Homicide,41,647879
+2018,10,Karnataka,Bengaluru,Theft,67,315876
+2018,11,Karnataka,Bengaluru,Assault,72,892165
+2018,11,Karnataka,Bengaluru,Homicide,50,1407606
+2018,11,Karnataka,Bengaluru,Robbery,7,671210
+2018,2,Karnataka,Mangaluru,Burglary,45,465903
+2018,2,Karnataka,Mangaluru,Fraud,58,643196
+2018,2,Karnataka,Mangaluru,Kidnapping,7,798425
+2018,3,Karnataka,Mangaluru,Burglary,33,304511
+2018,3,Karnataka,Mangaluru,Cyber Crime,41,888977
+2018,3,Karnataka,Mangaluru,Fraud,49,999610
+2018,4,Karnataka,Mangaluru,Assault,56,814466
+2018,4,Karnataka,Mangaluru,Homicide,49,742970
+2018,4,Karnataka,Mangaluru,Robbery,9,261535
+2018,6,Karnataka,Mangaluru,Fraud,56,1135338
+2018,6,Karnataka,Mangaluru,Robbery,60,805386
+2018,6,Karnataka,Mangaluru,Theft,55,748991
+2018,8,Karnataka,Mangaluru,Cyber Crime,7,1240191
+2018,8,Karnataka,Mangaluru,Fraud,42,1053846
+2018,8,Karnataka,Mangaluru,Robbery,35,1121086
+2018,9,Karnataka,Mangaluru,Burglary,62,502049
+2018,9,Karnataka,Mangaluru,Cyber Crime,37,1235774
+2018,9,Karnataka,Mangaluru,Fraud,24,117427
+2018,2,Karnataka,Mysuru,Assault,22,1030623
+2018,2,Karnataka,Mysuru,Homicide,57,153413
+2018,2,Karnataka,Mysuru,Kidnapping,20,1473543
+2018,3,Karnataka,Mysuru,Assault,6,124091
+2018,3,Karnataka,Mysuru,Cyber Crime,22,1048160
+2018,3,Karnataka,Mysuru,Robbery,21,878394
+2018,9,Karnataka,Mysuru,Assault,46,378763
+2018,9,Karnataka,Mysuru,Fraud,61,1123584
+2018,9,Karnataka,Mysuru,Theft,79,503535
+2018,10,Karnataka,Mysuru,Burglary,56,1258530
+2018,10,Karnataka,Mysuru,Kidnapping,62,1051517
+2018,10,Karnataka,Mysuru,Theft,32,894041
+2018,11,Karnataka,Mysuru,Assault,46,751064
+2018,11,Karnataka,Mysuru,Fraud,31,122294
+2018,11,Karnataka,Mysuru,Homicide,55,502308
+2018,12,Karnataka,Mysuru,Cyber Crime,54,1425905
+2018,12,Karnataka,Mysuru,Fraud,65,1348318
+2018,12,Karnataka,Mysuru,Kidnapping,28,100236
+2018,1,Kerala,Kochi,Burglary,52,378355
+2018,1,Kerala,Kochi,Kidnapping,57,579710
+2018,1,Kerala,Kochi,Theft,38,1148650
+2018,4,Kerala,Kochi,Assault,6,616141
+2018,4,Kerala,Kochi,Cyber Crime,16,1114139
+2018,4,Kerala,Kochi,Kidnapping,33,1325025
+2018,5,Kerala,Kochi,Assault,26,546628
+2018,5,Kerala,Kochi,Robbery,44,1114760
+2018,5,Kerala,Kochi,Theft,68,510890
+2018,6,Kerala,Kochi,Fraud,34,1335793
+2018,6,Kerala,Kochi,Homicide,69,1140465
+2018,6,Kerala,Kochi,Robbery,48,1138445
+2018,7,Kerala,Kochi,Cyber Crime,44,736446
+2018,7,Kerala,Kochi,Fraud,67,582835
+2018,7,Kerala,Kochi,Kidnapping,10,431892
+2018,10,Kerala,Kochi,Assault,6,179579
+2018,10,Kerala,Kochi,Burglary,45,1185040
+2018,10,Kerala,Kochi,Cyber Crime,48,1073126
+2018,2,Kerala,Kozhikode,Assault,37,1059419
+2018,2,Kerala,Kozhikode,Burglary,20,533222
+2018,2,Kerala,Kozhikode,Homicide,54,929791
+2018,4,Kerala,Kozhikode,Assault,61,101843
+2018,4,Kerala,Kozhikode,Burglary,22,320738
+2018,4,Kerala,Kozhikode,Homicide,9,1402060
+2018,5,Kerala,Kozhikode,Burglary,11,1282028
+2018,5,Kerala,Kozhikode,Cyber Crime,4,1278634
+2018,5,Kerala,Kozhikode,Homicide,63,952469
+2018,7,Kerala,Kozhikode,Fraud,41,934403
+2018,7,Kerala,Kozhikode,Homicide,20,208617
+2018,7,Kerala,Kozhikode,Kidnapping,52,123842
+2018,8,Kerala,Kozhikode,Burglary,29,1256172
+2018,8,Kerala,Kozhikode,Fraud,29,777547
+2018,8,Kerala,Kozhikode,Homicide,36,532316
+2018,11,Kerala,Kozhikode,Cyber Crime,26,268304
+2018,11,Kerala,Kozhikode,Homicide,16,1377135
+2018,11,Kerala,Kozhikode,Theft,16,1484294
+2018,3,Kerala,Thiruvananthapuram,Cyber Crime,73,595224
+2018,3,Kerala,Thiruvananthapuram,Fraud,57,739928
+2018,3,Kerala,Thiruvananthapuram,Theft,10,1319659
+2018,4,Kerala,Thiruvananthapuram,Homicide,24,781905
+2018,4,Kerala,Thiruvananthapuram,Kidnapping,63,521388
+2018,4,Kerala,Thiruvananthapuram,Theft,19,1241010
+2018,8,Kerala,Thiruvananthapuram,Fraud,61,816585
+2018,8,Kerala,Thiruvananthapuram,Kidnapping,68,1185467
+2018,8,Kerala,Thiruvananthapuram,Theft,12,507326
+2018,9,Kerala,Thiruvananthapuram,Homicide,35,1439747
+2018,9,Kerala,Thiruvananthapuram,Kidnapping,30,388153
+2018,9,Kerala,Thiruvananthapuram,Robbery,47,693120
+2018,11,Kerala,Thiruvananthapuram,Cyber Crime,50,1333861
+2018,11,Kerala,Thiruvananthapuram,Robbery,11,517171
+2018,11,Kerala,Thiruvananthapuram,Theft,44,1217843
+2018,12,Kerala,Thiruvananthapuram,Assault,23,151488
+2018,12,Kerala,Thiruvananthapuram,Fraud,48,715029
+2018,12,Kerala,Thiruvananthapuram,Theft,63,703761
+2018,1,Maharashtra,Mumbai,Burglary,65,385999
+2018,1,Maharashtra,Mumbai,Cyber Crime,33,602324
+2018,1,Maharashtra,Mumbai,Kidnapping,61,1282125
+2018,3,Maharashtra,Mumbai,Cyber Crime,61,1363362
+2018,3,Maharashtra,Mumbai,Robbery,46,161140
+2018,3,Maharashtra,Mumbai,Theft,20,952284
+2018,4,Maharashtra,Mumbai,Burglary,55,708825
+2018,4,Maharashtra,Mumbai,Cyber Crime,5,887213
+2018,4,Maharashtra,Mumbai,Theft,48,297968
+2018,6,Maharashtra,Mumbai,Fraud,62,139648
+2018,6,Maharashtra,Mumbai,Kidnapping,41,142697
+2018,6,Maharashtra,Mumbai,Robbery,32,320698
+2018,8,Maharashtra,Mumbai,Assault,58,538443
+2018,8,Maharashtra,Mumbai,Homicide,73,407579
+2018,8,Maharashtra,Mumbai,Robbery,51,359142
+2018,9,Maharashtra,Mumbai,Assault,12,693926
+2018,9,Maharashtra,Mumbai,Cyber Crime,60,654078
+2018,9,Maharashtra,Mumbai,Fraud,28,1165454
+2018,1,Maharashtra,Nashik,Burglary,13,1032752
+2018,1,Maharashtra,Nashik,Kidnapping,41,584358
+2018,1,Maharashtra,Nashik,Theft,50,1070246
+2018,3,Maharashtra,Nashik,Assault,12,521199
+2018,3,Maharashtra,Nashik,Cyber Crime,60,595260
+2018,3,Maharashtra,Nashik,Theft,73,1485056
+2018,5,Maharashtra,Nashik,Cyber Crime,56,275006
+2018,5,Maharashtra,Nashik,Homicide,12,966237
+2018,5,Maharashtra,Nashik,Theft,48,309624
+2018,7,Maharashtra,Nashik,Assault,60,1263480
+2018,7,Maharashtra,Nashik,Fraud,62,689273
+2018,7,Maharashtra,Nashik,Homicide,42,416674
+2018,8,Maharashtra,Nashik,Burglary,38,1477405
+2018,8,Maharashtra,Nashik,Robbery,11,1014750
+2018,8,Maharashtra,Nashik,Theft,15,1127281
+2018,11,Maharashtra,Nashik,Homicide,52,670989
+2018,11,Maharashtra,Nashik,Robbery,14,463822
+2018,11,Maharashtra,Nashik,Theft,58,1003495
+2018,2,Maharashtra,Pune,Cyber Crime,35,999570
+2018,2,Maharashtra,Pune,Fraud,33,1437582
+2018,2,Maharashtra,Pune,Homicide,55,657944
+2018,4,Maharashtra,Pune,Burglary,8,1324582
+2018,4,Maharashtra,Pune,Cyber Crime,65,1418564
+2018,4,Maharashtra,Pune,Theft,22,499178
+2018,7,Maharashtra,Pune,Fraud,43,1180674
+2018,7,Maharashtra,Pune,Kidnapping,22,1296417
+2018,7,Maharashtra,Pune,Theft,43,1301516
+2018,9,Maharashtra,Pune,Assault,36,274428
+2018,9,Maharashtra,Pune,Burglary,69,762554
+2018,9,Maharashtra,Pune,Cyber Crime,51,1438904
+2018,10,Maharashtra,Pune,Assault,60,236665
+2018,10,Maharashtra,Pune,Homicide,55,167280
+2018,10,Maharashtra,Pune,Theft,13,234558
+2018,12,Maharashtra,Pune,Fraud,29,968610
+2018,12,Maharashtra,Pune,Homicide,25,972509
+2018,12,Maharashtra,Pune,Robbery,54,945412
+2018,3,Rajasthan,Jaipur,Assault,13,980432
+2018,3,Rajasthan,Jaipur,Cyber Crime,17,1264959
+2018,3,Rajasthan,Jaipur,Homicide,41,318461
+2018,6,Rajasthan,Jaipur,Cyber Crime,65,967184
+2018,6,Rajasthan,Jaipur,Homicide,67,713764
+2018,6,Rajasthan,Jaipur,Theft,31,765440
+2018,7,Rajasthan,Jaipur,Burglary,15,1320305
+2018,7,Rajasthan,Jaipur,Cyber Crime,14,1313921
+2018,7,Rajasthan,Jaipur,Fraud,56,827919
+2018,8,Rajasthan,Jaipur,Assault,29,379784
+2018,8,Rajasthan,Jaipur,Cyber Crime,28,1237249
+2018,8,Rajasthan,Jaipur,Kidnapping,36,203085
+2018,10,Rajasthan,Jaipur,Assault,35,1002451
+2018,10,Rajasthan,Jaipur,Robbery,28,294479
+2018,10,Rajasthan,Jaipur,Theft,37,497708
+2018,11,Rajasthan,Jaipur,Fraud,40,777587
+2018,11,Rajasthan,Jaipur,Homicide,25,235468
+2018,11,Rajasthan,Jaipur,Kidnapping,39,212646
+2018,2,Rajasthan,Jodhpur,Burglary,12,1215741
+2018,2,Rajasthan,Jodhpur,Cyber Crime,28,1190347
+2018,2,Rajasthan,Jodhpur,Kidnapping,27,320781
+2018,3,Rajasthan,Jodhpur,Fraud,19,495881
+2018,3,Rajasthan,Jodhpur,Homicide,47,776612
+2018,3,Rajasthan,Jodhpur,Robbery,33,120507
+2018,5,Rajasthan,Jodhpur,Assault,57,1389005
+2018,5,Rajasthan,Jodhpur,Cyber Crime,7,977181
+2018,5,Rajasthan,Jodhpur,Kidnapping,49,676677
+2018,6,Rajasthan,Jodhpur,Homicide,43,146190
+2018,6,Rajasthan,Jodhpur,Robbery,25,724294
+2018,6,Rajasthan,Jodhpur,Theft,62,614847
+2018,7,Rajasthan,Jodhpur,Burglary,13,1221651
+2018,7,Rajasthan,Jodhpur,Fraud,10,323133
+2018,7,Rajasthan,Jodhpur,Kidnapping,9,1148663
+2018,12,Rajasthan,Jodhpur,Fraud,60,1474150
+2018,12,Rajasthan,Jodhpur,Homicide,46,259847
+2018,12,Rajasthan,Jodhpur,Kidnapping,48,879934
+2018,1,Rajasthan,Udaipur,Assault,44,552923
+2018,1,Rajasthan,Udaipur,Cyber Crime,41,1137750
+2018,1,Rajasthan,Udaipur,Fraud,27,1280215
+2018,2,Rajasthan,Udaipur,Kidnapping,50,527943
+2018,2,Rajasthan,Udaipur,Robbery,31,330160
+2018,2,Rajasthan,Udaipur,Theft,64,1335622
+2018,3,Rajasthan,Udaipur,Assault,58,1039996
+2018,3,Rajasthan,Udaipur,Cyber Crime,48,663655
+2018,3,Rajasthan,Udaipur,Robbery,73,892036
+2018,6,Rajasthan,Udaipur,Cyber Crime,26,1238917
+2018,6,Rajasthan,Udaipur,Homicide,55,1429181
+2018,6,Rajasthan,Udaipur,Theft,6,1069888
+2018,9,Rajasthan,Udaipur,Cyber Crime,60,1147478
+2018,9,Rajasthan,Udaipur,Fraud,10,321227
+2018,9,Rajasthan,Udaipur,Kidnapping,41,401195
+2018,10,Rajasthan,Udaipur,Fraud,50,1225292
+2018,10,Rajasthan,Udaipur,Homicide,44,227046
+2018,10,Rajasthan,Udaipur,Robbery,32,265628
+2018,3,Tamil Nadu,Chennai,Assault,41,1345866
+2018,3,Tamil Nadu,Chennai,Burglary,15,494823
+2018,3,Tamil Nadu,Chennai,Robbery,19,1129020
+2018,4,Tamil Nadu,Chennai,Assault,5,1114934
+2018,4,Tamil Nadu,Chennai,Fraud,31,1160643
+2018,4,Tamil Nadu,Chennai,Robbery,30,789231
+2018,8,Tamil Nadu,Chennai,Assault,19,448032
+2018,8,Tamil Nadu,Chennai,Burglary,23,1208163
+2018,8,Tamil Nadu,Chennai,Theft,51,479656
+2018,9,Tamil Nadu,Chennai,Assault,45,964083
+2018,9,Tamil Nadu,Chennai,Cyber Crime,53,525227
+2018,9,Tamil Nadu,Chennai,Theft,51,865444
+2018,10,Tamil Nadu,Chennai,Assault,48,696644
+2018,10,Tamil Nadu,Chennai,Kidnapping,67,994038
+2018,10,Tamil Nadu,Chennai,Robbery,51,688205
+2018,12,Tamil Nadu,Chennai,Cyber Crime,51,531866
+2018,12,Tamil Nadu,Chennai,Homicide,38,910539
+2018,12,Tamil Nadu,Chennai,Kidnapping,68,601194
+2018,1,Tamil Nadu,Coimbatore,Homicide,76,1498025
+2018,1,Tamil Nadu,Coimbatore,Kidnapping,46,1281589
+2018,1,Tamil Nadu,Coimbatore,Robbery,8,434119
+2018,2,Tamil Nadu,Coimbatore,Cyber Crime,9,634284
+2018,2,Tamil Nadu,Coimbatore,Fraud,24,524316
+2018,2,Tamil Nadu,Coimbatore,Homicide,58,146668
+2018,4,Tamil Nadu,Coimbatore,Burglary,41,339718
+2018,4,Tamil Nadu,Coimbatore,Cyber Crime,31,1070599
+2018,4,Tamil Nadu,Coimbatore,Theft,10,318512
+2018,6,Tamil Nadu,Coimbatore,Cyber Crime,48,1435943
+2018,6,Tamil Nadu,Coimbatore,Homicide,73,215789
+2018,6,Tamil Nadu,Coimbatore,Robbery,42,1095178
+2018,9,Tamil Nadu,Coimbatore,Burglary,15,603122
+2018,9,Tamil Nadu,Coimbatore,Homicide,14,768959
+2018,9,Tamil Nadu,Coimbatore,Robbery,51,1174066
+2018,12,Tamil Nadu,Coimbatore,Assault,33,1318988
+2018,12,Tamil Nadu,Coimbatore,Kidnapping,26,1275216
+2018,12,Tamil Nadu,Coimbatore,Robbery,57,1360273
+2018,1,Tamil Nadu,Madurai,Assault,74,117110
+2018,1,Tamil Nadu,Madurai,Burglary,65,775884
+2018,1,Tamil Nadu,Madurai,Homicide,12,839428
+2018,2,Tamil Nadu,Madurai,Assault,18,793580
+2018,2,Tamil Nadu,Madurai,Cyber Crime,66,851253
+2018,2,Tamil Nadu,Madurai,Homicide,9,1154805
+2018,3,Tamil Nadu,Madurai,Burglary,35,540341
+2018,3,Tamil Nadu,Madurai,Homicide,61,306955
+2018,3,Tamil Nadu,Madurai,Theft,31,844165
+2018,6,Tamil Nadu,Madurai,Cyber Crime,75,770130
+2018,6,Tamil Nadu,Madurai,Homicide,28,1212099
+2018,6,Tamil Nadu,Madurai,Theft,55,646554
+2018,10,Tamil Nadu,Madurai,Assault,55,127692
+2018,10,Tamil Nadu,Madurai,Cyber Crime,84,744558
+2018,10,Tamil Nadu,Madurai,Kidnapping,67,1278736
+2018,12,Tamil Nadu,Madurai,Burglary,46,1023551
+2018,12,Tamil Nadu,Madurai,Cyber Crime,46,820394
+2018,12,Tamil Nadu,Madurai,Theft,39,691072
+2018,4,Telangana,Hyderabad,Assault,54,859519
+2018,4,Telangana,Hyderabad,Cyber Crime,28,855907
+2018,4,Telangana,Hyderabad,Fraud,60,935615
+2018,6,Telangana,Hyderabad,Cyber Crime,43,130089
+2018,6,Telangana,Hyderabad,Homicide,38,1471818
+2018,6,Telangana,Hyderabad,Robbery,12,144932
+2018,7,Telangana,Hyderabad,Assault,66,382951
+2018,7,Telangana,Hyderabad,Homicide,48,122118
+2018,7,Telangana,Hyderabad,Robbery,32,1036403
+2018,10,Telangana,Hyderabad,Assault,18,168678
+2018,10,Telangana,Hyderabad,Cyber Crime,21,943337
+2018,10,Telangana,Hyderabad,Kidnapping,16,308632
+2018,11,Telangana,Hyderabad,Fraud,32,389123
+2018,11,Telangana,Hyderabad,Homicide,52,270364
+2018,11,Telangana,Hyderabad,Robbery,37,425677
+2018,12,Telangana,Hyderabad,Assault,7,349603
+2018,12,Telangana,Hyderabad,Cyber Crime,30,1088044
+2018,12,Telangana,Hyderabad,Theft,38,1454761
+2018,1,Telangana,Karimnagar,Assault,7,1306589
+2018,1,Telangana,Karimnagar,Cyber Crime,39,148647
+2018,1,Telangana,Karimnagar,Robbery,38,1295837
+2018,3,Telangana,Karimnagar,Homicide,41,939338
+2018,3,Telangana,Karimnagar,Kidnapping,7,349496
+2018,3,Telangana,Karimnagar,Theft,9,522259
+2018,6,Telangana,Karimnagar,Burglary,27,1426145
+2018,6,Telangana,Karimnagar,Cyber Crime,10,722289
+2018,6,Telangana,Karimnagar,Kidnapping,38,1341945
+2018,7,Telangana,Karimnagar,Cyber Crime,6,730488
+2018,7,Telangana,Karimnagar,Homicide,2,681834
+2018,7,Telangana,Karimnagar,Kidnapping,13,1429945
+2018,9,Telangana,Karimnagar,Assault,20,455789
+2018,9,Telangana,Karimnagar,Burglary,18,404045
+2018,9,Telangana,Karimnagar,Theft,71,1426233
+2018,10,Telangana,Karimnagar,Burglary,12,1490383
+2018,10,Telangana,Karimnagar,Robbery,42,102618
+2018,10,Telangana,Karimnagar,Theft,27,1310649
+2018,4,Telangana,Warangal,Burglary,73,357719
+2018,4,Telangana,Warangal,Fraud,47,533890
+2018,4,Telangana,Warangal,Theft,14,970986
+2018,6,Telangana,Warangal,Homicide,65,1290534
+2018,6,Telangana,Warangal,Kidnapping,58,600748
+2018,6,Telangana,Warangal,Robbery,16,776896
+2018,7,Telangana,Warangal,Assault,14,1033585
+2018,7,Telangana,Warangal,Burglary,24,1276156
+2018,7,Telangana,Warangal,Robbery,12,437739
+2018,9,Telangana,Warangal,Assault,18,1089022
+2018,9,Telangana,Warangal,Fraud,10,750782
+2018,9,Telangana,Warangal,Homicide,40,1123678
+2018,11,Telangana,Warangal,Burglary,54,1342424
+2018,11,Telangana,Warangal,Homicide,15,809279
+2018,11,Telangana,Warangal,Theft,19,448219
+2018,12,Telangana,Warangal,Kidnapping,64,736434
+2018,12,Telangana,Warangal,Robbery,24,910049
+2018,12,Telangana,Warangal,Theft,31,264627
+2018,2,Uttar Pradesh,Lucknow,Assault,56,1378676
+2018,2,Uttar Pradesh,Lucknow,Cyber Crime,6,537118
+2018,2,Uttar Pradesh,Lucknow,Homicide,64,747692
+2018,4,Uttar Pradesh,Lucknow,Fraud,16,569443
+2018,4,Uttar Pradesh,Lucknow,Kidnapping,67,523526
+2018,4,Uttar Pradesh,Lucknow,Theft,30,481103
+2018,5,Uttar Pradesh,Lucknow,Cyber Crime,52,634287
+2018,5,Uttar Pradesh,Lucknow,Fraud,29,615806
+2018,5,Uttar Pradesh,Lucknow,Robbery,28,919750
+2018,6,Uttar Pradesh,Lucknow,Burglary,37,697968
+2018,6,Uttar Pradesh,Lucknow,Kidnapping,32,1331703
+2018,6,Uttar Pradesh,Lucknow,Theft,43,200260
+2018,10,Uttar Pradesh,Lucknow,Assault,61,101286
+2018,10,Uttar Pradesh,Lucknow,Kidnapping,54,201133
+2018,10,Uttar Pradesh,Lucknow,Robbery,36,220362
+2018,11,Uttar Pradesh,Lucknow,Cyber Crime,22,175129
+2018,11,Uttar Pradesh,Lucknow,Fraud,17,321282
+2018,11,Uttar Pradesh,Lucknow,Theft,33,509826
+2018,2,Uttar Pradesh,Noida,Burglary,38,630126
+2018,2,Uttar Pradesh,Noida,Cyber Crime,10,400272
+2018,2,Uttar Pradesh,Noida,Theft,29,182457
+2018,3,Uttar Pradesh,Noida,Assault,52,646997
+2018,3,Uttar Pradesh,Noida,Burglary,38,947971
+2018,3,Uttar Pradesh,Noida,Theft,52,995777
+2018,7,Uttar Pradesh,Noida,Burglary,7,1406658
+2018,7,Uttar Pradesh,Noida,Cyber Crime,49,259043
+2018,7,Uttar Pradesh,Noida,Kidnapping,18,696614
+2018,8,Uttar Pradesh,Noida,Burglary,32,800321
+2018,8,Uttar Pradesh,Noida,Cyber Crime,29,920459
+2018,8,Uttar Pradesh,Noida,Kidnapping,44,369741
+2018,9,Uttar Pradesh,Noida,Burglary,7,174934
+2018,9,Uttar Pradesh,Noida,Fraud,69,1094394
+2018,9,Uttar Pradesh,Noida,Kidnapping,60,611193
+2018,11,Uttar Pradesh,Noida,Fraud,51,1418302
+2018,11,Uttar Pradesh,Noida,Homicide,74,877012
+2018,11,Uttar Pradesh,Noida,Kidnapping,32,1026892
+2018,3,Uttar Pradesh,Varanasi,Assault,34,668580
+2018,3,Uttar Pradesh,Varanasi,Fraud,52,499601
+2018,3,Uttar Pradesh,Varanasi,Kidnapping,19,282633
+2018,5,Uttar Pradesh,Varanasi,Assault,22,628959
+2018,5,Uttar Pradesh,Varanasi,Burglary,35,900836
+2018,5,Uttar Pradesh,Varanasi,Kidnapping,7,444732
+2018,7,Uttar Pradesh,Varanasi,Assault,52,1419574
+2018,7,Uttar Pradesh,Varanasi,Cyber Crime,12,923791
+2018,7,Uttar Pradesh,Varanasi,Homicide,12,936227
+2018,9,Uttar Pradesh,Varanasi,Fraud,48,1000172
+2018,9,Uttar Pradesh,Varanasi,Homicide,16,1196100
+2018,9,Uttar Pradesh,Varanasi,Kidnapping,61,1121864
+2018,10,Uttar Pradesh,Varanasi,Fraud,41,681926
+2018,10,Uttar Pradesh,Varanasi,Homicide,28,174749
+2018,10,Uttar Pradesh,Varanasi,Robbery,37,125796
+2018,11,Uttar Pradesh,Varanasi,Assault,57,160312
+2018,11,Uttar Pradesh,Varanasi,Cyber Crime,49,1147367
+2018,11,Uttar Pradesh,Varanasi,Theft,45,1284277
+2018,1,West Bengal,Durgapur,Fraud,33,1463573
+2018,1,West Bengal,Durgapur,Homicide,24,1279009
+2018,1,West Bengal,Durgapur,Robbery,17,864218
+2018,2,West Bengal,Durgapur,Fraud,27,216432
+2018,2,West Bengal,Durgapur,Homicide,72,401516
+2018,2,West Bengal,Durgapur,Robbery,11,369600
+2018,9,West Bengal,Durgapur,Assault,8,351815
+2018,9,West Bengal,Durgapur,Fraud,14,975645
+2018,9,West Bengal,Durgapur,Theft,4,1416792
+2018,10,West Bengal,Durgapur,Cyber Crime,23,465047
+2018,10,West Bengal,Durgapur,Robbery,12,125731
+2018,10,West Bengal,Durgapur,Theft,17,631134
+2018,11,West Bengal,Durgapur,Assault,61,836093
+2018,11,West Bengal,Durgapur,Homicide,41,675267
+2018,11,West Bengal,Durgapur,Kidnapping,38,199611
+2018,12,West Bengal,Durgapur,Cyber Crime,12,1119552
+2018,12,West Bengal,Durgapur,Kidnapping,64,717651
+2018,12,West Bengal,Durgapur,Robbery,43,690048
+2018,1,West Bengal,Howrah,Assault,64,937749
+2018,1,West Bengal,Howrah,Homicide,27,868590
+2018,1,West Bengal,Howrah,Theft,2,948767
+2018,2,West Bengal,Howrah,Burglary,28,582767
+2018,2,West Bengal,Howrah,Kidnapping,63,204490
+2018,2,West Bengal,Howrah,Robbery,13,224666
+2018,4,West Bengal,Howrah,Homicide,21,552430
+2018,4,West Bengal,Howrah,Robbery,43,925674
+2018,4,West Bengal,Howrah,Theft,60,262135
+2018,7,West Bengal,Howrah,Fraud,50,1097684
+2018,7,West Bengal,Howrah,Robbery,39,511086
+2018,7,West Bengal,Howrah,Theft,52,799720
+2018,9,West Bengal,Howrah,Cyber Crime,81,792744
+2018,9,West Bengal,Howrah,Fraud,49,1002028
+2018,9,West Bengal,Howrah,Theft,16,112331
+2018,11,West Bengal,Howrah,Burglary,12,552670
+2018,11,West Bengal,Howrah,Cyber Crime,7,1494012
+2018,11,West Bengal,Howrah,Fraud,49,174510
+2018,2,West Bengal,Kolkata,Fraud,14,798798
+2018,2,West Bengal,Kolkata,Kidnapping,52,988419
+2018,2,West Bengal,Kolkata,Robbery,48,1215479
+2018,5,West Bengal,Kolkata,Cyber Crime,53,582105
+2018,5,West Bengal,Kolkata,Homicide,16,580926
+2018,5,West Bengal,Kolkata,Robbery,55,1306111
+2018,6,West Bengal,Kolkata,Kidnapping,20,213156
+2018,6,West Bengal,Kolkata,Robbery,58,956791
+2018,6,West Bengal,Kolkata,Theft,86,706663
+2018,7,West Bengal,Kolkata,Assault,12,1156073
+2018,7,West Bengal,Kolkata,Fraud,52,1072084
+2018,7,West Bengal,Kolkata,Robbery,35,1204483
+2018,9,West Bengal,Kolkata,Assault,25,243093
+2018,9,West Bengal,Kolkata,Cyber Crime,33,1059859
+2018,9,West Bengal,Kolkata,Kidnapping,16,698642
+2018,10,West Bengal,Kolkata,Assault,48,616130
+2018,10,West Bengal,Kolkata,Cyber Crime,38,1379868
+2018,10,West Bengal,Kolkata,Kidnapping,16,1303128
+2019,1,Delhi,Dwarka,Burglary,41,586201
+2019,1,Delhi,Dwarka,Fraud,30,1210670
+2019,1,Delhi,Dwarka,Robbery,21,1115869
+2019,2,Delhi,Dwarka,Cyber Crime,30,105831
+2019,2,Delhi,Dwarka,Fraud,41,130396
+2019,2,Delhi,Dwarka,Homicide,56,1066556
+2019,3,Delhi,Dwarka,Assault,29,1468644
+2019,3,Delhi,Dwarka,Burglary,49,1069722
+2019,3,Delhi,Dwarka,Kidnapping,6,1273338
+2019,5,Delhi,Dwarka,Fraud,6,905580
+2019,5,Delhi,Dwarka,Homicide,51,824889
+2019,5,Delhi,Dwarka,Theft,12,420593
+2019,6,Delhi,Dwarka,Assault,28,972053
+2019,6,Delhi,Dwarka,Robbery,56,434345
+2019,6,Delhi,Dwarka,Theft,35,950113
+2019,7,Delhi,Dwarka,Cyber Crime,42,988003
+2019,7,Delhi,Dwarka,Fraud,42,1070951
+2019,7,Delhi,Dwarka,Robbery,68,1219416
+2019,2,Delhi,New Delhi,Burglary,39,1472529
+2019,2,Delhi,New Delhi,Homicide,34,1131355
+2019,2,Delhi,New Delhi,Robbery,36,1007896
+2019,4,Delhi,New Delhi,Burglary,30,363576
+2019,4,Delhi,New Delhi,Fraud,59,1114076
+2019,4,Delhi,New Delhi,Theft,32,1133241
+2019,5,Delhi,New Delhi,Burglary,18,845611
+2019,5,Delhi,New Delhi,Homicide,24,569109
+2019,5,Delhi,New Delhi,Kidnapping,54,953544
+2019,6,Delhi,New Delhi,Assault,14,262971
+2019,6,Delhi,New Delhi,Burglary,34,991356
+2019,6,Delhi,New Delhi,Theft,64,741692
+2019,7,Delhi,New Delhi,Fraud,43,997166
+2019,7,Delhi,New Delhi,Robbery,53,913963
+2019,7,Delhi,New Delhi,Theft,48,1166960
+2019,11,Delhi,New Delhi,Cyber Crime,34,1376035
+2019,11,Delhi,New Delhi,Kidnapping,15,1141611
+2019,11,Delhi,New Delhi,Theft,25,752812
+2019,3,Delhi,Rohini,Burglary,59,138630
+2019,3,Delhi,Rohini,Homicide,28,149329
+2019,3,Delhi,Rohini,Theft,17,735581
+2019,4,Delhi,Rohini,Burglary,9,1354357
+2019,4,Delhi,Rohini,Kidnapping,34,519412
+2019,4,Delhi,Rohini,Robbery,8,549797
+2019,5,Delhi,Rohini,Fraud,26,832132
+2019,5,Delhi,Rohini,Homicide,24,613574
+2019,5,Delhi,Rohini,Theft,10,822389
+2019,6,Delhi,Rohini,Fraud,55,950963
+2019,6,Delhi,Rohini,Robbery,24,1274629
+2019,6,Delhi,Rohini,Theft,14,1065481
+2019,7,Delhi,Rohini,Homicide,54,1322602
+2019,7,Delhi,Rohini,Kidnapping,26,1137764
+2019,7,Delhi,Rohini,Robbery,26,1090206
+2019,9,Delhi,Rohini,Assault,60,1121618
+2019,9,Delhi,Rohini,Homicide,4,1197064
+2019,9,Delhi,Rohini,Robbery,12,1398993
+2019,1,Gujarat,Ahmedabad,Assault,17,272503
+2019,1,Gujarat,Ahmedabad,Burglary,22,1264334
+2019,1,Gujarat,Ahmedabad,Robbery,46,1148902
+2019,3,Gujarat,Ahmedabad,Burglary,4,935071
+2019,3,Gujarat,Ahmedabad,Homicide,10,1358255
+2019,3,Gujarat,Ahmedabad,Kidnapping,40,492259
+2019,4,Gujarat,Ahmedabad,Fraud,47,342274
+2019,4,Gujarat,Ahmedabad,Kidnapping,6,692854
+2019,4,Gujarat,Ahmedabad,Robbery,48,1489548
+2019,5,Gujarat,Ahmedabad,Cyber Crime,26,1466422
+2019,5,Gujarat,Ahmedabad,Homicide,48,1128902
+2019,5,Gujarat,Ahmedabad,Robbery,49,701170
+2019,7,Gujarat,Ahmedabad,Fraud,59,479143
+2019,7,Gujarat,Ahmedabad,Robbery,58,959265
+2019,7,Gujarat,Ahmedabad,Theft,59,1094980
+2019,8,Gujarat,Ahmedabad,Assault,13,1440514
+2019,8,Gujarat,Ahmedabad,Fraud,25,191108
+2019,8,Gujarat,Ahmedabad,Theft,34,335127
+2019,1,Gujarat,Surat,Cyber Crime,28,804715
+2019,1,Gujarat,Surat,Fraud,15,1023306
+2019,1,Gujarat,Surat,Kidnapping,19,350156
+2019,2,Gujarat,Surat,Assault,10,801652
+2019,2,Gujarat,Surat,Fraud,37,886330
+2019,2,Gujarat,Surat,Kidnapping,47,834145
+2019,6,Gujarat,Surat,Assault,6,1473965
+2019,6,Gujarat,Surat,Cyber Crime,50,1162971
+2019,6,Gujarat,Surat,Homicide,7,254634
+2019,7,Gujarat,Surat,Fraud,14,160022
+2019,7,Gujarat,Surat,Homicide,26,1222719
+2019,7,Gujarat,Surat,Kidnapping,19,400400
+2019,10,Gujarat,Surat,Assault,31,452620
+2019,10,Gujarat,Surat,Fraud,35,1221903
+2019,10,Gujarat,Surat,Kidnapping,43,493757
+2019,12,Gujarat,Surat,Cyber Crime,21,782188
+2019,12,Gujarat,Surat,Homicide,11,279612
+2019,12,Gujarat,Surat,Robbery,48,1012241
+2019,1,Gujarat,Vadodara,Homicide,19,278832
+2019,1,Gujarat,Vadodara,Kidnapping,34,718521
+2019,1,Gujarat,Vadodara,Theft,62,611044
+2019,2,Gujarat,Vadodara,Burglary,57,783156
+2019,2,Gujarat,Vadodara,Cyber Crime,31,686037
+2019,2,Gujarat,Vadodara,Homicide,40,198850
+2019,4,Gujarat,Vadodara,Assault,17,134856
+2019,4,Gujarat,Vadodara,Homicide,63,1285547
+2019,4,Gujarat,Vadodara,Kidnapping,69,159596
+2019,7,Gujarat,Vadodara,Cyber Crime,34,1445101
+2019,7,Gujarat,Vadodara,Kidnapping,55,768542
+2019,7,Gujarat,Vadodara,Theft,26,1092748
+2019,9,Gujarat,Vadodara,Burglary,50,1266401
+2019,9,Gujarat,Vadodara,Cyber Crime,25,385767
+2019,9,Gujarat,Vadodara,Theft,51,821646
+2019,11,Gujarat,Vadodara,Homicide,45,1326572
+2019,11,Gujarat,Vadodara,Kidnapping,22,737367
+2019,11,Gujarat,Vadodara,Theft,49,1320678
+2019,1,Karnataka,Bengaluru,Assault,12,214483
+2019,1,Karnataka,Bengaluru,Homicide,36,850668
+2019,1,Karnataka,Bengaluru,Kidnapping,36,1172638
+2019,6,Karnataka,Bengaluru,Cyber Crime,10,1327416
+2019,6,Karnataka,Bengaluru,Fraud,54,305522
+2019,6,Karnataka,Bengaluru,Robbery,20,520542
+2019,8,Karnataka,Bengaluru,Cyber Crime,37,680488
+2019,8,Karnataka,Bengaluru,Homicide,15,1151068
+2019,8,Karnataka,Bengaluru,Kidnapping,34,330822
+2019,9,Karnataka,Bengaluru,Cyber Crime,42,516595
+2019,9,Karnataka,Bengaluru,Fraud,37,464271
+2019,9,Karnataka,Bengaluru,Robbery,6,1117555
+2019,10,Karnataka,Bengaluru,Homicide,20,273070
+2019,10,Karnataka,Bengaluru,Kidnapping,45,707661
+2019,10,Karnataka,Bengaluru,Theft,33,180513
+2019,11,Karnataka,Bengaluru,Fraud,22,1417924
+2019,11,Karnataka,Bengaluru,Robbery,41,322553
+2019,11,Karnataka,Bengaluru,Theft,50,728171
+2019,3,Karnataka,Mangaluru,Cyber Crime,41,801125
+2019,3,Karnataka,Mangaluru,Fraud,9,244228
+2019,3,Karnataka,Mangaluru,Kidnapping,28,967488
+2019,4,Karnataka,Mangaluru,Assault,37,879992
+2019,4,Karnataka,Mangaluru,Burglary,5,1340078
+2019,4,Karnataka,Mangaluru,Kidnapping,44,741342
+2019,6,Karnataka,Mangaluru,Cyber Crime,14,362676
+2019,6,Karnataka,Mangaluru,Kidnapping,51,905466
+2019,6,Karnataka,Mangaluru,Theft,56,1385448
+2019,9,Karnataka,Mangaluru,Assault,7,1296941
+2019,9,Karnataka,Mangaluru,Fraud,59,106113
+2019,9,Karnataka,Mangaluru,Homicide,31,1274900
+2019,10,Karnataka,Mangaluru,Burglary,9,946608
+2019,10,Karnataka,Mangaluru,Cyber Crime,7,967172
+2019,10,Karnataka,Mangaluru,Kidnapping,53,1475206
+2019,12,Karnataka,Mangaluru,Assault,15,825308
+2019,12,Karnataka,Mangaluru,Homicide,64,223862
+2019,12,Karnataka,Mangaluru,Robbery,18,446486
+2019,2,Karnataka,Mysuru,Burglary,48,1094297
+2019,2,Karnataka,Mysuru,Fraud,60,128824
+2019,2,Karnataka,Mysuru,Homicide,74,1428607
+2019,5,Karnataka,Mysuru,Cyber Crime,43,401085
+2019,5,Karnataka,Mysuru,Kidnapping,58,1111464
+2019,5,Karnataka,Mysuru,Theft,6,220743
+2019,7,Karnataka,Mysuru,Cyber Crime,26,241734
+2019,7,Karnataka,Mysuru,Fraud,41,513396
+2019,7,Karnataka,Mysuru,Theft,72,330866
+2019,8,Karnataka,Mysuru,Burglary,35,374887
+2019,8,Karnataka,Mysuru,Cyber Crime,35,1032902
+2019,8,Karnataka,Mysuru,Theft,51,156569
+2019,11,Karnataka,Mysuru,Cyber Crime,51,804556
+2019,11,Karnataka,Mysuru,Fraud,23,825347
+2019,11,Karnataka,Mysuru,Robbery,16,895773
+2019,12,Karnataka,Mysuru,Assault,42,396586
+2019,12,Karnataka,Mysuru,Homicide,28,325410
+2019,12,Karnataka,Mysuru,Robbery,47,318987
+2019,4,Kerala,Kochi,Assault,33,243949
+2019,4,Kerala,Kochi,Burglary,81,1009076
+2019,4,Kerala,Kochi,Robbery,9,1171359
+2019,5,Kerala,Kochi,Assault,9,533405
+2019,5,Kerala,Kochi,Kidnapping,10,829438
+2019,5,Kerala,Kochi,Theft,7,343101
+2019,8,Kerala,Kochi,Cyber Crime,69,974842
+2019,8,Kerala,Kochi,Homicide,11,1217347
+2019,8,Kerala,Kochi,Theft,13,1320560
+2019,9,Kerala,Kochi,Assault,70,233819
+2019,9,Kerala,Kochi,Cyber Crime,64,1431090
+2019,9,Kerala,Kochi,Theft,39,954279
+2019,10,Kerala,Kochi,Cyber Crime,20,180304
+2019,10,Kerala,Kochi,Fraud,7,515464
+2019,10,Kerala,Kochi,Kidnapping,54,1243952
+2019,11,Kerala,Kochi,Burglary,20,242953
+2019,11,Kerala,Kochi,Homicide,17,690941
+2019,11,Kerala,Kochi,Kidnapping,72,1297721
+2019,2,Kerala,Kozhikode,Assault,5,1218882
+2019,2,Kerala,Kozhikode,Fraud,50,575562
+2019,2,Kerala,Kozhikode,Theft,39,1284838
+2019,3,Kerala,Kozhikode,Assault,11,427033
+2019,3,Kerala,Kozhikode,Cyber Crime,54,1385943
+2019,3,Kerala,Kozhikode,Kidnapping,59,533149
+2019,4,Kerala,Kozhikode,Assault,12,569751
+2019,4,Kerala,Kozhikode,Fraud,48,823207
+2019,4,Kerala,Kozhikode,Robbery,40,1278514
+2019,8,Kerala,Kozhikode,Burglary,54,1272420
+2019,8,Kerala,Kozhikode,Robbery,34,167891
+2019,8,Kerala,Kozhikode,Theft,21,366766
+2019,9,Kerala,Kozhikode,Fraud,9,106309
+2019,9,Kerala,Kozhikode,Kidnapping,20,1164704
+2019,9,Kerala,Kozhikode,Robbery,48,218043
+2019,11,Kerala,Kozhikode,Kidnapping,49,1215091
+2019,11,Kerala,Kozhikode,Robbery,45,1016053
+2019,11,Kerala,Kozhikode,Theft,51,848584
+2019,2,Kerala,Thiruvananthapuram,Fraud,6,160144
+2019,2,Kerala,Thiruvananthapuram,Homicide,62,1077942
+2019,2,Kerala,Thiruvananthapuram,Robbery,23,1331406
+2019,3,Kerala,Thiruvananthapuram,Fraud,34,610542
+2019,3,Kerala,Thiruvananthapuram,Homicide,55,279231
+2019,3,Kerala,Thiruvananthapuram,Robbery,49,1465758
+2019,5,Kerala,Thiruvananthapuram,Fraud,50,1490389
+2019,5,Kerala,Thiruvananthapuram,Homicide,50,1336975
+2019,5,Kerala,Thiruvananthapuram,Theft,7,1158261
+2019,6,Kerala,Thiruvananthapuram,Burglary,64,1036228
+2019,6,Kerala,Thiruvananthapuram,Cyber Crime,60,817172
+2019,6,Kerala,Thiruvananthapuram,Homicide,34,1444718
+2019,8,Kerala,Thiruvananthapuram,Assault,37,552715
+2019,8,Kerala,Thiruvananthapuram,Kidnapping,48,573325
+2019,8,Kerala,Thiruvananthapuram,Theft,75,1296015
+2019,12,Kerala,Thiruvananthapuram,Burglary,27,1043637
+2019,12,Kerala,Thiruvananthapuram,Cyber Crime,73,360783
+2019,12,Kerala,Thiruvananthapuram,Homicide,29,1147751
+2019,2,Maharashtra,Mumbai,Homicide,26,987744
+2019,2,Maharashtra,Mumbai,Kidnapping,13,1300847
+2019,2,Maharashtra,Mumbai,Theft,43,357789
+2019,3,Maharashtra,Mumbai,Assault,19,1259277
+2019,3,Maharashtra,Mumbai,Cyber Crime,16,930621
+2019,3,Maharashtra,Mumbai,Fraud,31,476126
+2019,5,Maharashtra,Mumbai,Assault,46,173690
+2019,5,Maharashtra,Mumbai,Homicide,73,862733
+2019,5,Maharashtra,Mumbai,Theft,31,1307859
+2019,8,Maharashtra,Mumbai,Assault,7,869928
+2019,8,Maharashtra,Mumbai,Burglary,34,792816
+2019,8,Maharashtra,Mumbai,Homicide,62,1476360
+2019,10,Maharashtra,Mumbai,Fraud,23,1184188
+2019,10,Maharashtra,Mumbai,Homicide,43,429874
+2019,10,Maharashtra,Mumbai,Kidnapping,54,503260
+2019,12,Maharashtra,Mumbai,Burglary,21,1198540
+2019,12,Maharashtra,Mumbai,Kidnapping,15,610478
+2019,12,Maharashtra,Mumbai,Robbery,17,537101
+2019,1,Maharashtra,Nashik,Assault,33,172300
+2019,1,Maharashtra,Nashik,Homicide,52,1155567
+2019,1,Maharashtra,Nashik,Kidnapping,42,1021269
+2019,3,Maharashtra,Nashik,Burglary,29,206528
+2019,3,Maharashtra,Nashik,Cyber Crime,57,636817
+2019,3,Maharashtra,Nashik,Fraud,7,205087
+2019,5,Maharashtra,Nashik,Assault,5,717029
+2019,5,Maharashtra,Nashik,Homicide,13,1025473
+2019,5,Maharashtra,Nashik,Theft,64,535885
+2019,6,Maharashtra,Nashik,Cyber Crime,34,871941
+2019,6,Maharashtra,Nashik,Kidnapping,59,393516
+2019,6,Maharashtra,Nashik,Theft,65,1324905
+2019,9,Maharashtra,Nashik,Assault,5,846040
+2019,9,Maharashtra,Nashik,Cyber Crime,52,1146932
+2019,9,Maharashtra,Nashik,Theft,61,348867
+2019,11,Maharashtra,Nashik,Assault,28,755268
+2019,11,Maharashtra,Nashik,Kidnapping,50,582561
+2019,11,Maharashtra,Nashik,Robbery,62,479967
+2019,1,Maharashtra,Pune,Kidnapping,68,789088
+2019,1,Maharashtra,Pune,Robbery,31,567551
+2019,1,Maharashtra,Pune,Theft,34,598046
+2019,3,Maharashtra,Pune,Homicide,22,392514
+2019,3,Maharashtra,Pune,Kidnapping,45,396704
+2019,3,Maharashtra,Pune,Theft,55,1312552
+2019,4,Maharashtra,Pune,Assault,35,156140
+2019,4,Maharashtra,Pune,Cyber Crime,1,396636
+2019,4,Maharashtra,Pune,Kidnapping,41,1052456
+2019,6,Maharashtra,Pune,Cyber Crime,58,304819
+2019,6,Maharashtra,Pune,Fraud,4,1224241
+2019,6,Maharashtra,Pune,Theft,31,1318846
+2019,8,Maharashtra,Pune,Burglary,12,910623
+2019,8,Maharashtra,Pune,Cyber Crime,62,1092324
+2019,8,Maharashtra,Pune,Fraud,29,1470916
+2019,9,Maharashtra,Pune,Assault,13,1220934
+2019,9,Maharashtra,Pune,Burglary,53,1002643
+2019,9,Maharashtra,Pune,Cyber Crime,32,1158436
+2019,4,Rajasthan,Jaipur,Cyber Crime,61,323353
+2019,4,Rajasthan,Jaipur,Fraud,48,1473412
+2019,4,Rajasthan,Jaipur,Theft,52,1372143
+2019,5,Rajasthan,Jaipur,Homicide,20,280042
+2019,5,Rajasthan,Jaipur,Robbery,7,1295613
+2019,5,Rajasthan,Jaipur,Theft,27,1036289
+2019,6,Rajasthan,Jaipur,Burglary,71,458078
+2019,6,Rajasthan,Jaipur,Fraud,23,172041
+2019,6,Rajasthan,Jaipur,Theft,63,736596
+2019,7,Rajasthan,Jaipur,Assault,5,487399
+2019,7,Rajasthan,Jaipur,Fraud,16,1458797
+2019,7,Rajasthan,Jaipur,Kidnapping,20,384042
+2019,8,Rajasthan,Jaipur,Burglary,21,1050534
+2019,8,Rajasthan,Jaipur,Cyber Crime,66,557279
+2019,8,Rajasthan,Jaipur,Robbery,44,1085556
+2019,12,Rajasthan,Jaipur,Fraud,19,643958
+2019,12,Rajasthan,Jaipur,Homicide,56,1049870
+2019,12,Rajasthan,Jaipur,Theft,61,540498
+2019,2,Rajasthan,Jodhpur,Cyber Crime,45,110334
+2019,2,Rajasthan,Jodhpur,Fraud,16,389738
+2019,2,Rajasthan,Jodhpur,Homicide,53,199678
+2019,3,Rajasthan,Jodhpur,Assault,7,534573
+2019,3,Rajasthan,Jodhpur,Kidnapping,22,499878
+2019,3,Rajasthan,Jodhpur,Robbery,31,1299105
+2019,5,Rajasthan,Jodhpur,Cyber Crime,9,1489580
+2019,5,Rajasthan,Jodhpur,Homicide,33,234931
+2019,5,Rajasthan,Jodhpur,Robbery,61,1338648
+2019,9,Rajasthan,Jodhpur,Assault,46,293383
+2019,9,Rajasthan,Jodhpur,Homicide,61,321264
+2019,9,Rajasthan,Jodhpur,Kidnapping,25,977529
+2019,10,Rajasthan,Jodhpur,Assault,56,163869
+2019,10,Rajasthan,Jodhpur,Burglary,27,657896
+2019,10,Rajasthan,Jodhpur,Fraud,48,130767
+2019,12,Rajasthan,Jodhpur,Burglary,24,313555
+2019,12,Rajasthan,Jodhpur,Fraud,18,1153031
+2019,12,Rajasthan,Jodhpur,Robbery,55,390126
+2019,2,Rajasthan,Udaipur,Homicide,21,122371
+2019,2,Rajasthan,Udaipur,Kidnapping,24,1071160
+2019,2,Rajasthan,Udaipur,Theft,34,1283259
+2019,3,Rajasthan,Udaipur,Cyber Crime,29,865118
+2019,3,Rajasthan,Udaipur,Kidnapping,43,749058
+2019,3,Rajasthan,Udaipur,Robbery,27,1368395
+2019,7,Rajasthan,Udaipur,Assault,49,1473273
+2019,7,Rajasthan,Udaipur,Homicide,5,1036317
+2019,7,Rajasthan,Udaipur,Theft,38,716574
+2019,10,Rajasthan,Udaipur,Burglary,8,436328
+2019,10,Rajasthan,Udaipur,Cyber Crime,25,814284
+2019,10,Rajasthan,Udaipur,Robbery,60,1110114
+2019,11,Rajasthan,Udaipur,Assault,33,469143
+2019,11,Rajasthan,Udaipur,Burglary,30,941012
+2019,11,Rajasthan,Udaipur,Fraud,12,706133
+2019,12,Rajasthan,Udaipur,Cyber Crime,31,1363992
+2019,12,Rajasthan,Udaipur,Homicide,37,997003
+2019,12,Rajasthan,Udaipur,Theft,21,636926
+2019,1,Tamil Nadu,Coimbatore,Cyber Crime,63,1457026
+2019,1,Tamil Nadu,Coimbatore,Homicide,61,543436
+2019,1,Tamil Nadu,Coimbatore,Theft,56,366689
+2019,4,Tamil Nadu,Coimbatore,Burglary,38,921187
+2019,4,Tamil Nadu,Coimbatore,Kidnapping,33,1135603
+2019,4,Tamil Nadu,Coimbatore,Theft,29,925966
+2019,5,Tamil Nadu,Coimbatore,Homicide,17,984359
+2019,5,Tamil Nadu,Coimbatore,Kidnapping,52,1431544
+2019,5,Tamil Nadu,Coimbatore,Robbery,59,1062989
+2019,8,Tamil Nadu,Coimbatore,Assault,65,1355558
+2019,8,Tamil Nadu,Coimbatore,Burglary,52,952009
+2019,8,Tamil Nadu,Coimbatore,Kidnapping,62,1289898
+2019,9,Tamil Nadu,Coimbatore,Assault,55,426287
+2019,9,Tamil Nadu,Coimbatore,Kidnapping,18,1485804
+2019,9,Tamil Nadu,Coimbatore,Theft,34,411065
+2019,10,Tamil Nadu,Coimbatore,Assault,60,1166796
+2019,10,Tamil Nadu,Coimbatore,Cyber Crime,29,803486
+2019,10,Tamil Nadu,Coimbatore,Theft,23,413809
+2019,4,Tamil Nadu,Madurai,Assault,64,1140378
+2019,4,Tamil Nadu,Madurai,Fraud,55,409421
+2019,4,Tamil Nadu,Madurai,Homicide,46,797104
+2019,5,Tamil Nadu,Madurai,Burglary,22,152771
+2019,5,Tamil Nadu,Madurai,Robbery,69,1265845
+2019,5,Tamil Nadu,Madurai,Theft,62,1192685
+2019,8,Tamil Nadu,Madurai,Cyber Crime,49,781222
+2019,8,Tamil Nadu,Madurai,Fraud,39,350885
+2019,8,Tamil Nadu,Madurai,Homicide,17,396633
+2019,9,Tamil Nadu,Madurai,Cyber Crime,17,1424257
+2019,9,Tamil Nadu,Madurai,Kidnapping,34,731105
+2019,9,Tamil Nadu,Madurai,Theft,54,1132150
+2019,10,Tamil Nadu,Madurai,Cyber Crime,61,367298
+2019,10,Tamil Nadu,Madurai,Kidnapping,36,291491
+2019,10,Tamil Nadu,Madurai,Theft,69,139291
+2019,12,Tamil Nadu,Madurai,Burglary,47,987576
+2019,12,Tamil Nadu,Madurai,Fraud,37,264983
+2019,12,Tamil Nadu,Madurai,Theft,15,1341990
+2019,2,Tamil Nadu,Tiruchirappalli,Burglary,44,1011082
+2019,2,Tamil Nadu,Tiruchirappalli,Homicide,8,1028669
+2019,2,Tamil Nadu,Tiruchirappalli,Theft,46,1434771
+2019,3,Tamil Nadu,Tiruchirappalli,Burglary,68,905431
+2019,3,Tamil Nadu,Tiruchirappalli,Homicide,32,920946
+2019,3,Tamil Nadu,Tiruchirappalli,Kidnapping,74,1069721
+2019,5,Tamil Nadu,Tiruchirappalli,Fraud,36,1168511
+2019,5,Tamil Nadu,Tiruchirappalli,Homicide,48,495383
+2019,5,Tamil Nadu,Tiruchirappalli,Kidnapping,11,776559
+2019,6,Tamil Nadu,Tiruchirappalli,Assault,14,1078278
+2019,6,Tamil Nadu,Tiruchirappalli,Burglary,63,360226
+2019,6,Tamil Nadu,Tiruchirappalli,Theft,38,549548
+2019,7,Tamil Nadu,Tiruchirappalli,Assault,86,655391
+2019,7,Tamil Nadu,Tiruchirappalli,Cyber Crime,25,647576
+2019,7,Tamil Nadu,Tiruchirappalli,Kidnapping,10,830916
+2019,8,Tamil Nadu,Tiruchirappalli,Cyber Crime,40,958349
+2019,8,Tamil Nadu,Tiruchirappalli,Fraud,7,1264062
+2019,8,Tamil Nadu,Tiruchirappalli,Theft,10,118058
+2019,2,Telangana,Hyderabad,Burglary,63,161872
+2019,2,Telangana,Hyderabad,Fraud,42,1266414
+2019,2,Telangana,Hyderabad,Robbery,44,869480
+2019,3,Telangana,Hyderabad,Cyber Crime,35,1075148
+2019,3,Telangana,Hyderabad,Kidnapping,50,1450139
+2019,3,Telangana,Hyderabad,Theft,73,1248470
+2019,4,Telangana,Hyderabad,Homicide,44,1485336
+2019,4,Telangana,Hyderabad,Kidnapping,7,1482159
+2019,4,Telangana,Hyderabad,Robbery,47,898739
+2019,5,Telangana,Hyderabad,Kidnapping,2,267227
+2019,5,Telangana,Hyderabad,Robbery,62,500380
+2019,5,Telangana,Hyderabad,Theft,10,1355091
+2019,8,Telangana,Hyderabad,Fraud,41,399032
+2019,8,Telangana,Hyderabad,Kidnapping,32,1130487
+2019,8,Telangana,Hyderabad,Robbery,10,1343750
+2019,10,Telangana,Hyderabad,Burglary,46,504475
+2019,10,Telangana,Hyderabad,Robbery,6,593857
+2019,10,Telangana,Hyderabad,Theft,39,567447
+2019,3,Telangana,Karimnagar,Assault,50,809113
+2019,3,Telangana,Karimnagar,Burglary,47,832564
+2019,3,Telangana,Karimnagar,Kidnapping,46,910140
+2019,6,Telangana,Karimnagar,Burglary,60,536201
+2019,6,Telangana,Karimnagar,Cyber Crime,50,1322595
+2019,6,Telangana,Karimnagar,Theft,46,158800
+2019,7,Telangana,Karimnagar,Cyber Crime,44,762722
+2019,7,Telangana,Karimnagar,Fraud,13,1206908
+2019,7,Telangana,Karimnagar,Kidnapping,42,747420
+2019,8,Telangana,Karimnagar,Burglary,61,927210
+2019,8,Telangana,Karimnagar,Kidnapping,60,381399
+2019,8,Telangana,Karimnagar,Robbery,56,836828
+2019,10,Telangana,Karimnagar,Assault,55,1089833
+2019,10,Telangana,Karimnagar,Burglary,26,476098
+2019,10,Telangana,Karimnagar,Theft,71,320767
+2019,12,Telangana,Karimnagar,Burglary,64,1415642
+2019,12,Telangana,Karimnagar,Homicide,23,781546
+2019,12,Telangana,Karimnagar,Kidnapping,3,1354408
+2019,3,Telangana,Warangal,Burglary,29,163233
+2019,3,Telangana,Warangal,Cyber Crime,69,1096153
+2019,3,Telangana,Warangal,Homicide,31,1451495
+2019,5,Telangana,Warangal,Cyber Crime,50,384416
+2019,5,Telangana,Warangal,Robbery,10,159548
+2019,5,Telangana,Warangal,Theft,34,677895
+2019,6,Telangana,Warangal,Burglary,17,744187
+2019,6,Telangana,Warangal,Robbery,34,524696
+2019,6,Telangana,Warangal,Theft,12,1263889
+2019,7,Telangana,Warangal,Assault,14,699086
+2019,7,Telangana,Warangal,Homicide,6,1418150
+2019,7,Telangana,Warangal,Robbery,67,1034094
+2019,9,Telangana,Warangal,Assault,57,358520
+2019,9,Telangana,Warangal,Fraud,28,945126
+2019,9,Telangana,Warangal,Robbery,8,1223640
+2019,11,Telangana,Warangal,Assault,30,1231534
+2019,11,Telangana,Warangal,Robbery,35,1197277
+2019,11,Telangana,Warangal,Theft,9,1371207
+2019,1,Uttar Pradesh,Kanpur,Assault,52,1404778
+2019,1,Uttar Pradesh,Kanpur,Homicide,33,879866
+2019,1,Uttar Pradesh,Kanpur,Theft,33,1016783
+2019,2,Uttar Pradesh,Kanpur,Assault,33,1185416
+2019,2,Uttar Pradesh,Kanpur,Burglary,30,1008765
+2019,2,Uttar Pradesh,Kanpur,Homicide,43,1377101
+2019,3,Uttar Pradesh,Kanpur,Burglary,50,936100
+2019,3,Uttar Pradesh,Kanpur,Kidnapping,46,1287101
+2019,3,Uttar Pradesh,Kanpur,Robbery,28,527941
+2019,7,Uttar Pradesh,Kanpur,Burglary,54,202539
+2019,7,Uttar Pradesh,Kanpur,Kidnapping,9,244854
+2019,7,Uttar Pradesh,Kanpur,Theft,24,804996
+2019,8,Uttar Pradesh,Kanpur,Cyber Crime,30,1407744
+2019,8,Uttar Pradesh,Kanpur,Kidnapping,26,1050079
+2019,8,Uttar Pradesh,Kanpur,Robbery,27,1399502
+2019,12,Uttar Pradesh,Kanpur,Assault,36,523752
+2019,12,Uttar Pradesh,Kanpur,Homicide,55,547267
+2019,12,Uttar Pradesh,Kanpur,Robbery,39,746995
+2019,1,Uttar Pradesh,Lucknow,Assault,52,954653
+2019,1,Uttar Pradesh,Lucknow,Fraud,57,1027642
+2019,1,Uttar Pradesh,Lucknow,Theft,37,530890
+2019,3,Uttar Pradesh,Lucknow,Assault,27,271865
+2019,3,Uttar Pradesh,Lucknow,Burglary,6,1274476
+2019,3,Uttar Pradesh,Lucknow,Homicide,20,527745
+2019,6,Uttar Pradesh,Lucknow,Assault,39,162238
+2019,6,Uttar Pradesh,Lucknow,Homicide,5,1415287
+2019,6,Uttar Pradesh,Lucknow,Robbery,21,1216329
+2019,10,Uttar Pradesh,Lucknow,Assault,28,216770
+2019,10,Uttar Pradesh,Lucknow,Fraud,23,682016
+2019,10,Uttar Pradesh,Lucknow,Theft,23,1186970
+2019,11,Uttar Pradesh,Lucknow,Burglary,57,1448445
+2019,11,Uttar Pradesh,Lucknow,Fraud,24,1348983
+2019,11,Uttar Pradesh,Lucknow,Theft,29,957636
+2019,12,Uttar Pradesh,Lucknow,Assault,46,1430248
+2019,12,Uttar Pradesh,Lucknow,Cyber Crime,61,126835
+2019,12,Uttar Pradesh,Lucknow,Theft,11,1446245
+2019,2,Uttar Pradesh,Noida,Cyber Crime,36,1113557
+2019,2,Uttar Pradesh,Noida,Robbery,23,379833
+2019,2,Uttar Pradesh,Noida,Theft,25,1348604
+2019,4,Uttar Pradesh,Noida,Cyber Crime,29,750395
+2019,4,Uttar Pradesh,Noida,Fraud,64,639137
+2019,4,Uttar Pradesh,Noida,Homicide,51,196243
+2019,5,Uttar Pradesh,Noida,Cyber Crime,31,120740
+2019,5,Uttar Pradesh,Noida,Fraud,43,1483658
+2019,5,Uttar Pradesh,Noida,Robbery,50,685365
+2019,6,Uttar Pradesh,Noida,Cyber Crime,49,969904
+2019,6,Uttar Pradesh,Noida,Robbery,62,1464564
+2019,6,Uttar Pradesh,Noida,Theft,17,1166017
+2019,11,Uttar Pradesh,Noida,Burglary,36,642392
+2019,11,Uttar Pradesh,Noida,Fraud,63,878438
+2019,11,Uttar Pradesh,Noida,Homicide,51,529691
+2019,12,Uttar Pradesh,Noida,Fraud,34,1452687
+2019,12,Uttar Pradesh,Noida,Homicide,54,325501
+2019,12,Uttar Pradesh,Noida,Theft,45,214032
+2019,3,West Bengal,Durgapur,Burglary,74,605794
+2019,3,West Bengal,Durgapur,Fraud,52,796991
+2019,3,West Bengal,Durgapur,Kidnapping,4,1212968
+2019,4,West Bengal,Durgapur,Homicide,25,501116
+2019,4,West Bengal,Durgapur,Robbery,39,640170
+2019,4,West Bengal,Durgapur,Theft,8,404615
+2019,5,West Bengal,Durgapur,Burglary,28,1075423
+2019,5,West Bengal,Durgapur,Cyber Crime,28,162790
+2019,5,West Bengal,Durgapur,Homicide,27,560350
+2019,7,West Bengal,Durgapur,Cyber Crime,12,788450
+2019,7,West Bengal,Durgapur,Robbery,58,1456315
+2019,7,West Bengal,Durgapur,Theft,13,443927
+2019,9,West Bengal,Durgapur,Burglary,66,1347648
+2019,9,West Bengal,Durgapur,Kidnapping,32,1119120
+2019,9,West Bengal,Durgapur,Robbery,60,890065
+2019,10,West Bengal,Durgapur,Assault,42,1042981
+2019,10,West Bengal,Durgapur,Burglary,49,702213
+2019,10,West Bengal,Durgapur,Theft,14,278026
+2019,2,West Bengal,Howrah,Burglary,29,902894
+2019,2,West Bengal,Howrah,Cyber Crime,51,167009
+2019,2,West Bengal,Howrah,Kidnapping,17,337475
+2019,5,West Bengal,Howrah,Assault,24,991835
+2019,5,West Bengal,Howrah,Homicide,20,1198956
+2019,5,West Bengal,Howrah,Kidnapping,8,333562
+2019,7,West Bengal,Howrah,Burglary,48,709590
+2019,7,West Bengal,Howrah,Fraud,41,1121451
+2019,7,West Bengal,Howrah,Theft,48,1229622
+2019,8,West Bengal,Howrah,Burglary,23,830740
+2019,8,West Bengal,Howrah,Fraud,61,820199
+2019,8,West Bengal,Howrah,Robbery,68,268605
+2019,10,West Bengal,Howrah,Fraud,33,768612
+2019,10,West Bengal,Howrah,Kidnapping,12,700671
+2019,10,West Bengal,Howrah,Robbery,49,789415
+2019,11,West Bengal,Howrah,Burglary,63,426262
+2019,11,West Bengal,Howrah,Fraud,26,305446
+2019,11,West Bengal,Howrah,Theft,50,951060
+2019,1,West Bengal,Kolkata,Burglary,8,1478988
+2019,1,West Bengal,Kolkata,Homicide,15,1439131
+2019,1,West Bengal,Kolkata,Kidnapping,41,1087043
+2019,4,West Bengal,Kolkata,Cyber Crime,25,1299340
+2019,4,West Bengal,Kolkata,Homicide,63,478297
+2019,4,West Bengal,Kolkata,Robbery,45,477077
+2019,7,West Bengal,Kolkata,Assault,45,463326
+2019,7,West Bengal,Kolkata,Fraud,50,1095817
+2019,7,West Bengal,Kolkata,Robbery,28,952155
+2019,8,West Bengal,Kolkata,Assault,72,1272019
+2019,8,West Bengal,Kolkata,Burglary,52,666377
+2019,8,West Bengal,Kolkata,Robbery,45,988342
+2019,9,West Bengal,Kolkata,Burglary,41,1136780
+2019,9,West Bengal,Kolkata,Cyber Crime,68,762077
+2019,9,West Bengal,Kolkata,Homicide,21,1471276
+2019,12,West Bengal,Kolkata,Kidnapping,37,1091306
+2019,12,West Bengal,Kolkata,Robbery,17,672037
+2019,12,West Bengal,Kolkata,Theft,62,1478823
+2020,1,Delhi,Dwarka,Cyber Crime,26,655805
+2020,1,Delhi,Dwarka,Homicide,82,316491
+2020,1,Delhi,Dwarka,Theft,7,975876
+2020,2,Delhi,Dwarka,Assault,8,504148
+2020,2,Delhi,Dwarka,Fraud,39,904092
+2020,2,Delhi,Dwarka,Homicide,8,620553
+2020,3,Delhi,Dwarka,Assault,23,1224810
+2020,3,Delhi,Dwarka,Robbery,2,1129228
+2020,3,Delhi,Dwarka,Theft,71,357859
+2020,5,Delhi,Dwarka,Cyber Crime,17,916872
+2020,5,Delhi,Dwarka,Homicide,57,1231325
+2020,5,Delhi,Dwarka,Kidnapping,15,715497
+2020,8,Delhi,Dwarka,Burglary,20,1121991
+2020,8,Delhi,Dwarka,Cyber Crime,7,883461
+2020,8,Delhi,Dwarka,Fraud,29,119745
+2020,12,Delhi,Dwarka,Assault,13,1083092
+2020,12,Delhi,Dwarka,Burglary,46,846948
+2020,12,Delhi,Dwarka,Robbery,64,136808
+2020,2,Delhi,New Delhi,Burglary,73,684086
+2020,2,Delhi,New Delhi,Kidnapping,48,715979
+2020,2,Delhi,New Delhi,Robbery,45,500239
+2020,3,Delhi,New Delhi,Assault,16,490614
+2020,3,Delhi,New Delhi,Burglary,46,718542
+2020,3,Delhi,New Delhi,Cyber Crime,8,1463219
+2020,6,Delhi,New Delhi,Cyber Crime,62,567156
+2020,6,Delhi,New Delhi,Robbery,32,1197863
+2020,6,Delhi,New Delhi,Theft,73,356670
+2020,8,Delhi,New Delhi,Cyber Crime,30,498297
+2020,8,Delhi,New Delhi,Robbery,52,514773
+2020,8,Delhi,New Delhi,Theft,46,1286318
+2020,9,Delhi,New Delhi,Homicide,62,449573
+2020,9,Delhi,New Delhi,Kidnapping,58,1056590
+2020,9,Delhi,New Delhi,Theft,57,629390
+2020,11,Delhi,New Delhi,Assault,16,1424916
+2020,11,Delhi,New Delhi,Kidnapping,36,1292443
+2020,11,Delhi,New Delhi,Theft,33,1183762
+2020,1,Delhi,Rohini,Assault,14,483124
+2020,1,Delhi,Rohini,Kidnapping,48,339977
+2020,1,Delhi,Rohini,Robbery,53,670669
+2020,2,Delhi,Rohini,Homicide,27,1486440
+2020,2,Delhi,Rohini,Kidnapping,19,156393
+2020,2,Delhi,Rohini,Theft,53,1211937
+2020,3,Delhi,Rohini,Homicide,5,1082137
+2020,3,Delhi,Rohini,Kidnapping,7,873704
+2020,3,Delhi,Rohini,Robbery,67,581624
+2020,4,Delhi,Rohini,Fraud,14,356983
+2020,4,Delhi,Rohini,Homicide,48,1082081
+2020,4,Delhi,Rohini,Theft,50,580110
+2020,7,Delhi,Rohini,Fraud,17,939984
+2020,7,Delhi,Rohini,Kidnapping,46,314886
+2020,7,Delhi,Rohini,Robbery,54,591326
+2020,10,Delhi,Rohini,Cyber Crime,10,744039
+2020,10,Delhi,Rohini,Fraud,46,574174
+2020,10,Delhi,Rohini,Homicide,64,1094644
+2020,3,Gujarat,Ahmedabad,Cyber Crime,49,865884
+2020,3,Gujarat,Ahmedabad,Kidnapping,20,822405
+2020,3,Gujarat,Ahmedabad,Robbery,41,1098389
+2020,4,Gujarat,Ahmedabad,Assault,25,298321
+2020,4,Gujarat,Ahmedabad,Burglary,64,989047
+2020,4,Gujarat,Ahmedabad,Kidnapping,8,326366
+2020,5,Gujarat,Ahmedabad,Homicide,32,1208741
+2020,5,Gujarat,Ahmedabad,Kidnapping,11,689297
+2020,5,Gujarat,Ahmedabad,Theft,56,879642
+2020,9,Gujarat,Ahmedabad,Cyber Crime,29,1274327
+2020,9,Gujarat,Ahmedabad,Homicide,49,874186
+2020,9,Gujarat,Ahmedabad,Theft,42,1014455
+2020,10,Gujarat,Ahmedabad,Burglary,71,1391787
+2020,10,Gujarat,Ahmedabad,Kidnapping,57,1365075
+2020,10,Gujarat,Ahmedabad,Theft,47,314561
+2020,11,Gujarat,Ahmedabad,Burglary,30,1148069
+2020,11,Gujarat,Ahmedabad,Homicide,35,1296699
+2020,11,Gujarat,Ahmedabad,Kidnapping,16,1486733
+2020,1,Gujarat,Surat,Assault,15,784418
+2020,1,Gujarat,Surat,Burglary,52,986065
+2020,1,Gujarat,Surat,Fraud,12,372292
+2020,3,Gujarat,Surat,Assault,64,879468
+2020,3,Gujarat,Surat,Cyber Crime,57,1010242
+2020,3,Gujarat,Surat,Robbery,40,1005932
+2020,4,Gujarat,Surat,Burglary,43,1386003
+2020,4,Gujarat,Surat,Kidnapping,72,618637
+2020,4,Gujarat,Surat,Theft,7,1113670
+2020,6,Gujarat,Surat,Assault,64,690860
+2020,6,Gujarat,Surat,Burglary,17,193021
+2020,6,Gujarat,Surat,Cyber Crime,27,476381
+2020,9,Gujarat,Surat,Assault,23,1282353
+2020,9,Gujarat,Surat,Homicide,71,187571
+2020,9,Gujarat,Surat,Kidnapping,61,717687
+2020,10,Gujarat,Surat,Fraud,71,1332881
+2020,10,Gujarat,Surat,Robbery,62,236401
+2020,10,Gujarat,Surat,Theft,53,588431
+2020,1,Gujarat,Vadodara,Assault,55,358848
+2020,1,Gujarat,Vadodara,Kidnapping,53,556736
+2020,1,Gujarat,Vadodara,Robbery,68,662001
+2020,5,Gujarat,Vadodara,Burglary,48,401563
+2020,5,Gujarat,Vadodara,Kidnapping,12,790371
+2020,5,Gujarat,Vadodara,Robbery,28,457863
+2020,6,Gujarat,Vadodara,Burglary,55,182757
+2020,6,Gujarat,Vadodara,Cyber Crime,56,353967
+2020,6,Gujarat,Vadodara,Kidnapping,69,814796
+2020,7,Gujarat,Vadodara,Homicide,71,1268590
+2020,7,Gujarat,Vadodara,Kidnapping,64,841673
+2020,7,Gujarat,Vadodara,Robbery,47,642426
+2020,10,Gujarat,Vadodara,Cyber Crime,6,833152
+2020,10,Gujarat,Vadodara,Kidnapping,13,480454
+2020,10,Gujarat,Vadodara,Theft,40,762906
+2020,12,Gujarat,Vadodara,Assault,33,667133
+2020,12,Gujarat,Vadodara,Cyber Crime,27,1227616
+2020,12,Gujarat,Vadodara,Robbery,70,570559
+2020,1,Karnataka,Bengaluru,Homicide,75,157371
+2020,1,Karnataka,Bengaluru,Kidnapping,16,584877
+2020,1,Karnataka,Bengaluru,Theft,32,1217381
+2020,3,Karnataka,Bengaluru,Assault,54,982724
+2020,3,Karnataka,Bengaluru,Cyber Crime,27,483296
+2020,3,Karnataka,Bengaluru,Theft,58,1213076
+2020,4,Karnataka,Bengaluru,Burglary,61,406079
+2020,4,Karnataka,Bengaluru,Cyber Crime,64,893237
+2020,4,Karnataka,Bengaluru,Fraud,8,927020
+2020,7,Karnataka,Bengaluru,Burglary,30,1492155
+2020,7,Karnataka,Bengaluru,Fraud,26,827195
+2020,7,Karnataka,Bengaluru,Homicide,49,807855
+2020,11,Karnataka,Bengaluru,Burglary,15,1336736
+2020,11,Karnataka,Bengaluru,Cyber Crime,24,699174
+2020,11,Karnataka,Bengaluru,Fraud,54,934800
+2020,12,Karnataka,Bengaluru,Burglary,35,1099102
+2020,12,Karnataka,Bengaluru,Kidnapping,60,1363225
+2020,12,Karnataka,Bengaluru,Theft,61,1163239
+2020,1,Karnataka,Mangaluru,Burglary,11,826553
+2020,1,Karnataka,Mangaluru,Fraud,9,650915
+2020,1,Karnataka,Mangaluru,Kidnapping,44,573632
+2020,2,Karnataka,Mangaluru,Fraud,81,521912
+2020,2,Karnataka,Mangaluru,Homicide,58,1122889
+2020,2,Karnataka,Mangaluru,Robbery,60,1147993
+2020,3,Karnataka,Mangaluru,Cyber Crime,13,1065022
+2020,3,Karnataka,Mangaluru,Fraud,37,925464
+2020,3,Karnataka,Mangaluru,Homicide,6,875380
+2020,5,Karnataka,Mangaluru,Cyber Crime,32,781034
+2020,5,Karnataka,Mangaluru,Homicide,7,723561
+2020,5,Karnataka,Mangaluru,Theft,49,459868
+2020,6,Karnataka,Mangaluru,Fraud,25,708998
+2020,6,Karnataka,Mangaluru,Homicide,19,1021821
+2020,6,Karnataka,Mangaluru,Robbery,48,1407823
+2020,7,Karnataka,Mangaluru,Cyber Crime,61,1373533
+2020,7,Karnataka,Mangaluru,Fraud,11,532993
+2020,7,Karnataka,Mangaluru,Kidnapping,11,118098
+2020,2,Karnataka,Mysuru,Assault,56,400036
+2020,2,Karnataka,Mysuru,Burglary,2,557730
+2020,2,Karnataka,Mysuru,Fraud,36,1271728
+2020,3,Karnataka,Mysuru,Kidnapping,34,1011823
+2020,3,Karnataka,Mysuru,Robbery,36,779361
+2020,3,Karnataka,Mysuru,Theft,21,603416
+2020,5,Karnataka,Mysuru,Assault,35,819964
+2020,5,Karnataka,Mysuru,Burglary,32,1039761
+2020,5,Karnataka,Mysuru,Robbery,12,150742
+2020,10,Karnataka,Mysuru,Fraud,21,1353516
+2020,10,Karnataka,Mysuru,Homicide,64,927474
+2020,10,Karnataka,Mysuru,Robbery,65,175538
+2020,11,Karnataka,Mysuru,Burglary,8,795125
+2020,11,Karnataka,Mysuru,Cyber Crime,23,568157
+2020,11,Karnataka,Mysuru,Fraud,53,939437
+2020,12,Karnataka,Mysuru,Burglary,5,824006
+2020,12,Karnataka,Mysuru,Cyber Crime,36,1157559
+2020,12,Karnataka,Mysuru,Fraud,74,350730
+2020,2,Kerala,Kochi,Assault,23,231544
+2020,2,Kerala,Kochi,Homicide,43,207838
+2020,2,Kerala,Kochi,Robbery,49,131400
+2020,3,Kerala,Kochi,Assault,55,1255100
+2020,3,Kerala,Kochi,Cyber Crime,56,697848
+2020,3,Kerala,Kochi,Kidnapping,15,1466578
+2020,5,Kerala,Kochi,Fraud,36,236146
+2020,5,Kerala,Kochi,Kidnapping,26,355147
+2020,5,Kerala,Kochi,Theft,41,142566
+2020,7,Kerala,Kochi,Assault,56,217091
+2020,7,Kerala,Kochi,Cyber Crime,6,178073
+2020,7,Kerala,Kochi,Robbery,14,1122757
+2020,8,Kerala,Kochi,Cyber Crime,31,988177
+2020,8,Kerala,Kochi,Homicide,43,716633
+2020,8,Kerala,Kochi,Theft,64,511550
+2020,12,Kerala,Kochi,Cyber Crime,54,416503
+2020,12,Kerala,Kochi,Fraud,10,322901
+2020,12,Kerala,Kochi,Kidnapping,20,586715
+2020,1,Kerala,Kozhikode,Assault,55,530728
+2020,1,Kerala,Kozhikode,Homicide,16,276214
+2020,1,Kerala,Kozhikode,Robbery,18,1061185
+2020,6,Kerala,Kozhikode,Homicide,66,1056715
+2020,6,Kerala,Kozhikode,Kidnapping,76,280269
+2020,6,Kerala,Kozhikode,Theft,36,898610
+2020,7,Kerala,Kozhikode,Cyber Crime,64,978354
+2020,7,Kerala,Kozhikode,Fraud,35,532031
+2020,7,Kerala,Kozhikode,Robbery,5,179739
+2020,9,Kerala,Kozhikode,Assault,23,1299579
+2020,9,Kerala,Kozhikode,Cyber Crime,66,589393
+2020,9,Kerala,Kozhikode,Theft,31,897024
+2020,11,Kerala,Kozhikode,Burglary,13,335436
+2020,11,Kerala,Kozhikode,Cyber Crime,65,588935
+2020,11,Kerala,Kozhikode,Theft,11,1177805
+2020,12,Kerala,Kozhikode,Fraud,74,293473
+2020,12,Kerala,Kozhikode,Kidnapping,83,337260
+2020,12,Kerala,Kozhikode,Theft,11,1379143
+2020,1,Kerala,Thiruvananthapuram,Assault,32,771486
+2020,1,Kerala,Thiruvananthapuram,Fraud,18,702233
+2020,1,Kerala,Thiruvananthapuram,Robbery,58,823040
+2020,4,Kerala,Thiruvananthapuram,Burglary,35,422029
+2020,4,Kerala,Thiruvananthapuram,Cyber Crime,39,845224
+2020,4,Kerala,Thiruvananthapuram,Theft,59,1236228
+2020,6,Kerala,Thiruvananthapuram,Cyber Crime,29,1259411
+2020,6,Kerala,Thiruvananthapuram,Robbery,56,919052
+2020,6,Kerala,Thiruvananthapuram,Theft,50,767733
+2020,7,Kerala,Thiruvananthapuram,Homicide,59,1129693
+2020,7,Kerala,Thiruvananthapuram,Robbery,48,392399
+2020,7,Kerala,Thiruvananthapuram,Theft,42,988773
+2020,11,Kerala,Thiruvananthapuram,Burglary,55,1450364
+2020,11,Kerala,Thiruvananthapuram,Cyber Crime,49,697863
+2020,11,Kerala,Thiruvananthapuram,Homicide,16,1173268
+2020,12,Kerala,Thiruvananthapuram,Fraud,32,1191744
+2020,12,Kerala,Thiruvananthapuram,Kidnapping,69,962213
+2020,12,Kerala,Thiruvananthapuram,Robbery,10,1027870
+2020,1,Maharashtra,Mumbai,Fraud,17,556457
+2020,1,Maharashtra,Mumbai,Homicide,23,1483894
+2020,1,Maharashtra,Mumbai,Theft,21,1462045
+2020,2,Maharashtra,Mumbai,Burglary,14,815440
+2020,2,Maharashtra,Mumbai,Homicide,67,538098
+2020,2,Maharashtra,Mumbai,Robbery,19,788082
+2020,3,Maharashtra,Mumbai,Assault,65,1199132
+2020,3,Maharashtra,Mumbai,Fraud,67,1166082
+2020,3,Maharashtra,Mumbai,Theft,61,1283475
+2020,5,Maharashtra,Mumbai,Fraud,20,670544
+2020,5,Maharashtra,Mumbai,Robbery,25,297085
+2020,5,Maharashtra,Mumbai,Theft,24,886270
+2020,6,Maharashtra,Mumbai,Cyber Crime,39,749993
+2020,6,Maharashtra,Mumbai,Robbery,58,781259
+2020,6,Maharashtra,Mumbai,Theft,66,877104
+2020,8,Maharashtra,Mumbai,Assault,25,1152256
+2020,8,Maharashtra,Mumbai,Burglary,48,475466
+2020,8,Maharashtra,Mumbai,Cyber Crime,55,201516
+2020,2,Maharashtra,Nagpur,Assault,18,1293420
+2020,2,Maharashtra,Nagpur,Homicide,51,962122
+2020,2,Maharashtra,Nagpur,Theft,29,636465
+2020,3,Maharashtra,Nagpur,Assault,58,1325414
+2020,3,Maharashtra,Nagpur,Cyber Crime,27,1427523
+2020,3,Maharashtra,Nagpur,Robbery,23,1210213
+2020,5,Maharashtra,Nagpur,Cyber Crime,75,1441878
+2020,5,Maharashtra,Nagpur,Fraud,29,1034072
+2020,5,Maharashtra,Nagpur,Robbery,34,1235567
+2020,9,Maharashtra,Nagpur,Assault,44,675043
+2020,9,Maharashtra,Nagpur,Fraud,58,217916
+2020,9,Maharashtra,Nagpur,Kidnapping,10,355260
+2020,10,Maharashtra,Nagpur,Burglary,26,880101
+2020,10,Maharashtra,Nagpur,Homicide,35,518377
+2020,10,Maharashtra,Nagpur,Kidnapping,12,1289988
+2020,11,Maharashtra,Nagpur,Burglary,64,363616
+2020,11,Maharashtra,Nagpur,Kidnapping,70,834999
+2020,11,Maharashtra,Nagpur,Robbery,10,891814
+2020,2,Maharashtra,Nashik,Burglary,24,100782
+2020,2,Maharashtra,Nashik,Fraud,62,158299
+2020,2,Maharashtra,Nashik,Homicide,34,998642
+2020,3,Maharashtra,Nashik,Cyber Crime,9,1261666
+2020,3,Maharashtra,Nashik,Robbery,20,424465
+2020,3,Maharashtra,Nashik,Theft,64,1321129
+2020,4,Maharashtra,Nashik,Burglary,70,597792
+2020,4,Maharashtra,Nashik,Homicide,70,638950
+2020,4,Maharashtra,Nashik,Theft,27,610279
+2020,7,Maharashtra,Nashik,Fraud,25,725809
+2020,7,Maharashtra,Nashik,Kidnapping,25,153448
+2020,7,Maharashtra,Nashik,Theft,47,813645
+2020,8,Maharashtra,Nashik,Assault,7,1361196
+2020,8,Maharashtra,Nashik,Cyber Crime,29,910888
+2020,8,Maharashtra,Nashik,Kidnapping,16,322576
+2020,11,Maharashtra,Nashik,Assault,14,144811
+2020,11,Maharashtra,Nashik,Cyber Crime,21,1134064
+2020,11,Maharashtra,Nashik,Robbery,50,720098
+2020,1,Rajasthan,Jaipur,Burglary,21,1020950
+2020,1,Rajasthan,Jaipur,Cyber Crime,58,974495
+2020,1,Rajasthan,Jaipur,Fraud,17,474241
+2020,2,Rajasthan,Jaipur,Burglary,63,1142080
+2020,2,Rajasthan,Jaipur,Fraud,27,958155
+2020,2,Rajasthan,Jaipur,Homicide,25,892297
+2020,3,Rajasthan,Jaipur,Burglary,73,1231821
+2020,3,Rajasthan,Jaipur,Fraud,57,192891
+2020,3,Rajasthan,Jaipur,Robbery,48,192494
+2020,5,Rajasthan,Jaipur,Homicide,43,813487
+2020,5,Rajasthan,Jaipur,Kidnapping,6,1321210
+2020,5,Rajasthan,Jaipur,Robbery,41,1141786
+2020,7,Rajasthan,Jaipur,Assault,14,1118685
+2020,7,Rajasthan,Jaipur,Burglary,53,635160
+2020,7,Rajasthan,Jaipur,Homicide,12,133237
+2020,10,Rajasthan,Jaipur,Assault,18,1053036
+2020,10,Rajasthan,Jaipur,Cyber Crime,35,1479330
+2020,10,Rajasthan,Jaipur,Homicide,23,454235
+2020,2,Rajasthan,Jodhpur,Fraud,10,501996
+2020,2,Rajasthan,Jodhpur,Kidnapping,53,961405
+2020,2,Rajasthan,Jodhpur,Theft,36,1253673
+2020,4,Rajasthan,Jodhpur,Cyber Crime,56,238182
+2020,4,Rajasthan,Jodhpur,Homicide,44,1055867
+2020,4,Rajasthan,Jodhpur,Kidnapping,10,1092919
+2020,5,Rajasthan,Jodhpur,Burglary,18,918078
+2020,5,Rajasthan,Jodhpur,Cyber Crime,15,396950
+2020,5,Rajasthan,Jodhpur,Kidnapping,7,1003514
+2020,6,Rajasthan,Jodhpur,Cyber Crime,19,481715
+2020,6,Rajasthan,Jodhpur,Kidnapping,39,1486909
+2020,6,Rajasthan,Jodhpur,Theft,43,218597
+2020,8,Rajasthan,Jodhpur,Assault,54,573029
+2020,8,Rajasthan,Jodhpur,Cyber Crime,9,1007235
+2020,8,Rajasthan,Jodhpur,Robbery,28,129582
+2020,11,Rajasthan,Jodhpur,Assault,16,1173571
+2020,11,Rajasthan,Jodhpur,Burglary,21,482172
+2020,11,Rajasthan,Jodhpur,Cyber Crime,24,405706
+2020,4,Rajasthan,Udaipur,Assault,61,709069
+2020,4,Rajasthan,Udaipur,Cyber Crime,5,1012891
+2020,4,Rajasthan,Udaipur,Robbery,32,543203
+2020,5,Rajasthan,Udaipur,Fraud,36,1363069
+2020,5,Rajasthan,Udaipur,Kidnapping,85,1339360
+2020,5,Rajasthan,Udaipur,Theft,35,542176
+2020,8,Rajasthan,Udaipur,Cyber Crime,45,528435
+2020,8,Rajasthan,Udaipur,Fraud,34,127227
+2020,8,Rajasthan,Udaipur,Robbery,20,1317599
+2020,9,Rajasthan,Udaipur,Assault,68,409181
+2020,9,Rajasthan,Udaipur,Cyber Crime,29,1236497
+2020,9,Rajasthan,Udaipur,Theft,31,589322
+2020,10,Rajasthan,Udaipur,Burglary,14,901339
+2020,10,Rajasthan,Udaipur,Fraud,31,1432992
+2020,10,Rajasthan,Udaipur,Kidnapping,40,1432501
+2020,12,Rajasthan,Udaipur,Assault,37,120948
+2020,12,Rajasthan,Udaipur,Burglary,72,859202
+2020,12,Rajasthan,Udaipur,Fraud,9,310982
+2020,2,Tamil Nadu,Chennai,Burglary,36,1197245
+2020,2,Tamil Nadu,Chennai,Fraud,17,1271213
+2020,2,Tamil Nadu,Chennai,Robbery,21,407223
+2020,5,Tamil Nadu,Chennai,Burglary,19,1064943
+2020,5,Tamil Nadu,Chennai,Cyber Crime,97,346743
+2020,5,Tamil Nadu,Chennai,Theft,71,1276341
+2020,8,Tamil Nadu,Chennai,Assault,52,1147488
+2020,8,Tamil Nadu,Chennai,Homicide,15,869728
+2020,8,Tamil Nadu,Chennai,Theft,17,1150149
+2020,10,Tamil Nadu,Chennai,Homicide,4,712342
+2020,10,Tamil Nadu,Chennai,Robbery,51,806903
+2020,10,Tamil Nadu,Chennai,Theft,23,1040633
+2020,11,Tamil Nadu,Chennai,Assault,31,1389535
+2020,11,Tamil Nadu,Chennai,Cyber Crime,12,798067
+2020,11,Tamil Nadu,Chennai,Robbery,65,493597
+2020,12,Tamil Nadu,Chennai,Burglary,41,1223098
+2020,12,Tamil Nadu,Chennai,Homicide,30,891169
+2020,12,Tamil Nadu,Chennai,Kidnapping,6,552267
+2020,2,Tamil Nadu,Coimbatore,Burglary,24,601031
+2020,2,Tamil Nadu,Coimbatore,Cyber Crime,38,866717
+2020,2,Tamil Nadu,Coimbatore,Homicide,69,1462551
+2020,3,Tamil Nadu,Coimbatore,Assault,34,939043
+2020,3,Tamil Nadu,Coimbatore,Cyber Crime,8,1023050
+2020,3,Tamil Nadu,Coimbatore,Theft,19,1015047
+2020,5,Tamil Nadu,Coimbatore,Kidnapping,36,271696
+2020,5,Tamil Nadu,Coimbatore,Robbery,33,1340082
+2020,5,Tamil Nadu,Coimbatore,Theft,17,921827
+2020,7,Tamil Nadu,Coimbatore,Burglary,74,1013487
+2020,7,Tamil Nadu,Coimbatore,Cyber Crime,40,1415406
+2020,7,Tamil Nadu,Coimbatore,Kidnapping,3,714812
+2020,8,Tamil Nadu,Coimbatore,Homicide,29,329636
+2020,8,Tamil Nadu,Coimbatore,Robbery,55,1026786
+2020,8,Tamil Nadu,Coimbatore,Theft,21,139194
+2020,12,Tamil Nadu,Coimbatore,Cyber Crime,33,1078567
+2020,12,Tamil Nadu,Coimbatore,Kidnapping,33,1175722
+2020,12,Tamil Nadu,Coimbatore,Robbery,36,623196
+2020,1,Tamil Nadu,Tiruchirappalli,Burglary,16,583989
+2020,1,Tamil Nadu,Tiruchirappalli,Fraud,8,1062512
+2020,1,Tamil Nadu,Tiruchirappalli,Homicide,30,974911
+2020,4,Tamil Nadu,Tiruchirappalli,Fraud,38,1271234
+2020,4,Tamil Nadu,Tiruchirappalli,Robbery,16,376388
+2020,4,Tamil Nadu,Tiruchirappalli,Theft,27,460612
+2020,5,Tamil Nadu,Tiruchirappalli,Assault,54,461238
+2020,5,Tamil Nadu,Tiruchirappalli,Fraud,76,279451
+2020,5,Tamil Nadu,Tiruchirappalli,Theft,71,1451042
+2020,6,Tamil Nadu,Tiruchirappalli,Burglary,24,122360
+2020,6,Tamil Nadu,Tiruchirappalli,Robbery,44,1195234
+2020,6,Tamil Nadu,Tiruchirappalli,Theft,29,687727
+2020,8,Tamil Nadu,Tiruchirappalli,Homicide,22,204824
+2020,8,Tamil Nadu,Tiruchirappalli,Kidnapping,33,458169
+2020,8,Tamil Nadu,Tiruchirappalli,Theft,49,207637
+2020,10,Tamil Nadu,Tiruchirappalli,Assault,45,612602
+2020,10,Tamil Nadu,Tiruchirappalli,Burglary,12,792037
+2020,10,Tamil Nadu,Tiruchirappalli,Cyber Crime,12,707286
+2020,1,Telangana,Hyderabad,Cyber Crime,10,1261484
+2020,1,Telangana,Hyderabad,Fraud,65,708724
+2020,1,Telangana,Hyderabad,Robbery,46,1181994
+2020,3,Telangana,Hyderabad,Fraud,12,939047
+2020,3,Telangana,Hyderabad,Homicide,11,1405362
+2020,3,Telangana,Hyderabad,Robbery,15,1047778
+2020,6,Telangana,Hyderabad,Assault,56,750249
+2020,6,Telangana,Hyderabad,Kidnapping,11,800074
+2020,6,Telangana,Hyderabad,Theft,27,868379
+2020,8,Telangana,Hyderabad,Fraud,19,966375
+2020,8,Telangana,Hyderabad,Kidnapping,32,357803
+2020,8,Telangana,Hyderabad,Robbery,67,266498
+2020,9,Telangana,Hyderabad,Burglary,17,605148
+2020,9,Telangana,Hyderabad,Robbery,29,1243160
+2020,9,Telangana,Hyderabad,Theft,28,893558
+2020,10,Telangana,Hyderabad,Assault,4,889205
+2020,10,Telangana,Hyderabad,Homicide,5,915816
+2020,10,Telangana,Hyderabad,Robbery,27,176550
+2020,3,Telangana,Karimnagar,Assault,55,382699
+2020,3,Telangana,Karimnagar,Kidnapping,20,743317
+2020,3,Telangana,Karimnagar,Robbery,64,632822
+2020,5,Telangana,Karimnagar,Assault,51,101598
+2020,5,Telangana,Karimnagar,Burglary,8,887668
+2020,5,Telangana,Karimnagar,Kidnapping,25,269457
+2020,6,Telangana,Karimnagar,Cyber Crime,77,1432608
+2020,6,Telangana,Karimnagar,Homicide,6,152607
+2020,6,Telangana,Karimnagar,Robbery,68,414523
+2020,7,Telangana,Karimnagar,Assault,39,609842
+2020,7,Telangana,Karimnagar,Burglary,27,1085052
+2020,7,Telangana,Karimnagar,Cyber Crime,32,1054828
+2020,8,Telangana,Karimnagar,Assault,36,462833
+2020,8,Telangana,Karimnagar,Burglary,75,822464
+2020,8,Telangana,Karimnagar,Robbery,49,1479279
+2020,10,Telangana,Karimnagar,Fraud,64,1176191
+2020,10,Telangana,Karimnagar,Homicide,18,1033085
+2020,10,Telangana,Karimnagar,Robbery,71,291878
+2020,1,Telangana,Warangal,Assault,21,166928
+2020,1,Telangana,Warangal,Fraud,14,326454
+2020,1,Telangana,Warangal,Robbery,44,675653
+2020,3,Telangana,Warangal,Assault,28,855498
+2020,3,Telangana,Warangal,Homicide,8,699503
+2020,3,Telangana,Warangal,Theft,11,733670
+2020,7,Telangana,Warangal,Assault,56,1188325
+2020,7,Telangana,Warangal,Burglary,32,540636
+2020,7,Telangana,Warangal,Robbery,49,730878
+2020,8,Telangana,Warangal,Cyber Crime,45,1278824
+2020,8,Telangana,Warangal,Fraud,21,1443194
+2020,8,Telangana,Warangal,Homicide,87,930977
+2020,9,Telangana,Warangal,Assault,51,1035470
+2020,9,Telangana,Warangal,Kidnapping,53,394864
+2020,9,Telangana,Warangal,Robbery,30,219807
+2020,11,Telangana,Warangal,Burglary,22,1015253
+2020,11,Telangana,Warangal,Cyber Crime,3,815361
+2020,11,Telangana,Warangal,Kidnapping,54,1045223
+2020,2,Uttar Pradesh,Kanpur,Fraud,26,105357
+2020,2,Uttar Pradesh,Kanpur,Robbery,54,133261
+2020,2,Uttar Pradesh,Kanpur,Theft,7,297106
+2020,3,Uttar Pradesh,Kanpur,Kidnapping,55,455796
+2020,3,Uttar Pradesh,Kanpur,Robbery,60,1059530
+2020,3,Uttar Pradesh,Kanpur,Theft,48,1340997
+2020,7,Uttar Pradesh,Kanpur,Fraud,24,443491
+2020,7,Uttar Pradesh,Kanpur,Homicide,8,336994
+2020,7,Uttar Pradesh,Kanpur,Robbery,36,1039148
+2020,8,Uttar Pradesh,Kanpur,Assault,66,1172920
+2020,8,Uttar Pradesh,Kanpur,Homicide,48,1033670
+2020,8,Uttar Pradesh,Kanpur,Robbery,57,660643
+2020,9,Uttar Pradesh,Kanpur,Assault,17,1262656
+2020,9,Uttar Pradesh,Kanpur,Homicide,59,1148238
+2020,9,Uttar Pradesh,Kanpur,Robbery,24,522424
+2020,11,Uttar Pradesh,Kanpur,Burglary,13,1195194
+2020,11,Uttar Pradesh,Kanpur,Homicide,33,624790
+2020,11,Uttar Pradesh,Kanpur,Theft,27,811875
+2020,1,Uttar Pradesh,Lucknow,Assault,30,1326939
+2020,1,Uttar Pradesh,Lucknow,Burglary,58,761520
+2020,1,Uttar Pradesh,Lucknow,Fraud,51,1074040
+2020,2,Uttar Pradesh,Lucknow,Cyber Crime,10,1320296
+2020,2,Uttar Pradesh,Lucknow,Homicide,20,1310324
+2020,2,Uttar Pradesh,Lucknow,Kidnapping,44,558323
+2020,5,Uttar Pradesh,Lucknow,Cyber Crime,20,1249327
+2020,5,Uttar Pradesh,Lucknow,Robbery,20,1035757
+2020,5,Uttar Pradesh,Lucknow,Theft,7,691713
+2020,7,Uttar Pradesh,Lucknow,Fraud,30,1428098
+2020,7,Uttar Pradesh,Lucknow,Kidnapping,53,415960
+2020,7,Uttar Pradesh,Lucknow,Theft,39,394556
+2020,8,Uttar Pradesh,Lucknow,Assault,27,1486450
+2020,8,Uttar Pradesh,Lucknow,Cyber Crime,24,1196759
+2020,8,Uttar Pradesh,Lucknow,Theft,45,862062
+2020,11,Uttar Pradesh,Lucknow,Burglary,25,473557
+2020,11,Uttar Pradesh,Lucknow,Cyber Crime,23,1335732
+2020,11,Uttar Pradesh,Lucknow,Theft,14,474023
+2020,1,Uttar Pradesh,Noida,Burglary,10,1110140
+2020,1,Uttar Pradesh,Noida,Homicide,46,994936
+2020,1,Uttar Pradesh,Noida,Theft,21,1325103
+2020,3,Uttar Pradesh,Noida,Assault,22,1086499
+2020,3,Uttar Pradesh,Noida,Cyber Crime,51,1057098
+2020,3,Uttar Pradesh,Noida,Theft,30,1306237
+2020,5,Uttar Pradesh,Noida,Burglary,36,1325550
+2020,5,Uttar Pradesh,Noida,Robbery,60,1483017
+2020,5,Uttar Pradesh,Noida,Theft,27,1307705
+2020,6,Uttar Pradesh,Noida,Homicide,22,945514
+2020,6,Uttar Pradesh,Noida,Kidnapping,76,939577
+2020,6,Uttar Pradesh,Noida,Robbery,69,805184
+2020,9,Uttar Pradesh,Noida,Assault,35,377336
+2020,9,Uttar Pradesh,Noida,Homicide,51,183575
+2020,9,Uttar Pradesh,Noida,Robbery,59,293398
+2020,11,Uttar Pradesh,Noida,Cyber Crime,43,610957
+2020,11,Uttar Pradesh,Noida,Fraud,9,1211802
+2020,11,Uttar Pradesh,Noida,Robbery,75,889773
+2020,1,West Bengal,Durgapur,Assault,43,257142
+2020,1,West Bengal,Durgapur,Cyber Crime,10,775028
+2020,1,West Bengal,Durgapur,Robbery,26,379560
+2020,2,West Bengal,Durgapur,Assault,45,398770
+2020,2,West Bengal,Durgapur,Burglary,69,1090466
+2020,2,West Bengal,Durgapur,Kidnapping,22,318622
+2020,6,West Bengal,Durgapur,Fraud,55,444984
+2020,6,West Bengal,Durgapur,Homicide,74,1053134
+2020,6,West Bengal,Durgapur,Robbery,5,778329
+2020,8,West Bengal,Durgapur,Burglary,11,176817
+2020,8,West Bengal,Durgapur,Kidnapping,39,694719
+2020,8,West Bengal,Durgapur,Robbery,16,124340
+2020,10,West Bengal,Durgapur,Burglary,35,235026
+2020,10,West Bengal,Durgapur,Fraud,35,327627
+2020,10,West Bengal,Durgapur,Robbery,27,778920
+2020,12,West Bengal,Durgapur,Homicide,61,1402617
+2020,12,West Bengal,Durgapur,Kidnapping,44,147274
+2020,12,West Bengal,Durgapur,Theft,49,1264671
+2020,1,West Bengal,Howrah,Assault,33,254054
+2020,1,West Bengal,Howrah,Burglary,12,1120002
+2020,1,West Bengal,Howrah,Theft,37,837385
+2020,3,West Bengal,Howrah,Fraud,69,1417613
+2020,3,West Bengal,Howrah,Homicide,49,237767
+2020,3,West Bengal,Howrah,Theft,25,1335200
+2020,4,West Bengal,Howrah,Burglary,27,222932
+2020,4,West Bengal,Howrah,Cyber Crime,8,1042660
+2020,4,West Bengal,Howrah,Homicide,51,464760
+2020,5,West Bengal,Howrah,Assault,48,190038
+2020,5,West Bengal,Howrah,Cyber Crime,37,1154166
+2020,5,West Bengal,Howrah,Theft,49,1270463
+2020,7,West Bengal,Howrah,Cyber Crime,44,1026094
+2020,7,West Bengal,Howrah,Kidnapping,40,154457
+2020,7,West Bengal,Howrah,Robbery,74,1375649
+2020,8,West Bengal,Howrah,Assault,50,475387
+2020,8,West Bengal,Howrah,Kidnapping,72,921116
+2020,8,West Bengal,Howrah,Robbery,65,1269392
+2020,1,West Bengal,Kolkata,Burglary,43,997756
+2020,1,West Bengal,Kolkata,Fraud,34,106330
+2020,1,West Bengal,Kolkata,Kidnapping,19,579461
+2020,3,West Bengal,Kolkata,Fraud,36,1147135
+2020,3,West Bengal,Kolkata,Homicide,24,1398211
+2020,3,West Bengal,Kolkata,Robbery,18,1134062
+2020,4,West Bengal,Kolkata,Burglary,44,498177
+2020,4,West Bengal,Kolkata,Cyber Crime,16,294687
+2020,4,West Bengal,Kolkata,Homicide,46,213042
+2020,7,West Bengal,Kolkata,Burglary,49,1375093
+2020,7,West Bengal,Kolkata,Kidnapping,39,987198
+2020,7,West Bengal,Kolkata,Robbery,52,1299977
+2020,11,West Bengal,Kolkata,Burglary,34,368265
+2020,11,West Bengal,Kolkata,Fraud,39,1060763
+2020,11,West Bengal,Kolkata,Theft,59,621105
+2020,12,West Bengal,Kolkata,Assault,45,240322
+2020,12,West Bengal,Kolkata,Cyber Crime,27,483947
+2020,12,West Bengal,Kolkata,Fraud,48,164943
+2021,2,Delhi,Dwarka,Assault,38,344714
+2021,2,Delhi,Dwarka,Burglary,11,735718
+2021,2,Delhi,Dwarka,Robbery,47,1217312
+2021,3,Delhi,Dwarka,Assault,12,976433
+2021,3,Delhi,Dwarka,Homicide,38,228967
+2021,3,Delhi,Dwarka,Robbery,28,748848
+2021,5,Delhi,Dwarka,Burglary,64,922248
+2021,5,Delhi,Dwarka,Robbery,25,1033507
+2021,5,Delhi,Dwarka,Theft,58,1195328
+2021,8,Delhi,Dwarka,Fraud,20,1195302
+2021,8,Delhi,Dwarka,Kidnapping,42,1022887
+2021,8,Delhi,Dwarka,Robbery,24,328276
+2021,9,Delhi,Dwarka,Burglary,39,863795
+2021,9,Delhi,Dwarka,Cyber Crime,51,1237244
+2021,9,Delhi,Dwarka,Homicide,73,528268
+2021,11,Delhi,Dwarka,Burglary,39,793605
+2021,11,Delhi,Dwarka,Homicide,25,1111213
+2021,11,Delhi,Dwarka,Theft,9,1079067
+2021,2,Delhi,New Delhi,Assault,43,791595
+2021,2,Delhi,New Delhi,Burglary,15,110797
+2021,2,Delhi,New Delhi,Homicide,29,539799
+2021,5,Delhi,New Delhi,Homicide,38,602657
+2021,5,Delhi,New Delhi,Kidnapping,55,207780
+2021,5,Delhi,New Delhi,Robbery,11,959792
+2021,8,Delhi,New Delhi,Fraud,42,879538
+2021,8,Delhi,New Delhi,Kidnapping,42,683694
+2021,8,Delhi,New Delhi,Robbery,36,140168
+2021,9,Delhi,New Delhi,Cyber Crime,8,1256218
+2021,9,Delhi,New Delhi,Fraud,22,927091
+2021,9,Delhi,New Delhi,Robbery,8,507311
+2021,10,Delhi,New Delhi,Cyber Crime,26,1471529
+2021,10,Delhi,New Delhi,Homicide,13,800218
+2021,10,Delhi,New Delhi,Robbery,19,1425914
+2021,11,Delhi,New Delhi,Assault,10,213529
+2021,11,Delhi,New Delhi,Kidnapping,28,816481
+2021,11,Delhi,New Delhi,Theft,51,855555
+2021,1,Delhi,Rohini,Fraud,56,747146
+2021,1,Delhi,Rohini,Homicide,14,1195126
+2021,1,Delhi,Rohini,Theft,19,840078
+2021,6,Delhi,Rohini,Burglary,49,445804
+2021,6,Delhi,Rohini,Homicide,42,1022643
+2021,6,Delhi,Rohini,Kidnapping,58,465189
+2021,7,Delhi,Rohini,Burglary,50,810557
+2021,7,Delhi,Rohini,Homicide,3,615879
+2021,7,Delhi,Rohini,Theft,34,459331
+2021,10,Delhi,Rohini,Cyber Crime,4,1480320
+2021,10,Delhi,Rohini,Homicide,63,188589
+2021,10,Delhi,Rohini,Robbery,1,446500
+2021,11,Delhi,Rohini,Burglary,24,1323400
+2021,11,Delhi,Rohini,Cyber Crime,36,530627
+2021,11,Delhi,Rohini,Theft,16,1396394
+2021,12,Delhi,Rohini,Burglary,26,485319
+2021,12,Delhi,Rohini,Cyber Crime,29,605141
+2021,12,Delhi,Rohini,Homicide,51,1390117
+2021,1,Gujarat,Ahmedabad,Assault,38,806662
+2021,1,Gujarat,Ahmedabad,Homicide,57,996381
+2021,1,Gujarat,Ahmedabad,Kidnapping,16,702806
+2021,4,Gujarat,Ahmedabad,Assault,42,1476502
+2021,4,Gujarat,Ahmedabad,Fraud,49,1191756
+2021,4,Gujarat,Ahmedabad,Theft,81,118719
+2021,5,Gujarat,Ahmedabad,Assault,24,608981
+2021,5,Gujarat,Ahmedabad,Cyber Crime,37,740123
+2021,5,Gujarat,Ahmedabad,Theft,57,1041039
+2021,10,Gujarat,Ahmedabad,Fraud,27,1476374
+2021,10,Gujarat,Ahmedabad,Kidnapping,24,1044082
+2021,10,Gujarat,Ahmedabad,Robbery,25,1306733
+2021,11,Gujarat,Ahmedabad,Burglary,33,1200917
+2021,11,Gujarat,Ahmedabad,Cyber Crime,8,108221
+2021,11,Gujarat,Ahmedabad,Theft,61,1153187
+2021,12,Gujarat,Ahmedabad,Assault,10,938023
+2021,12,Gujarat,Ahmedabad,Burglary,41,183654
+2021,12,Gujarat,Ahmedabad,Theft,59,632445
+2021,2,Gujarat,Surat,Fraud,27,1278444
+2021,2,Gujarat,Surat,Homicide,74,930518
+2021,2,Gujarat,Surat,Kidnapping,19,728973
+2021,4,Gujarat,Surat,Fraud,79,764852
+2021,4,Gujarat,Surat,Robbery,57,886612
+2021,4,Gujarat,Surat,Theft,6,857198
+2021,5,Gujarat,Surat,Assault,37,803427
+2021,5,Gujarat,Surat,Homicide,58,1238593
+2021,5,Gujarat,Surat,Theft,60,1275384
+2021,6,Gujarat,Surat,Burglary,17,1060069
+2021,6,Gujarat,Surat,Homicide,65,946771
+2021,6,Gujarat,Surat,Kidnapping,38,584831
+2021,8,Gujarat,Surat,Cyber Crime,48,292150
+2021,8,Gujarat,Surat,Fraud,9,1408058
+2021,8,Gujarat,Surat,Robbery,33,1009063
+2021,10,Gujarat,Surat,Assault,53,442580
+2021,10,Gujarat,Surat,Burglary,59,1488456
+2021,10,Gujarat,Surat,Cyber Crime,15,939968
+2021,3,Gujarat,Vadodara,Cyber Crime,5,438224
+2021,3,Gujarat,Vadodara,Kidnapping,37,248176
+2021,3,Gujarat,Vadodara,Theft,33,1307435
+2021,4,Gujarat,Vadodara,Homicide,49,1431939
+2021,4,Gujarat,Vadodara,Kidnapping,44,934818
+2021,4,Gujarat,Vadodara,Theft,65,1415340
+2021,7,Gujarat,Vadodara,Burglary,55,694660
+2021,7,Gujarat,Vadodara,Homicide,30,192815
+2021,7,Gujarat,Vadodara,Kidnapping,65,358172
+2021,8,Gujarat,Vadodara,Assault,46,913132
+2021,8,Gujarat,Vadodara,Cyber Crime,42,327882
+2021,8,Gujarat,Vadodara,Fraud,53,1106378
+2021,9,Gujarat,Vadodara,Cyber Crime,4,1066804
+2021,9,Gujarat,Vadodara,Homicide,46,379758
+2021,9,Gujarat,Vadodara,Robbery,14,580536
+2021,10,Gujarat,Vadodara,Burglary,32,1351963
+2021,10,Gujarat,Vadodara,Cyber Crime,66,698434
+2021,10,Gujarat,Vadodara,Kidnapping,34,512999
+2021,2,Karnataka,Bengaluru,Burglary,10,1385214
+2021,2,Karnataka,Bengaluru,Cyber Crime,57,929391
+2021,2,Karnataka,Bengaluru,Robbery,16,304634
+2021,3,Karnataka,Bengaluru,Assault,14,621467
+2021,3,Karnataka,Bengaluru,Burglary,65,1330168
+2021,3,Karnataka,Bengaluru,Fraud,49,162169
+2021,5,Karnataka,Bengaluru,Assault,28,1481403
+2021,5,Karnataka,Bengaluru,Cyber Crime,56,286796
+2021,5,Karnataka,Bengaluru,Robbery,24,1338520
+2021,6,Karnataka,Bengaluru,Assault,49,379685
+2021,6,Karnataka,Bengaluru,Cyber Crime,32,1125958
+2021,6,Karnataka,Bengaluru,Kidnapping,18,888886
+2021,11,Karnataka,Bengaluru,Homicide,27,694206
+2021,11,Karnataka,Bengaluru,Robbery,64,137768
+2021,11,Karnataka,Bengaluru,Theft,54,1379020
+2021,12,Karnataka,Bengaluru,Burglary,48,208404
+2021,12,Karnataka,Bengaluru,Cyber Crime,39,1378178
+2021,12,Karnataka,Bengaluru,Robbery,17,740623
+2021,3,Karnataka,Mangaluru,Assault,53,396093
+2021,3,Karnataka,Mangaluru,Cyber Crime,60,1363050
+2021,3,Karnataka,Mangaluru,Fraud,64,463396
+2021,4,Karnataka,Mangaluru,Assault,36,964635
+2021,4,Karnataka,Mangaluru,Kidnapping,17,279058
+2021,4,Karnataka,Mangaluru,Theft,44,899569
+2021,5,Karnataka,Mangaluru,Burglary,50,916382
+2021,5,Karnataka,Mangaluru,Fraud,13,1071822
+2021,5,Karnataka,Mangaluru,Robbery,24,572587
+2021,8,Karnataka,Mangaluru,Cyber Crime,56,1461577
+2021,8,Karnataka,Mangaluru,Kidnapping,36,673133
+2021,8,Karnataka,Mangaluru,Robbery,61,424712
+2021,10,Karnataka,Mangaluru,Assault,29,1401406
+2021,10,Karnataka,Mangaluru,Cyber Crime,72,579502
+2021,10,Karnataka,Mangaluru,Fraud,56,505058
+2021,12,Karnataka,Mangaluru,Assault,22,293794
+2021,12,Karnataka,Mangaluru,Burglary,16,1466905
+2021,12,Karnataka,Mangaluru,Theft,66,772475
+2021,1,Karnataka,Mysuru,Cyber Crime,26,1179083
+2021,1,Karnataka,Mysuru,Fraud,26,657447
+2021,1,Karnataka,Mysuru,Theft,40,139254
+2021,4,Karnataka,Mysuru,Assault,28,811531
+2021,4,Karnataka,Mysuru,Burglary,31,249355
+2021,4,Karnataka,Mysuru,Robbery,36,390552
+2021,5,Karnataka,Mysuru,Homicide,48,246719
+2021,5,Karnataka,Mysuru,Robbery,45,309290
+2021,5,Karnataka,Mysuru,Theft,44,852333
+2021,9,Karnataka,Mysuru,Assault,8,1147142
+2021,9,Karnataka,Mysuru,Cyber Crime,65,681671
+2021,9,Karnataka,Mysuru,Fraud,16,387303
+2021,11,Karnataka,Mysuru,Fraud,65,846600
+2021,11,Karnataka,Mysuru,Kidnapping,30,743775
+2021,11,Karnataka,Mysuru,Robbery,7,555129
+2021,12,Karnataka,Mysuru,Homicide,11,979212
+2021,12,Karnataka,Mysuru,Kidnapping,32,931022
+2021,12,Karnataka,Mysuru,Robbery,60,1182629
+2021,1,Kerala,Kochi,Burglary,44,1030435
+2021,1,Kerala,Kochi,Cyber Crime,24,1000155
+2021,1,Kerala,Kochi,Kidnapping,6,627008
+2021,4,Kerala,Kochi,Cyber Crime,50,1304510
+2021,4,Kerala,Kochi,Fraud,58,1498734
+2021,4,Kerala,Kochi,Homicide,16,797014
+2021,5,Kerala,Kochi,Assault,31,854956
+2021,5,Kerala,Kochi,Kidnapping,60,1180918
+2021,5,Kerala,Kochi,Theft,24,205679
+2021,7,Kerala,Kochi,Assault,44,774903
+2021,7,Kerala,Kochi,Burglary,39,500776
+2021,7,Kerala,Kochi,Theft,50,161762
+2021,10,Kerala,Kochi,Assault,59,1264880
+2021,10,Kerala,Kochi,Burglary,41,146389
+2021,10,Kerala,Kochi,Kidnapping,26,1027076
+2021,11,Kerala,Kochi,Fraud,1,722401
+2021,11,Kerala,Kochi,Kidnapping,43,1271224
+2021,11,Kerala,Kochi,Theft,63,481685
+2021,3,Kerala,Kozhikode,Assault,72,1114555
+2021,3,Kerala,Kozhikode,Cyber Crime,15,326936
+2021,3,Kerala,Kozhikode,Fraud,75,482282
+2021,4,Kerala,Kozhikode,Assault,34,1087841
+2021,4,Kerala,Kozhikode,Kidnapping,14,667014
+2021,4,Kerala,Kozhikode,Theft,36,219927
+2021,5,Kerala,Kozhikode,Fraud,52,421765
+2021,5,Kerala,Kozhikode,Kidnapping,37,274678
+2021,5,Kerala,Kozhikode,Theft,32,1365520
+2021,9,Kerala,Kozhikode,Fraud,46,256392
+2021,9,Kerala,Kozhikode,Kidnapping,18,550476
+2021,9,Kerala,Kozhikode,Robbery,6,676299
+2021,10,Kerala,Kozhikode,Assault,26,390040
+2021,10,Kerala,Kozhikode,Cyber Crime,18,925698
+2021,10,Kerala,Kozhikode,Theft,53,953981
+2021,12,Kerala,Kozhikode,Assault,17,699252
+2021,12,Kerala,Kozhikode,Burglary,22,366804
+2021,12,Kerala,Kozhikode,Homicide,23,785123
+2021,1,Kerala,Thiruvananthapuram,Assault,43,309516
+2021,1,Kerala,Thiruvananthapuram,Fraud,26,1433327
+2021,1,Kerala,Thiruvananthapuram,Theft,19,1407388
+2021,2,Kerala,Thiruvananthapuram,Assault,3,291632
+2021,2,Kerala,Thiruvananthapuram,Burglary,33,1477358
+2021,2,Kerala,Thiruvananthapuram,Robbery,45,1268475
+2021,3,Kerala,Thiruvananthapuram,Burglary,69,1302252
+2021,3,Kerala,Thiruvananthapuram,Cyber Crime,14,456805
+2021,3,Kerala,Thiruvananthapuram,Homicide,45,714629
+2021,4,Kerala,Thiruvananthapuram,Burglary,38,1422424
+2021,4,Kerala,Thiruvananthapuram,Fraud,63,638883
+2021,4,Kerala,Thiruvananthapuram,Theft,14,272485
+2021,6,Kerala,Thiruvananthapuram,Assault,46,625151
+2021,6,Kerala,Thiruvananthapuram,Burglary,20,1470116
+2021,6,Kerala,Thiruvananthapuram,Robbery,52,762752
+2021,7,Kerala,Thiruvananthapuram,Assault,37,952161
+2021,7,Kerala,Thiruvananthapuram,Fraud,14,194102
+2021,7,Kerala,Thiruvananthapuram,Theft,23,811203
+2021,3,Maharashtra,Nagpur,Assault,72,888357
+2021,3,Maharashtra,Nagpur,Kidnapping,73,904624
+2021,3,Maharashtra,Nagpur,Robbery,33,1269190
+2021,5,Maharashtra,Nagpur,Assault,48,860719
+2021,5,Maharashtra,Nagpur,Burglary,13,744865
+2021,5,Maharashtra,Nagpur,Cyber Crime,50,299955
+2021,6,Maharashtra,Nagpur,Cyber Crime,44,194294
+2021,6,Maharashtra,Nagpur,Homicide,2,372485
+2021,6,Maharashtra,Nagpur,Robbery,12,1330606
+2021,7,Maharashtra,Nagpur,Cyber Crime,17,1159307
+2021,7,Maharashtra,Nagpur,Fraud,40,195947
+2021,7,Maharashtra,Nagpur,Homicide,58,741720
+2021,8,Maharashtra,Nagpur,Burglary,4,895480
+2021,8,Maharashtra,Nagpur,Fraud,56,1488762
+2021,8,Maharashtra,Nagpur,Theft,42,1066441
+2021,9,Maharashtra,Nagpur,Cyber Crime,44,435850
+2021,9,Maharashtra,Nagpur,Homicide,62,108215
+2021,9,Maharashtra,Nagpur,Kidnapping,65,1163117
+2021,5,Maharashtra,Nashik,Burglary,32,907963
+2021,5,Maharashtra,Nashik,Cyber Crime,26,411722
+2021,5,Maharashtra,Nashik,Homicide,35,521399
+2021,6,Maharashtra,Nashik,Assault,86,1405585
+2021,6,Maharashtra,Nashik,Fraud,42,1060222
+2021,6,Maharashtra,Nashik,Theft,14,957808
+2021,7,Maharashtra,Nashik,Cyber Crime,40,646549
+2021,7,Maharashtra,Nashik,Homicide,4,1484091
+2021,7,Maharashtra,Nashik,Theft,9,142404
+2021,10,Maharashtra,Nashik,Fraud,31,1018208
+2021,10,Maharashtra,Nashik,Homicide,23,415059
+2021,10,Maharashtra,Nashik,Kidnapping,2,889977
+2021,11,Maharashtra,Nashik,Cyber Crime,50,1322774
+2021,11,Maharashtra,Nashik,Fraud,60,1208644
+2021,11,Maharashtra,Nashik,Theft,12,668015
+2021,12,Maharashtra,Nashik,Assault,21,349358
+2021,12,Maharashtra,Nashik,Fraud,8,704355
+2021,12,Maharashtra,Nashik,Kidnapping,20,618455
+2021,2,Maharashtra,Pune,Cyber Crime,40,743573
+2021,2,Maharashtra,Pune,Fraud,58,307257
+2021,2,Maharashtra,Pune,Theft,43,474439
+2021,3,Maharashtra,Pune,Fraud,56,383423
+2021,3,Maharashtra,Pune,Kidnapping,13,1321018
+2021,3,Maharashtra,Pune,Robbery,35,958328
+2021,7,Maharashtra,Pune,Assault,42,573899
+2021,7,Maharashtra,Pune,Burglary,36,797711
+2021,7,Maharashtra,Pune,Cyber Crime,49,387253
+2021,8,Maharashtra,Pune,Assault,38,517329
+2021,8,Maharashtra,Pune,Homicide,62,1425011
+2021,8,Maharashtra,Pune,Robbery,46,246788
+2021,9,Maharashtra,Pune,Homicide,38,936792
+2021,9,Maharashtra,Pune,Kidnapping,9,376608
+2021,9,Maharashtra,Pune,Robbery,22,1454048
+2021,11,Maharashtra,Pune,Burglary,46,702763
+2021,11,Maharashtra,Pune,Fraud,30,942279
+2021,11,Maharashtra,Pune,Kidnapping,58,273612
+2021,2,Rajasthan,Jaipur,Burglary,54,1064984
+2021,2,Rajasthan,Jaipur,Homicide,52,1491206
+2021,2,Rajasthan,Jaipur,Kidnapping,47,1218115
+2021,6,Rajasthan,Jaipur,Burglary,27,374552
+2021,6,Rajasthan,Jaipur,Fraud,53,223867
+2021,6,Rajasthan,Jaipur,Theft,11,1199420
+2021,8,Rajasthan,Jaipur,Assault,4,1177863
+2021,8,Rajasthan,Jaipur,Fraud,21,351797
+2021,8,Rajasthan,Jaipur,Homicide,20,495981
+2021,9,Rajasthan,Jaipur,Assault,43,882814
+2021,9,Rajasthan,Jaipur,Kidnapping,61,725759
+2021,9,Rajasthan,Jaipur,Theft,21,621288
+2021,10,Rajasthan,Jaipur,Homicide,53,1156838
+2021,10,Rajasthan,Jaipur,Kidnapping,49,1462490
+2021,10,Rajasthan,Jaipur,Theft,47,991774
+2021,12,Rajasthan,Jaipur,Burglary,13,1489346
+2021,12,Rajasthan,Jaipur,Fraud,10,367767
+2021,12,Rajasthan,Jaipur,Theft,22,1422852
+2021,2,Rajasthan,Jodhpur,Assault,69,1241686
+2021,2,Rajasthan,Jodhpur,Burglary,57,1481599
+2021,2,Rajasthan,Jodhpur,Theft,17,1447731
+2021,3,Rajasthan,Jodhpur,Assault,9,596750
+2021,3,Rajasthan,Jodhpur,Homicide,51,997524
+2021,3,Rajasthan,Jodhpur,Kidnapping,71,668495
+2021,4,Rajasthan,Jodhpur,Cyber Crime,43,1262577
+2021,4,Rajasthan,Jodhpur,Kidnapping,49,530051
+2021,4,Rajasthan,Jodhpur,Theft,26,1286458
+2021,8,Rajasthan,Jodhpur,Cyber Crime,41,785041
+2021,8,Rajasthan,Jodhpur,Kidnapping,49,115404
+2021,8,Rajasthan,Jodhpur,Theft,22,708495
+2021,10,Rajasthan,Jodhpur,Cyber Crime,5,811416
+2021,10,Rajasthan,Jodhpur,Kidnapping,31,997587
+2021,10,Rajasthan,Jodhpur,Robbery,28,523131
+2021,11,Rajasthan,Jodhpur,Cyber Crime,30,236659
+2021,11,Rajasthan,Jodhpur,Kidnapping,3,1357508
+2021,11,Rajasthan,Jodhpur,Theft,19,142162
+2021,2,Rajasthan,Udaipur,Assault,27,671212
+2021,2,Rajasthan,Udaipur,Cyber Crime,37,515605
+2021,2,Rajasthan,Udaipur,Theft,40,1401909
+2021,3,Rajasthan,Udaipur,Fraud,51,302420
+2021,3,Rajasthan,Udaipur,Homicide,77,209457
+2021,3,Rajasthan,Udaipur,Theft,51,1298586
+2021,4,Rajasthan,Udaipur,Burglary,47,1457234
+2021,4,Rajasthan,Udaipur,Fraud,68,794729
+2021,4,Rajasthan,Udaipur,Kidnapping,34,678404
+2021,5,Rajasthan,Udaipur,Burglary,35,141316
+2021,5,Rajasthan,Udaipur,Cyber Crime,21,283784
+2021,5,Rajasthan,Udaipur,Homicide,40,1258775
+2021,7,Rajasthan,Udaipur,Assault,62,1070380
+2021,7,Rajasthan,Udaipur,Burglary,56,1026034
+2021,7,Rajasthan,Udaipur,Kidnapping,11,643158
+2021,8,Rajasthan,Udaipur,Assault,63,418838
+2021,8,Rajasthan,Udaipur,Burglary,9,1180848
+2021,8,Rajasthan,Udaipur,Theft,42,682297
+2021,2,Tamil Nadu,Chennai,Assault,7,276576
+2021,2,Tamil Nadu,Chennai,Burglary,13,180571
+2021,2,Tamil Nadu,Chennai,Homicide,58,1404511
+2021,3,Tamil Nadu,Chennai,Burglary,55,557127
+2021,3,Tamil Nadu,Chennai,Cyber Crime,4,1424152
+2021,3,Tamil Nadu,Chennai,Fraud,41,1321815
+2021,5,Tamil Nadu,Chennai,Assault,43,567807
+2021,5,Tamil Nadu,Chennai,Cyber Crime,13,1247921
+2021,5,Tamil Nadu,Chennai,Theft,52,744970
+2021,6,Tamil Nadu,Chennai,Cyber Crime,14,1451707
+2021,6,Tamil Nadu,Chennai,Fraud,28,908941
+2021,6,Tamil Nadu,Chennai,Kidnapping,68,624441
+2021,7,Tamil Nadu,Chennai,Fraud,31,186674
+2021,7,Tamil Nadu,Chennai,Robbery,49,1414046
+2021,7,Tamil Nadu,Chennai,Theft,32,828387
+2021,8,Tamil Nadu,Chennai,Assault,10,116440
+2021,8,Tamil Nadu,Chennai,Homicide,62,359627
+2021,8,Tamil Nadu,Chennai,Theft,54,1069093
+2021,1,Tamil Nadu,Madurai,Burglary,50,1068797
+2021,1,Tamil Nadu,Madurai,Cyber Crime,18,681857
+2021,1,Tamil Nadu,Madurai,Fraud,38,1217941
+2021,5,Tamil Nadu,Madurai,Fraud,32,377741
+2021,5,Tamil Nadu,Madurai,Kidnapping,62,164043
+2021,5,Tamil Nadu,Madurai,Robbery,22,427761
+2021,7,Tamil Nadu,Madurai,Cyber Crime,44,1325937
+2021,7,Tamil Nadu,Madurai,Robbery,46,727557
+2021,7,Tamil Nadu,Madurai,Theft,13,759885
+2021,8,Tamil Nadu,Madurai,Burglary,16,1208367
+2021,8,Tamil Nadu,Madurai,Cyber Crime,67,565849
+2021,8,Tamil Nadu,Madurai,Homicide,70,367197
+2021,9,Tamil Nadu,Madurai,Homicide,19,826642
+2021,9,Tamil Nadu,Madurai,Kidnapping,8,1222779
+2021,9,Tamil Nadu,Madurai,Robbery,38,1368263
+2021,10,Tamil Nadu,Madurai,Burglary,43,1106435
+2021,10,Tamil Nadu,Madurai,Fraud,35,1366425
+2021,10,Tamil Nadu,Madurai,Robbery,30,422522
+2021,1,Tamil Nadu,Tiruchirappalli,Assault,41,824645
+2021,1,Tamil Nadu,Tiruchirappalli,Fraud,43,1124808
+2021,1,Tamil Nadu,Tiruchirappalli,Homicide,23,139904
+2021,2,Tamil Nadu,Tiruchirappalli,Assault,41,1208366
+2021,2,Tamil Nadu,Tiruchirappalli,Fraud,63,182898
+2021,2,Tamil Nadu,Tiruchirappalli,Kidnapping,72,318667
+2021,7,Tamil Nadu,Tiruchirappalli,Assault,50,1235120
+2021,7,Tamil Nadu,Tiruchirappalli,Cyber Crime,14,338695
+2021,7,Tamil Nadu,Tiruchirappalli,Theft,18,390995
+2021,9,Tamil Nadu,Tiruchirappalli,Burglary,12,861391
+2021,9,Tamil Nadu,Tiruchirappalli,Homicide,61,396049
+2021,9,Tamil Nadu,Tiruchirappalli,Kidnapping,12,1426363
+2021,11,Tamil Nadu,Tiruchirappalli,Burglary,57,305408
+2021,11,Tamil Nadu,Tiruchirappalli,Homicide,69,672029
+2021,11,Tamil Nadu,Tiruchirappalli,Theft,21,1042227
+2021,12,Tamil Nadu,Tiruchirappalli,Burglary,16,958582
+2021,12,Tamil Nadu,Tiruchirappalli,Fraud,14,803177
+2021,12,Tamil Nadu,Tiruchirappalli,Kidnapping,24,1116183
+2021,1,Telangana,Hyderabad,Burglary,60,781291
+2021,1,Telangana,Hyderabad,Fraud,65,1337368
+2021,1,Telangana,Hyderabad,Kidnapping,24,130337
+2021,2,Telangana,Hyderabad,Cyber Crime,13,1186620
+2021,2,Telangana,Hyderabad,Kidnapping,40,604761
+2021,2,Telangana,Hyderabad,Robbery,13,1340076
+2021,3,Telangana,Hyderabad,Cyber Crime,33,931696
+2021,3,Telangana,Hyderabad,Homicide,48,1367028
+2021,3,Telangana,Hyderabad,Theft,59,602388
+2021,7,Telangana,Hyderabad,Fraud,20,1485062
+2021,7,Telangana,Hyderabad,Kidnapping,71,804592
+2021,7,Telangana,Hyderabad,Theft,33,891166
+2021,8,Telangana,Hyderabad,Assault,6,898108
+2021,8,Telangana,Hyderabad,Fraud,47,1119974
+2021,8,Telangana,Hyderabad,Homicide,47,1173005
+2021,10,Telangana,Hyderabad,Fraud,65,1065816
+2021,10,Telangana,Hyderabad,Kidnapping,61,1074017
+2021,10,Telangana,Hyderabad,Robbery,50,1250526
+2021,2,Telangana,Karimnagar,Assault,91,612819
+2021,2,Telangana,Karimnagar,Kidnapping,46,577787
+2021,2,Telangana,Karimnagar,Theft,39,879041
+2021,3,Telangana,Karimnagar,Homicide,72,690635
+2021,3,Telangana,Karimnagar,Kidnapping,55,781607
+2021,3,Telangana,Karimnagar,Robbery,15,1480514
+2021,5,Telangana,Karimnagar,Burglary,13,177404
+2021,5,Telangana,Karimnagar,Cyber Crime,38,358676
+2021,5,Telangana,Karimnagar,Robbery,23,808899
+2021,6,Telangana,Karimnagar,Assault,14,537174
+2021,6,Telangana,Karimnagar,Fraud,49,1236818
+2021,6,Telangana,Karimnagar,Kidnapping,29,806167
+2021,7,Telangana,Karimnagar,Assault,17,1315111
+2021,7,Telangana,Karimnagar,Burglary,7,402392
+2021,7,Telangana,Karimnagar,Cyber Crime,41,1180708
+2021,9,Telangana,Karimnagar,Burglary,39,540062
+2021,9,Telangana,Karimnagar,Cyber Crime,63,1169354
+2021,9,Telangana,Karimnagar,Fraud,58,1002428
+2021,2,Telangana,Warangal,Assault,23,835261
+2021,2,Telangana,Warangal,Cyber Crime,50,469710
+2021,2,Telangana,Warangal,Robbery,30,196091
+2021,5,Telangana,Warangal,Fraud,24,854495
+2021,5,Telangana,Warangal,Homicide,39,981279
+2021,5,Telangana,Warangal,Theft,77,1288715
+2021,6,Telangana,Warangal,Assault,18,1110782
+2021,6,Telangana,Warangal,Burglary,37,292666
+2021,6,Telangana,Warangal,Robbery,34,1311894
+2021,7,Telangana,Warangal,Assault,64,1156609
+2021,7,Telangana,Warangal,Burglary,34,362932
+2021,7,Telangana,Warangal,Kidnapping,79,389627
+2021,11,Telangana,Warangal,Burglary,59,772799
+2021,11,Telangana,Warangal,Cyber Crime,56,469357
+2021,11,Telangana,Warangal,Fraud,20,1013690
+2021,12,Telangana,Warangal,Assault,19,173242
+2021,12,Telangana,Warangal,Burglary,7,860696
+2021,12,Telangana,Warangal,Fraud,18,1256416
+2021,1,Uttar Pradesh,Kanpur,Assault,48,541326
+2021,1,Uttar Pradesh,Kanpur,Kidnapping,32,1033942
+2021,1,Uttar Pradesh,Kanpur,Robbery,5,184951
+2021,3,Uttar Pradesh,Kanpur,Cyber Crime,24,937638
+2021,3,Uttar Pradesh,Kanpur,Fraud,55,1382738
+2021,3,Uttar Pradesh,Kanpur,Homicide,29,1023456
+2021,4,Uttar Pradesh,Kanpur,Assault,56,318366
+2021,4,Uttar Pradesh,Kanpur,Cyber Crime,32,1107249
+2021,4,Uttar Pradesh,Kanpur,Fraud,71,851715
+2021,5,Uttar Pradesh,Kanpur,Burglary,38,1486922
+2021,5,Uttar Pradesh,Kanpur,Cyber Crime,7,329700
+2021,5,Uttar Pradesh,Kanpur,Homicide,15,1051280
+2021,7,Uttar Pradesh,Kanpur,Assault,6,1200843
+2021,7,Uttar Pradesh,Kanpur,Burglary,27,1117126
+2021,7,Uttar Pradesh,Kanpur,Theft,67,161075
+2021,9,Uttar Pradesh,Kanpur,Burglary,25,100863
+2021,9,Uttar Pradesh,Kanpur,Cyber Crime,31,584408
+2021,9,Uttar Pradesh,Kanpur,Theft,60,1005864
+2021,1,Uttar Pradesh,Noida,Burglary,53,190888
+2021,1,Uttar Pradesh,Noida,Cyber Crime,40,943653
+2021,1,Uttar Pradesh,Noida,Robbery,23,926526
+2021,2,Uttar Pradesh,Noida,Burglary,21,367131
+2021,2,Uttar Pradesh,Noida,Cyber Crime,9,160169
+2021,2,Uttar Pradesh,Noida,Fraud,14,1001699
+2021,3,Uttar Pradesh,Noida,Burglary,20,956137
+2021,3,Uttar Pradesh,Noida,Cyber Crime,67,1060678
+2021,3,Uttar Pradesh,Noida,Fraud,43,1317800
+2021,5,Uttar Pradesh,Noida,Assault,50,612191
+2021,5,Uttar Pradesh,Noida,Kidnapping,45,852108
+2021,5,Uttar Pradesh,Noida,Theft,54,1037828
+2021,8,Uttar Pradesh,Noida,Burglary,36,1122805
+2021,8,Uttar Pradesh,Noida,Homicide,43,400762
+2021,8,Uttar Pradesh,Noida,Robbery,50,876268
+2021,10,Uttar Pradesh,Noida,Cyber Crime,32,1317287
+2021,10,Uttar Pradesh,Noida,Fraud,71,213464
+2021,10,Uttar Pradesh,Noida,Theft,35,476448
+2021,6,Uttar Pradesh,Varanasi,Assault,26,1040264
+2021,6,Uttar Pradesh,Varanasi,Homicide,31,125074
+2021,6,Uttar Pradesh,Varanasi,Theft,11,576175
+2021,7,Uttar Pradesh,Varanasi,Assault,43,559978
+2021,7,Uttar Pradesh,Varanasi,Cyber Crime,52,824785
+2021,7,Uttar Pradesh,Varanasi,Robbery,46,1220844
+2021,8,Uttar Pradesh,Varanasi,Assault,7,1145674
+2021,8,Uttar Pradesh,Varanasi,Cyber Crime,57,977773
+2021,8,Uttar Pradesh,Varanasi,Robbery,37,614559
+2021,10,Uttar Pradesh,Varanasi,Cyber Crime,38,1033460
+2021,10,Uttar Pradesh,Varanasi,Homicide,44,703993
+2021,10,Uttar Pradesh,Varanasi,Robbery,69,907443
+2021,11,Uttar Pradesh,Varanasi,Burglary,55,461569
+2021,11,Uttar Pradesh,Varanasi,Fraud,37,1162482
+2021,11,Uttar Pradesh,Varanasi,Homicide,30,1016341
+2021,12,Uttar Pradesh,Varanasi,Burglary,22,594983
+2021,12,Uttar Pradesh,Varanasi,Robbery,55,419854
+2021,12,Uttar Pradesh,Varanasi,Theft,24,271544
+2021,2,West Bengal,Durgapur,Fraud,44,1272187
+2021,2,West Bengal,Durgapur,Homicide,15,267976
+2021,2,West Bengal,Durgapur,Kidnapping,30,766936
+2021,3,West Bengal,Durgapur,Assault,21,222592
+2021,3,West Bengal,Durgapur,Cyber Crime,28,802555
+2021,3,West Bengal,Durgapur,Homicide,76,1151662
+2021,4,West Bengal,Durgapur,Burglary,30,1097512
+2021,4,West Bengal,Durgapur,Homicide,61,365878
+2021,4,West Bengal,Durgapur,Theft,70,1401517
+2021,7,West Bengal,Durgapur,Assault,55,1269071
+2021,7,West Bengal,Durgapur,Cyber Crime,32,825107
+2021,7,West Bengal,Durgapur,Homicide,44,189320
+2021,10,West Bengal,Durgapur,Cyber Crime,27,1078901
+2021,10,West Bengal,Durgapur,Fraud,31,854403
+2021,10,West Bengal,Durgapur,Kidnapping,65,649098
+2021,12,West Bengal,Durgapur,Burglary,10,909806
+2021,12,West Bengal,Durgapur,Robbery,59,452893
+2021,12,West Bengal,Durgapur,Theft,62,590105
+2021,2,West Bengal,Howrah,Fraud,16,1401684
+2021,2,West Bengal,Howrah,Homicide,17,939870
+2021,2,West Bengal,Howrah,Kidnapping,12,571604
+2021,4,West Bengal,Howrah,Assault,43,232138
+2021,4,West Bengal,Howrah,Burglary,50,1170086
+2021,4,West Bengal,Howrah,Fraud,41,963536
+2021,5,West Bengal,Howrah,Assault,46,482985
+2021,5,West Bengal,Howrah,Kidnapping,54,1385084
+2021,5,West Bengal,Howrah,Robbery,55,695415
+2021,6,West Bengal,Howrah,Cyber Crime,18,466281
+2021,6,West Bengal,Howrah,Fraud,36,126102
+2021,6,West Bengal,Howrah,Homicide,8,106611
+2021,7,West Bengal,Howrah,Assault,20,865235
+2021,7,West Bengal,Howrah,Cyber Crime,19,261334
+2021,7,West Bengal,Howrah,Homicide,8,1414134
+2021,12,West Bengal,Howrah,Burglary,51,216418
+2021,12,West Bengal,Howrah,Robbery,45,1405687
+2021,12,West Bengal,Howrah,Theft,21,949614
+2021,2,West Bengal,Kolkata,Assault,38,1270133
+2021,2,West Bengal,Kolkata,Robbery,14,1402264
+2021,2,West Bengal,Kolkata,Theft,40,239074
+2021,3,West Bengal,Kolkata,Kidnapping,6,1220274
+2021,3,West Bengal,Kolkata,Robbery,45,338324
+2021,3,West Bengal,Kolkata,Theft,24,235698
+2021,5,West Bengal,Kolkata,Assault,11,798483
+2021,5,West Bengal,Kolkata,Kidnapping,61,480341
+2021,5,West Bengal,Kolkata,Robbery,43,234181
+2021,7,West Bengal,Kolkata,Burglary,6,750953
+2021,7,West Bengal,Kolkata,Cyber Crime,47,465221
+2021,7,West Bengal,Kolkata,Robbery,42,221102
+2021,11,West Bengal,Kolkata,Assault,36,467170
+2021,11,West Bengal,Kolkata,Fraud,42,968387
+2021,11,West Bengal,Kolkata,Theft,44,724192
+2021,12,West Bengal,Kolkata,Fraud,50,236572
+2021,12,West Bengal,Kolkata,Robbery,65,330604
+2021,12,West Bengal,Kolkata,Theft,24,1386064
+2022,1,Delhi,Dwarka,Assault,38,498044
+2022,1,Delhi,Dwarka,Fraud,83,797705
+2022,1,Delhi,Dwarka,Theft,43,1166835
+2022,2,Delhi,Dwarka,Assault,59,1464593
+2022,2,Delhi,Dwarka,Fraud,8,1095146
+2022,2,Delhi,Dwarka,Theft,8,888745
+2022,3,Delhi,Dwarka,Fraud,8,125266
+2022,3,Delhi,Dwarka,Homicide,68,1168633
+2022,3,Delhi,Dwarka,Kidnapping,43,120554
+2022,4,Delhi,Dwarka,Burglary,58,624633
+2022,4,Delhi,Dwarka,Kidnapping,5,280153
+2022,4,Delhi,Dwarka,Theft,8,361692
+2022,6,Delhi,Dwarka,Fraud,68,124173
+2022,6,Delhi,Dwarka,Kidnapping,43,171046
+2022,6,Delhi,Dwarka,Robbery,20,488898
+2022,8,Delhi,Dwarka,Burglary,33,904166
+2022,8,Delhi,Dwarka,Cyber Crime,77,1282318
+2022,8,Delhi,Dwarka,Homicide,52,1368445
+2022,2,Delhi,New Delhi,Kidnapping,65,621090
+2022,2,Delhi,New Delhi,Robbery,22,896233
+2022,2,Delhi,New Delhi,Theft,50,1117046
+2022,3,Delhi,New Delhi,Assault,43,463021
+2022,3,Delhi,New Delhi,Fraud,41,534416
+2022,3,Delhi,New Delhi,Robbery,41,1322989
+2022,4,Delhi,New Delhi,Cyber Crime,34,122039
+2022,4,Delhi,New Delhi,Fraud,29,734630
+2022,4,Delhi,New Delhi,Kidnapping,69,498658
+2022,10,Delhi,New Delhi,Cyber Crime,64,1358439
+2022,10,Delhi,New Delhi,Homicide,27,439762
+2022,10,Delhi,New Delhi,Kidnapping,36,683437
+2022,11,Delhi,New Delhi,Assault,10,232914
+2022,11,Delhi,New Delhi,Cyber Crime,15,1168349
+2022,11,Delhi,New Delhi,Fraud,12,789457
+2022,12,Delhi,New Delhi,Homicide,74,1461784
+2022,12,Delhi,New Delhi,Robbery,35,988270
+2022,12,Delhi,New Delhi,Theft,17,220041
+2022,1,Delhi,Rohini,Cyber Crime,14,502400
+2022,1,Delhi,Rohini,Fraud,22,1376318
+2022,1,Delhi,Rohini,Robbery,37,508814
+2022,2,Delhi,Rohini,Cyber Crime,13,105586
+2022,2,Delhi,Rohini,Fraud,72,135688
+2022,2,Delhi,Rohini,Homicide,45,474808
+2022,4,Delhi,Rohini,Burglary,37,448859
+2022,4,Delhi,Rohini,Kidnapping,39,1207137
+2022,4,Delhi,Rohini,Theft,53,167788
+2022,6,Delhi,Rohini,Burglary,49,1498026
+2022,6,Delhi,Rohini,Homicide,52,1365466
+2022,6,Delhi,Rohini,Theft,33,1064372
+2022,8,Delhi,Rohini,Cyber Crime,29,267731
+2022,8,Delhi,Rohini,Fraud,54,273669
+2022,8,Delhi,Rohini,Theft,6,337573
+2022,9,Delhi,Rohini,Assault,10,608182
+2022,9,Delhi,Rohini,Fraud,6,993040
+2022,9,Delhi,Rohini,Kidnapping,66,215519
+2022,1,Gujarat,Ahmedabad,Burglary,48,233283
+2022,1,Gujarat,Ahmedabad,Fraud,17,605944
+2022,1,Gujarat,Ahmedabad,Homicide,27,1191850
+2022,2,Gujarat,Ahmedabad,Cyber Crime,53,1269157
+2022,2,Gujarat,Ahmedabad,Robbery,31,667575
+2022,2,Gujarat,Ahmedabad,Theft,41,1128157
+2022,3,Gujarat,Ahmedabad,Burglary,24,956423
+2022,3,Gujarat,Ahmedabad,Homicide,25,1383036
+2022,3,Gujarat,Ahmedabad,Robbery,55,624213
+2022,4,Gujarat,Ahmedabad,Cyber Crime,22,229274
+2022,4,Gujarat,Ahmedabad,Fraud,19,824527
+2022,4,Gujarat,Ahmedabad,Kidnapping,53,1034311
+2022,7,Gujarat,Ahmedabad,Kidnapping,54,594336
+2022,7,Gujarat,Ahmedabad,Robbery,16,232258
+2022,7,Gujarat,Ahmedabad,Theft,29,1133379
+2022,8,Gujarat,Ahmedabad,Kidnapping,41,989992
+2022,8,Gujarat,Ahmedabad,Robbery,54,818657
+2022,8,Gujarat,Ahmedabad,Theft,54,519434
+2022,1,Gujarat,Surat,Burglary,13,691458
+2022,1,Gujarat,Surat,Kidnapping,46,387503
+2022,1,Gujarat,Surat,Theft,10,1154544
+2022,2,Gujarat,Surat,Burglary,8,1490503
+2022,2,Gujarat,Surat,Cyber Crime,15,183407
+2022,2,Gujarat,Surat,Kidnapping,13,206656
+2022,3,Gujarat,Surat,Cyber Crime,26,264735
+2022,3,Gujarat,Surat,Fraud,36,698179
+2022,3,Gujarat,Surat,Homicide,58,693160
+2022,5,Gujarat,Surat,Assault,10,1372241
+2022,5,Gujarat,Surat,Burglary,42,843905
+2022,5,Gujarat,Surat,Fraud,39,1480852
+2022,6,Gujarat,Surat,Cyber Crime,31,865635
+2022,6,Gujarat,Surat,Kidnapping,52,625134
+2022,6,Gujarat,Surat,Theft,9,167284
+2022,9,Gujarat,Surat,Burglary,31,1072563
+2022,9,Gujarat,Surat,Cyber Crime,65,1353536
+2022,9,Gujarat,Surat,Kidnapping,42,1478755
+2022,1,Gujarat,Vadodara,Cyber Crime,30,1211221
+2022,1,Gujarat,Vadodara,Homicide,56,859605
+2022,1,Gujarat,Vadodara,Kidnapping,67,592277
+2022,3,Gujarat,Vadodara,Burglary,34,1224744
+2022,3,Gujarat,Vadodara,Fraud,62,915551
+2022,3,Gujarat,Vadodara,Kidnapping,57,179912
+2022,5,Gujarat,Vadodara,Cyber Crime,45,778670
+2022,5,Gujarat,Vadodara,Fraud,4,325043
+2022,5,Gujarat,Vadodara,Kidnapping,66,364088
+2022,7,Gujarat,Vadodara,Assault,18,1032678
+2022,7,Gujarat,Vadodara,Homicide,24,334160
+2022,7,Gujarat,Vadodara,Robbery,15,687577
+2022,9,Gujarat,Vadodara,Assault,59,1178890
+2022,9,Gujarat,Vadodara,Cyber Crime,11,404110
+2022,9,Gujarat,Vadodara,Theft,54,396162
+2022,10,Gujarat,Vadodara,Assault,9,953000
+2022,10,Gujarat,Vadodara,Homicide,8,1287506
+2022,10,Gujarat,Vadodara,Theft,9,1137022
+2022,1,Karnataka,Bengaluru,Burglary,54,639769
+2022,1,Karnataka,Bengaluru,Cyber Crime,56,278350
+2022,1,Karnataka,Bengaluru,Robbery,50,1306725
+2022,2,Karnataka,Bengaluru,Cyber Crime,73,355053
+2022,2,Karnataka,Bengaluru,Robbery,44,721298
+2022,2,Karnataka,Bengaluru,Theft,30,613228
+2022,4,Karnataka,Bengaluru,Cyber Crime,40,326655
+2022,4,Karnataka,Bengaluru,Fraud,32,234737
+2022,4,Karnataka,Bengaluru,Theft,26,205804
+2022,5,Karnataka,Bengaluru,Fraud,23,120091
+2022,5,Karnataka,Bengaluru,Homicide,62,618377
+2022,5,Karnataka,Bengaluru,Robbery,34,1032083
+2022,9,Karnataka,Bengaluru,Assault,61,195500
+2022,9,Karnataka,Bengaluru,Homicide,28,1018807
+2022,9,Karnataka,Bengaluru,Robbery,58,856962
+2022,10,Karnataka,Bengaluru,Assault,27,927701
+2022,10,Karnataka,Bengaluru,Kidnapping,38,1022980
+2022,10,Karnataka,Bengaluru,Robbery,50,1304665
+2022,2,Karnataka,Mangaluru,Cyber Crime,4,387584
+2022,2,Karnataka,Mangaluru,Kidnapping,40,414231
+2022,2,Karnataka,Mangaluru,Robbery,36,777750
+2022,3,Karnataka,Mangaluru,Burglary,78,886089
+2022,3,Karnataka,Mangaluru,Cyber Crime,6,1180246
+2022,3,Karnataka,Mangaluru,Theft,6,474173
+2022,6,Karnataka,Mangaluru,Assault,8,1086364
+2022,6,Karnataka,Mangaluru,Fraud,50,506523
+2022,6,Karnataka,Mangaluru,Robbery,27,1281210
+2022,7,Karnataka,Mangaluru,Assault,14,1499849
+2022,7,Karnataka,Mangaluru,Cyber Crime,76,985419
+2022,7,Karnataka,Mangaluru,Kidnapping,7,651415
+2022,9,Karnataka,Mangaluru,Fraud,42,606716
+2022,9,Karnataka,Mangaluru,Homicide,58,1274961
+2022,9,Karnataka,Mangaluru,Theft,64,667501
+2022,11,Karnataka,Mangaluru,Assault,12,1218807
+2022,11,Karnataka,Mangaluru,Cyber Crime,14,1421923
+2022,11,Karnataka,Mangaluru,Kidnapping,12,731804
+2022,3,Karnataka,Mysuru,Fraud,17,207213
+2022,3,Karnataka,Mysuru,Kidnapping,47,1228390
+2022,3,Karnataka,Mysuru,Robbery,9,1151583
+2022,4,Karnataka,Mysuru,Assault,65,575006
+2022,4,Karnataka,Mysuru,Burglary,33,1077078
+2022,4,Karnataka,Mysuru,Homicide,68,762411
+2022,7,Karnataka,Mysuru,Burglary,34,1424478
+2022,7,Karnataka,Mysuru,Homicide,35,406094
+2022,7,Karnataka,Mysuru,Theft,31,320109
+2022,8,Karnataka,Mysuru,Assault,28,1322874
+2022,8,Karnataka,Mysuru,Homicide,18,1158359
+2022,8,Karnataka,Mysuru,Robbery,45,613323
+2022,9,Karnataka,Mysuru,Fraud,46,844526
+2022,9,Karnataka,Mysuru,Homicide,46,547140
+2022,9,Karnataka,Mysuru,Theft,19,497039
+2022,10,Karnataka,Mysuru,Assault,28,1306109
+2022,10,Karnataka,Mysuru,Robbery,5,1163125
+2022,10,Karnataka,Mysuru,Theft,31,202482
+2022,3,Kerala,Kochi,Cyber Crime,13,420415
+2022,3,Kerala,Kochi,Fraud,8,978318
+2022,3,Kerala,Kochi,Robbery,47,879835
+2022,5,Kerala,Kochi,Burglary,42,194467
+2022,5,Kerala,Kochi,Cyber Crime,28,603216
+2022,5,Kerala,Kochi,Fraud,50,808120
+2022,8,Kerala,Kochi,Assault,33,599048
+2022,8,Kerala,Kochi,Cyber Crime,28,1047782
+2022,8,Kerala,Kochi,Robbery,30,1062605
+2022,9,Kerala,Kochi,Burglary,67,982913
+2022,9,Kerala,Kochi,Fraud,33,915388
+2022,9,Kerala,Kochi,Kidnapping,56,266595
+2022,10,Kerala,Kochi,Assault,61,168183
+2022,10,Kerala,Kochi,Fraud,22,478451
+2022,10,Kerala,Kochi,Kidnapping,37,415567
+2022,12,Kerala,Kochi,Homicide,60,141348
+2022,12,Kerala,Kochi,Kidnapping,32,620479
+2022,12,Kerala,Kochi,Robbery,38,1281859
+2022,1,Kerala,Kozhikode,Assault,80,170842
+2022,1,Kerala,Kozhikode,Homicide,42,925742
+2022,1,Kerala,Kozhikode,Theft,47,1050507
+2022,2,Kerala,Kozhikode,Cyber Crime,31,500095
+2022,2,Kerala,Kozhikode,Homicide,10,547315
+2022,2,Kerala,Kozhikode,Kidnapping,52,645367
+2022,5,Kerala,Kozhikode,Burglary,30,1228996
+2022,5,Kerala,Kozhikode,Kidnapping,6,850553
+2022,5,Kerala,Kozhikode,Theft,8,891997
+2022,9,Kerala,Kozhikode,Burglary,24,969718
+2022,9,Kerala,Kozhikode,Homicide,15,1189016
+2022,9,Kerala,Kozhikode,Theft,15,1388156
+2022,10,Kerala,Kozhikode,Burglary,8,847528
+2022,10,Kerala,Kozhikode,Homicide,23,435012
+2022,10,Kerala,Kozhikode,Theft,40,1398657
+2022,12,Kerala,Kozhikode,Assault,55,1101542
+2022,12,Kerala,Kozhikode,Burglary,48,456383
+2022,12,Kerala,Kozhikode,Kidnapping,30,281576
+2022,1,Kerala,Thiruvananthapuram,Burglary,10,135982
+2022,1,Kerala,Thiruvananthapuram,Kidnapping,15,1442741
+2022,1,Kerala,Thiruvananthapuram,Theft,6,393680
+2022,2,Kerala,Thiruvananthapuram,Burglary,78,818346
+2022,2,Kerala,Thiruvananthapuram,Cyber Crime,15,621838
+2022,2,Kerala,Thiruvananthapuram,Fraud,24,1288810
+2022,4,Kerala,Thiruvananthapuram,Cyber Crime,68,1089410
+2022,4,Kerala,Thiruvananthapuram,Robbery,22,942566
+2022,4,Kerala,Thiruvananthapuram,Theft,56,461446
+2022,6,Kerala,Thiruvananthapuram,Cyber Crime,40,506700
+2022,6,Kerala,Thiruvananthapuram,Homicide,20,1220800
+2022,6,Kerala,Thiruvananthapuram,Kidnapping,18,273892
+2022,9,Kerala,Thiruvananthapuram,Burglary,59,1422037
+2022,9,Kerala,Thiruvananthapuram,Homicide,35,1057218
+2022,9,Kerala,Thiruvananthapuram,Kidnapping,11,896755
+2022,11,Kerala,Thiruvananthapuram,Assault,47,1447744
+2022,11,Kerala,Thiruvananthapuram,Fraud,32,1269109
+2022,11,Kerala,Thiruvananthapuram,Kidnapping,59,553868
+2022,2,Maharashtra,Mumbai,Assault,25,709330
+2022,2,Maharashtra,Mumbai,Cyber Crime,53,821847
+2022,2,Maharashtra,Mumbai,Fraud,9,1281902
+2022,5,Maharashtra,Mumbai,Assault,40,1007436
+2022,5,Maharashtra,Mumbai,Fraud,25,1097088
+2022,5,Maharashtra,Mumbai,Kidnapping,33,1284261
+2022,6,Maharashtra,Mumbai,Assault,73,299648
+2022,6,Maharashtra,Mumbai,Burglary,36,295408
+2022,6,Maharashtra,Mumbai,Kidnapping,56,236760
+2022,8,Maharashtra,Mumbai,Assault,58,850575
+2022,8,Maharashtra,Mumbai,Fraud,62,288070
+2022,8,Maharashtra,Mumbai,Robbery,42,161111
+2022,10,Maharashtra,Mumbai,Burglary,50,1116316
+2022,10,Maharashtra,Mumbai,Homicide,27,225552
+2022,10,Maharashtra,Mumbai,Kidnapping,31,507549
+2022,12,Maharashtra,Mumbai,Assault,53,861828
+2022,12,Maharashtra,Mumbai,Kidnapping,43,364671
+2022,12,Maharashtra,Mumbai,Robbery,36,841251
+2022,2,Maharashtra,Nagpur,Assault,64,1460414
+2022,2,Maharashtra,Nagpur,Homicide,68,851374
+2022,2,Maharashtra,Nagpur,Theft,17,1459676
+2022,3,Maharashtra,Nagpur,Fraud,16,971553
+2022,3,Maharashtra,Nagpur,Robbery,64,100054
+2022,3,Maharashtra,Nagpur,Theft,3,1348476
+2022,4,Maharashtra,Nagpur,Assault,48,967356
+2022,4,Maharashtra,Nagpur,Burglary,18,764015
+2022,4,Maharashtra,Nagpur,Kidnapping,24,102932
+2022,6,Maharashtra,Nagpur,Burglary,71,1320745
+2022,6,Maharashtra,Nagpur,Cyber Crime,10,428889
+2022,6,Maharashtra,Nagpur,Fraud,56,1079130
+2022,7,Maharashtra,Nagpur,Assault,29,674712
+2022,7,Maharashtra,Nagpur,Homicide,42,657894
+2022,7,Maharashtra,Nagpur,Kidnapping,70,1255711
+2022,11,Maharashtra,Nagpur,Fraud,15,1108068
+2022,11,Maharashtra,Nagpur,Kidnapping,16,324193
+2022,11,Maharashtra,Nagpur,Robbery,48,1369942
+2022,1,Maharashtra,Pune,Cyber Crime,44,183012
+2022,1,Maharashtra,Pune,Fraud,44,1073325
+2022,1,Maharashtra,Pune,Homicide,21,847940
+2022,2,Maharashtra,Pune,Cyber Crime,33,730082
+2022,2,Maharashtra,Pune,Fraud,26,821749
+2022,2,Maharashtra,Pune,Robbery,26,269374
+2022,4,Maharashtra,Pune,Kidnapping,42,1415787
+2022,4,Maharashtra,Pune,Robbery,39,234335
+2022,4,Maharashtra,Pune,Theft,21,1122935
+2022,5,Maharashtra,Pune,Assault,17,1309887
+2022,5,Maharashtra,Pune,Burglary,30,1387048
+2022,5,Maharashtra,Pune,Cyber Crime,39,1408941
+2022,9,Maharashtra,Pune,Burglary,20,908302
+2022,9,Maharashtra,Pune,Kidnapping,63,688641
+2022,9,Maharashtra,Pune,Robbery,42,807271
+2022,10,Maharashtra,Pune,Assault,34,1196338
+2022,10,Maharashtra,Pune,Cyber Crime,29,830858
+2022,10,Maharashtra,Pune,Kidnapping,45,118555
+2022,1,Rajasthan,Jaipur,Assault,16,352196
+2022,1,Rajasthan,Jaipur,Homicide,45,380229
+2022,1,Rajasthan,Jaipur,Theft,73,779671
+2022,2,Rajasthan,Jaipur,Fraud,12,1127940
+2022,2,Rajasthan,Jaipur,Homicide,40,186186
+2022,2,Rajasthan,Jaipur,Kidnapping,27,416883
+2022,4,Rajasthan,Jaipur,Burglary,41,528243
+2022,4,Rajasthan,Jaipur,Robbery,37,506364
+2022,4,Rajasthan,Jaipur,Theft,26,1266101
+2022,7,Rajasthan,Jaipur,Assault,51,123795
+2022,7,Rajasthan,Jaipur,Burglary,3,359856
+2022,7,Rajasthan,Jaipur,Robbery,54,1252853
+2022,9,Rajasthan,Jaipur,Burglary,60,1478765
+2022,9,Rajasthan,Jaipur,Cyber Crime,11,168477
+2022,9,Rajasthan,Jaipur,Homicide,56,1155421
+2022,11,Rajasthan,Jaipur,Burglary,44,519089
+2022,11,Rajasthan,Jaipur,Kidnapping,23,1222627
+2022,11,Rajasthan,Jaipur,Robbery,52,1114664
+2022,3,Rajasthan,Jodhpur,Fraud,16,101697
+2022,3,Rajasthan,Jodhpur,Homicide,36,858150
+2022,3,Rajasthan,Jodhpur,Kidnapping,55,467935
+2022,5,Rajasthan,Jodhpur,Cyber Crime,24,1414570
+2022,5,Rajasthan,Jodhpur,Fraud,48,382619
+2022,5,Rajasthan,Jodhpur,Kidnapping,4,532547
+2022,6,Rajasthan,Jodhpur,Assault,45,212357
+2022,6,Rajasthan,Jodhpur,Burglary,43,723714
+2022,6,Rajasthan,Jodhpur,Kidnapping,10,728630
+2022,8,Rajasthan,Jodhpur,Burglary,44,1405213
+2022,8,Rajasthan,Jodhpur,Fraud,73,473298
+2022,8,Rajasthan,Jodhpur,Homicide,61,271417
+2022,9,Rajasthan,Jodhpur,Assault,32,269487
+2022,9,Rajasthan,Jodhpur,Homicide,58,1140591
+2022,9,Rajasthan,Jodhpur,Theft,63,763779
+2022,10,Rajasthan,Jodhpur,Homicide,40,580194
+2022,10,Rajasthan,Jodhpur,Kidnapping,62,408478
+2022,10,Rajasthan,Jodhpur,Robbery,14,937914
+2022,1,Rajasthan,Udaipur,Assault,63,228538
+2022,1,Rajasthan,Udaipur,Kidnapping,14,1165408
+2022,1,Rajasthan,Udaipur,Theft,59,718127
+2022,6,Rajasthan,Udaipur,Assault,11,843020
+2022,6,Rajasthan,Udaipur,Burglary,11,1130604
+2022,6,Rajasthan,Udaipur,Kidnapping,50,653337
+2022,7,Rajasthan,Udaipur,Burglary,8,1015667
+2022,7,Rajasthan,Udaipur,Fraud,7,305395
+2022,7,Rajasthan,Udaipur,Robbery,28,1193392
+2022,9,Rajasthan,Udaipur,Assault,51,1222205
+2022,9,Rajasthan,Udaipur,Fraud,40,1328836
+2022,9,Rajasthan,Udaipur,Theft,64,235314
+2022,11,Rajasthan,Udaipur,Assault,14,1330039
+2022,11,Rajasthan,Udaipur,Homicide,18,1053778
+2022,11,Rajasthan,Udaipur,Kidnapping,25,952245
+2022,12,Rajasthan,Udaipur,Burglary,10,531093
+2022,12,Rajasthan,Udaipur,Homicide,18,1025460
+2022,12,Rajasthan,Udaipur,Robbery,51,912069
+2022,1,Tamil Nadu,Chennai,Fraud,15,1063383
+2022,1,Tamil Nadu,Chennai,Kidnapping,7,874816
+2022,1,Tamil Nadu,Chennai,Theft,33,1480228
+2022,3,Tamil Nadu,Chennai,Cyber Crime,40,751530
+2022,3,Tamil Nadu,Chennai,Homicide,8,453618
+2022,3,Tamil Nadu,Chennai,Robbery,7,191635
+2022,6,Tamil Nadu,Chennai,Kidnapping,19,1324372
+2022,6,Tamil Nadu,Chennai,Robbery,58,371978
+2022,6,Tamil Nadu,Chennai,Theft,25,1432859
+2022,9,Tamil Nadu,Chennai,Assault,66,656042
+2022,9,Tamil Nadu,Chennai,Robbery,4,582488
+2022,9,Tamil Nadu,Chennai,Theft,57,886282
+2022,10,Tamil Nadu,Chennai,Burglary,5,1130538
+2022,10,Tamil Nadu,Chennai,Homicide,37,792111
+2022,10,Tamil Nadu,Chennai,Theft,54,1256762
+2022,12,Tamil Nadu,Chennai,Homicide,32,1366657
+2022,12,Tamil Nadu,Chennai,Kidnapping,42,1090726
+2022,12,Tamil Nadu,Chennai,Theft,11,1127279
+2022,1,Tamil Nadu,Coimbatore,Assault,70,1483342
+2022,1,Tamil Nadu,Coimbatore,Kidnapping,29,624096
+2022,1,Tamil Nadu,Coimbatore,Robbery,22,347373
+2022,3,Tamil Nadu,Coimbatore,Fraud,62,1189671
+2022,3,Tamil Nadu,Coimbatore,Homicide,51,1302632
+2022,3,Tamil Nadu,Coimbatore,Kidnapping,20,627629
+2022,6,Tamil Nadu,Coimbatore,Fraud,9,371017
+2022,6,Tamil Nadu,Coimbatore,Homicide,14,416418
+2022,6,Tamil Nadu,Coimbatore,Theft,42,1201858
+2022,7,Tamil Nadu,Coimbatore,Cyber Crime,6,503423
+2022,7,Tamil Nadu,Coimbatore,Kidnapping,34,762078
+2022,7,Tamil Nadu,Coimbatore,Robbery,64,915946
+2022,9,Tamil Nadu,Coimbatore,Kidnapping,66,1265070
+2022,9,Tamil Nadu,Coimbatore,Robbery,28,632613
+2022,9,Tamil Nadu,Coimbatore,Theft,44,1381635
+2022,12,Tamil Nadu,Coimbatore,Homicide,52,646206
+2022,12,Tamil Nadu,Coimbatore,Kidnapping,56,313596
+2022,12,Tamil Nadu,Coimbatore,Theft,66,590303
+2022,3,Tamil Nadu,Madurai,Burglary,43,780722
+2022,3,Tamil Nadu,Madurai,Homicide,34,318452
+2022,3,Tamil Nadu,Madurai,Theft,6,844021
+2022,5,Tamil Nadu,Madurai,Cyber Crime,44,964157
+2022,5,Tamil Nadu,Madurai,Homicide,20,1348079
+2022,5,Tamil Nadu,Madurai,Theft,14,1480943
+2022,6,Tamil Nadu,Madurai,Fraud,14,957487
+2022,6,Tamil Nadu,Madurai,Kidnapping,5,1193909
+2022,6,Tamil Nadu,Madurai,Robbery,56,1484080
+2022,8,Tamil Nadu,Madurai,Burglary,21,1067786
+2022,8,Tamil Nadu,Madurai,Fraud,51,944953
+2022,8,Tamil Nadu,Madurai,Theft,10,655799
+2022,9,Tamil Nadu,Madurai,Burglary,57,223741
+2022,9,Tamil Nadu,Madurai,Homicide,63,1363617
+2022,9,Tamil Nadu,Madurai,Robbery,75,764429
+2022,11,Tamil Nadu,Madurai,Assault,48,828363
+2022,11,Tamil Nadu,Madurai,Cyber Crime,31,895443
+2022,11,Tamil Nadu,Madurai,Theft,67,899212
+2022,4,Telangana,Hyderabad,Burglary,26,995339
+2022,4,Telangana,Hyderabad,Fraud,16,279955
+2022,4,Telangana,Hyderabad,Kidnapping,5,1169818
+2022,5,Telangana,Hyderabad,Fraud,30,539247
+2022,5,Telangana,Hyderabad,Homicide,30,811287
+2022,5,Telangana,Hyderabad,Theft,25,681282
+2022,6,Telangana,Hyderabad,Assault,23,373344
+2022,6,Telangana,Hyderabad,Homicide,32,174522
+2022,6,Telangana,Hyderabad,Kidnapping,8,669137
+2022,9,Telangana,Hyderabad,Cyber Crime,36,461126
+2022,9,Telangana,Hyderabad,Fraud,60,1284935
+2022,9,Telangana,Hyderabad,Robbery,35,104284
+2022,10,Telangana,Hyderabad,Cyber Crime,28,830421
+2022,10,Telangana,Hyderabad,Fraud,28,779531
+2022,10,Telangana,Hyderabad,Kidnapping,46,448974
+2022,12,Telangana,Hyderabad,Burglary,39,273163
+2022,12,Telangana,Hyderabad,Cyber Crime,32,619535
+2022,12,Telangana,Hyderabad,Theft,46,426728
+2022,1,Telangana,Karimnagar,Homicide,23,771659
+2022,1,Telangana,Karimnagar,Robbery,46,202249
+2022,1,Telangana,Karimnagar,Theft,46,392285
+2022,4,Telangana,Karimnagar,Burglary,56,1108470
+2022,4,Telangana,Karimnagar,Fraud,69,246765
+2022,4,Telangana,Karimnagar,Kidnapping,37,1025255
+2022,6,Telangana,Karimnagar,Burglary,1,1051481
+2022,6,Telangana,Karimnagar,Cyber Crime,9,580705
+2022,6,Telangana,Karimnagar,Homicide,59,731540
+2022,10,Telangana,Karimnagar,Assault,59,1042084
+2022,10,Telangana,Karimnagar,Kidnapping,21,1088767
+2022,10,Telangana,Karimnagar,Robbery,52,651500
+2022,11,Telangana,Karimnagar,Assault,64,461453
+2022,11,Telangana,Karimnagar,Burglary,19,212145
+2022,11,Telangana,Karimnagar,Theft,54,1333887
+2022,12,Telangana,Karimnagar,Fraud,38,400610
+2022,12,Telangana,Karimnagar,Homicide,72,762252
+2022,12,Telangana,Karimnagar,Robbery,51,185257
+2022,3,Telangana,Warangal,Assault,67,181164
+2022,3,Telangana,Warangal,Burglary,21,1298951
+2022,3,Telangana,Warangal,Theft,40,808076
+2022,4,Telangana,Warangal,Cyber Crime,7,585068
+2022,4,Telangana,Warangal,Homicide,66,695046
+2022,4,Telangana,Warangal,Kidnapping,74,311200
+2022,6,Telangana,Warangal,Homicide,20,1427327
+2022,6,Telangana,Warangal,Robbery,43,1283743
+2022,6,Telangana,Warangal,Theft,44,240848
+2022,7,Telangana,Warangal,Cyber Crime,24,157728
+2022,7,Telangana,Warangal,Homicide,60,993479
+2022,7,Telangana,Warangal,Theft,34,1358214
+2022,9,Telangana,Warangal,Assault,65,606076
+2022,9,Telangana,Warangal,Robbery,15,564362
+2022,9,Telangana,Warangal,Theft,56,1265095
+2022,10,Telangana,Warangal,Cyber Crime,12,1149847
+2022,10,Telangana,Warangal,Fraud,37,670134
+2022,10,Telangana,Warangal,Robbery,43,306987
+2022,1,Uttar Pradesh,Lucknow,Cyber Crime,53,1172328
+2022,1,Uttar Pradesh,Lucknow,Homicide,1,1294976
+2022,1,Uttar Pradesh,Lucknow,Kidnapping,27,451248
+2022,3,Uttar Pradesh,Lucknow,Assault,6,1115403
+2022,3,Uttar Pradesh,Lucknow,Cyber Crime,51,1334409
+2022,3,Uttar Pradesh,Lucknow,Fraud,56,148712
+2022,4,Uttar Pradesh,Lucknow,Assault,49,725815
+2022,4,Uttar Pradesh,Lucknow,Cyber Crime,54,1352551
+2022,4,Uttar Pradesh,Lucknow,Homicide,15,1435582
+2022,7,Uttar Pradesh,Lucknow,Burglary,54,462797
+2022,7,Uttar Pradesh,Lucknow,Cyber Crime,37,939632
+2022,7,Uttar Pradesh,Lucknow,Theft,26,801393
+2022,9,Uttar Pradesh,Lucknow,Burglary,57,1435445
+2022,9,Uttar Pradesh,Lucknow,Robbery,30,195270
+2022,9,Uttar Pradesh,Lucknow,Theft,4,315683
+2022,11,Uttar Pradesh,Lucknow,Burglary,41,1332666
+2022,11,Uttar Pradesh,Lucknow,Kidnapping,8,1401144
+2022,11,Uttar Pradesh,Lucknow,Theft,29,829463
+2022,1,Uttar Pradesh,Noida,Burglary,20,1163301
+2022,1,Uttar Pradesh,Noida,Kidnapping,64,1225416
+2022,1,Uttar Pradesh,Noida,Robbery,70,834225
+2022,4,Uttar Pradesh,Noida,Assault,39,374853
+2022,4,Uttar Pradesh,Noida,Fraud,52,1281886
+2022,4,Uttar Pradesh,Noida,Kidnapping,9,1364597
+2022,5,Uttar Pradesh,Noida,Homicide,13,758707
+2022,5,Uttar Pradesh,Noida,Robbery,37,695273
+2022,5,Uttar Pradesh,Noida,Theft,50,112844
+2022,6,Uttar Pradesh,Noida,Assault,11,1187143
+2022,6,Uttar Pradesh,Noida,Homicide,3,426632
+2022,6,Uttar Pradesh,Noida,Kidnapping,44,628597
+2022,10,Uttar Pradesh,Noida,Assault,26,651775
+2022,10,Uttar Pradesh,Noida,Fraud,52,801032
+2022,10,Uttar Pradesh,Noida,Kidnapping,81,100940
+2022,11,Uttar Pradesh,Noida,Cyber Crime,16,740565
+2022,11,Uttar Pradesh,Noida,Kidnapping,28,1378453
+2022,11,Uttar Pradesh,Noida,Robbery,38,292071
+2022,1,Uttar Pradesh,Varanasi,Assault,37,1035036
+2022,1,Uttar Pradesh,Varanasi,Cyber Crime,49,1426811
+2022,1,Uttar Pradesh,Varanasi,Robbery,40,1198688
+2022,4,Uttar Pradesh,Varanasi,Assault,27,984060
+2022,4,Uttar Pradesh,Varanasi,Cyber Crime,54,610380
+2022,4,Uttar Pradesh,Varanasi,Robbery,66,700906
+2022,5,Uttar Pradesh,Varanasi,Assault,30,954120
+2022,5,Uttar Pradesh,Varanasi,Kidnapping,44,1071053
+2022,5,Uttar Pradesh,Varanasi,Robbery,7,783874
+2022,7,Uttar Pradesh,Varanasi,Fraud,23,363198
+2022,7,Uttar Pradesh,Varanasi,Kidnapping,59,1200300
+2022,7,Uttar Pradesh,Varanasi,Theft,66,1185886
+2022,10,Uttar Pradesh,Varanasi,Homicide,57,471431
+2022,10,Uttar Pradesh,Varanasi,Robbery,59,692201
+2022,10,Uttar Pradesh,Varanasi,Theft,51,1201330
+2022,11,Uttar Pradesh,Varanasi,Fraud,50,739000
+2022,11,Uttar Pradesh,Varanasi,Homicide,67,347646
+2022,11,Uttar Pradesh,Varanasi,Theft,7,371309
+2022,3,West Bengal,Durgapur,Assault,41,1083047
+2022,3,West Bengal,Durgapur,Kidnapping,41,908189
+2022,3,West Bengal,Durgapur,Theft,33,493064
+2022,7,West Bengal,Durgapur,Assault,50,131370
+2022,7,West Bengal,Durgapur,Fraud,16,111405
+2022,7,West Bengal,Durgapur,Kidnapping,17,509825
+2022,8,West Bengal,Durgapur,Fraud,22,903969
+2022,8,West Bengal,Durgapur,Kidnapping,63,551375
+2022,8,West Bengal,Durgapur,Robbery,15,262912
+2022,9,West Bengal,Durgapur,Homicide,34,806462
+2022,9,West Bengal,Durgapur,Kidnapping,47,797063
+2022,9,West Bengal,Durgapur,Robbery,8,379535
+2022,10,West Bengal,Durgapur,Burglary,51,261141
+2022,10,West Bengal,Durgapur,Kidnapping,56,888137
+2022,10,West Bengal,Durgapur,Robbery,22,1120547
+2022,11,West Bengal,Durgapur,Homicide,66,1473466
+2022,11,West Bengal,Durgapur,Robbery,39,383776
+2022,11,West Bengal,Durgapur,Theft,8,899488
+2022,2,West Bengal,Howrah,Homicide,18,1128830
+2022,2,West Bengal,Howrah,Kidnapping,33,314873
+2022,2,West Bengal,Howrah,Robbery,61,260272
+2022,3,West Bengal,Howrah,Cyber Crime,52,1294864
+2022,3,West Bengal,Howrah,Kidnapping,68,286898
+2022,3,West Bengal,Howrah,Theft,20,1100626
+2022,6,West Bengal,Howrah,Assault,37,1102876
+2022,6,West Bengal,Howrah,Kidnapping,61,1222669
+2022,6,West Bengal,Howrah,Robbery,45,372561
+2022,7,West Bengal,Howrah,Cyber Crime,62,1415481
+2022,7,West Bengal,Howrah,Robbery,66,930510
+2022,7,West Bengal,Howrah,Theft,63,1274632
+2022,10,West Bengal,Howrah,Cyber Crime,50,520233
+2022,10,West Bengal,Howrah,Kidnapping,30,151394
+2022,10,West Bengal,Howrah,Theft,59,687491
+2022,11,West Bengal,Howrah,Assault,5,1082878
+2022,11,West Bengal,Howrah,Fraud,23,419086
+2022,11,West Bengal,Howrah,Robbery,16,821224
+2022,1,West Bengal,Kolkata,Fraud,6,1492566
+2022,1,West Bengal,Kolkata,Kidnapping,77,1358341
+2022,1,West Bengal,Kolkata,Robbery,39,700223
+2022,2,West Bengal,Kolkata,Homicide,40,688283
+2022,2,West Bengal,Kolkata,Kidnapping,6,605829
+2022,2,West Bengal,Kolkata,Theft,32,1110403
+2022,3,West Bengal,Kolkata,Assault,34,1217079
+2022,3,West Bengal,Kolkata,Burglary,27,559577
+2022,3,West Bengal,Kolkata,Fraud,40,619019
+2022,6,West Bengal,Kolkata,Burglary,15,671538
+2022,6,West Bengal,Kolkata,Homicide,8,658780
+2022,6,West Bengal,Kolkata,Theft,55,632046
+2022,7,West Bengal,Kolkata,Assault,59,905432
+2022,7,West Bengal,Kolkata,Robbery,8,1149410
+2022,7,West Bengal,Kolkata,Theft,59,875360
+2022,11,West Bengal,Kolkata,Cyber Crime,56,605814
+2022,11,West Bengal,Kolkata,Homicide,66,830606
+2022,11,West Bengal,Kolkata,Kidnapping,31,250952
+2023,1,Delhi,Dwarka,Assault,47,1341031
+2023,1,Delhi,Dwarka,Kidnapping,65,1074564
+2023,1,Delhi,Dwarka,Theft,26,1163871
+2023,4,Delhi,Dwarka,Assault,23,1193846
+2023,4,Delhi,Dwarka,Fraud,41,604921
+2023,4,Delhi,Dwarka,Kidnapping,50,146203
+2023,5,Delhi,Dwarka,Burglary,66,1472694
+2023,5,Delhi,Dwarka,Cyber Crime,58,480101
+2023,5,Delhi,Dwarka,Robbery,42,381242
+2023,6,Delhi,Dwarka,Assault,49,101747
+2023,6,Delhi,Dwarka,Fraud,25,746936
+2023,6,Delhi,Dwarka,Theft,22,838234
+2023,9,Delhi,Dwarka,Cyber Crime,16,1300553
+2023,9,Delhi,Dwarka,Kidnapping,34,939913
+2023,9,Delhi,Dwarka,Theft,42,1075473
+2023,11,Delhi,Dwarka,Burglary,58,1097308
+2023,11,Delhi,Dwarka,Fraud,39,999777
+2023,11,Delhi,Dwarka,Robbery,46,1424329
+2023,1,Delhi,New Delhi,Cyber Crime,24,292861
+2023,1,Delhi,New Delhi,Homicide,58,1365400
+2023,1,Delhi,New Delhi,Theft,19,807039
+2023,3,Delhi,New Delhi,Fraud,13,1297143
+2023,3,Delhi,New Delhi,Robbery,63,1465828
+2023,3,Delhi,New Delhi,Theft,59,1190391
+2023,5,Delhi,New Delhi,Assault,60,183984
+2023,5,Delhi,New Delhi,Burglary,9,1187141
+2023,5,Delhi,New Delhi,Fraud,7,479702
+2023,6,Delhi,New Delhi,Burglary,81,1252678
+2023,6,Delhi,New Delhi,Kidnapping,49,1155875
+2023,6,Delhi,New Delhi,Theft,64,1259683
+2023,10,Delhi,New Delhi,Assault,33,229195
+2023,10,Delhi,New Delhi,Burglary,44,293306
+2023,10,Delhi,New Delhi,Fraud,26,1431161
+2023,12,Delhi,New Delhi,Burglary,64,1160939
+2023,12,Delhi,New Delhi,Cyber Crime,26,1489141
+2023,12,Delhi,New Delhi,Robbery,11,1469430
+2023,1,Delhi,Rohini,Assault,44,941613
+2023,1,Delhi,Rohini,Cyber Crime,44,850587
+2023,1,Delhi,Rohini,Kidnapping,8,1380486
+2023,4,Delhi,Rohini,Assault,67,1414271
+2023,4,Delhi,Rohini,Fraud,51,280328
+2023,4,Delhi,Rohini,Homicide,27,216950
+2023,6,Delhi,Rohini,Kidnapping,28,830177
+2023,6,Delhi,Rohini,Robbery,17,330650
+2023,6,Delhi,Rohini,Theft,77,301214
+2023,7,Delhi,Rohini,Assault,11,1061634
+2023,7,Delhi,Rohini,Kidnapping,23,1447126
+2023,7,Delhi,Rohini,Theft,10,218359
+2023,9,Delhi,Rohini,Assault,9,556588
+2023,9,Delhi,Rohini,Robbery,51,368250
+2023,9,Delhi,Rohini,Theft,37,486918
+2023,11,Delhi,Rohini,Homicide,51,304772
+2023,11,Delhi,Rohini,Robbery,17,1473090
+2023,11,Delhi,Rohini,Theft,53,664152
+2023,3,Gujarat,Ahmedabad,Cyber Crime,50,1185972
+2023,3,Gujarat,Ahmedabad,Homicide,77,1021809
+2023,3,Gujarat,Ahmedabad,Kidnapping,44,1059008
+2023,5,Gujarat,Ahmedabad,Assault,33,1137694
+2023,5,Gujarat,Ahmedabad,Burglary,38,870387
+2023,5,Gujarat,Ahmedabad,Kidnapping,40,1314578
+2023,6,Gujarat,Ahmedabad,Fraud,33,374017
+2023,6,Gujarat,Ahmedabad,Robbery,49,1303275
+2023,6,Gujarat,Ahmedabad,Theft,21,1126985
+2023,7,Gujarat,Ahmedabad,Fraud,45,565540
+2023,7,Gujarat,Ahmedabad,Homicide,57,1238195
+2023,7,Gujarat,Ahmedabad,Robbery,40,1015435
+2023,8,Gujarat,Ahmedabad,Homicide,62,1405786
+2023,8,Gujarat,Ahmedabad,Kidnapping,37,666941
+2023,8,Gujarat,Ahmedabad,Robbery,27,198558
+2023,12,Gujarat,Ahmedabad,Burglary,20,1463100
+2023,12,Gujarat,Ahmedabad,Fraud,12,680961
+2023,12,Gujarat,Ahmedabad,Kidnapping,32,338317
+2023,3,Gujarat,Surat,Burglary,20,563494
+2023,3,Gujarat,Surat,Cyber Crime,55,121101
+2023,3,Gujarat,Surat,Theft,51,903961
+2023,5,Gujarat,Surat,Fraud,58,1455867
+2023,5,Gujarat,Surat,Robbery,27,1033547
+2023,5,Gujarat,Surat,Theft,25,1490176
+2023,7,Gujarat,Surat,Assault,33,481564
+2023,7,Gujarat,Surat,Burglary,70,1199356
+2023,7,Gujarat,Surat,Theft,9,903715
+2023,8,Gujarat,Surat,Burglary,12,281249
+2023,8,Gujarat,Surat,Cyber Crime,79,436597
+2023,8,Gujarat,Surat,Fraud,64,312425
+2023,9,Gujarat,Surat,Assault,67,594479
+2023,9,Gujarat,Surat,Homicide,49,1385928
+2023,9,Gujarat,Surat,Kidnapping,9,1137203
+2023,10,Gujarat,Surat,Kidnapping,48,1202030
+2023,10,Gujarat,Surat,Robbery,56,588254
+2023,10,Gujarat,Surat,Theft,8,308388
+2023,1,Gujarat,Vadodara,Cyber Crime,70,1407971
+2023,1,Gujarat,Vadodara,Homicide,16,450605
+2023,1,Gujarat,Vadodara,Kidnapping,19,978810
+2023,4,Gujarat,Vadodara,Burglary,24,343892
+2023,4,Gujarat,Vadodara,Fraud,32,1198010
+2023,4,Gujarat,Vadodara,Kidnapping,36,812170
+2023,6,Gujarat,Vadodara,Burglary,31,712944
+2023,6,Gujarat,Vadodara,Cyber Crime,41,829314
+2023,6,Gujarat,Vadodara,Theft,18,1280448
+2023,8,Gujarat,Vadodara,Assault,20,394396
+2023,8,Gujarat,Vadodara,Fraud,27,322341
+2023,8,Gujarat,Vadodara,Theft,44,1352102
+2023,11,Gujarat,Vadodara,Cyber Crime,57,972487
+2023,11,Gujarat,Vadodara,Kidnapping,73,1230674
+2023,11,Gujarat,Vadodara,Robbery,12,819100
+2023,12,Gujarat,Vadodara,Assault,27,1306570
+2023,12,Gujarat,Vadodara,Burglary,32,1425783
+2023,12,Gujarat,Vadodara,Fraud,56,1102951
+2023,1,Karnataka,Bengaluru,Assault,43,1020429
+2023,1,Karnataka,Bengaluru,Burglary,57,1247646
+2023,1,Karnataka,Bengaluru,Kidnapping,22,1099288
+2023,3,Karnataka,Bengaluru,Burglary,58,1135817
+2023,3,Karnataka,Bengaluru,Fraud,74,509546
+2023,3,Karnataka,Bengaluru,Robbery,57,360091
+2023,7,Karnataka,Bengaluru,Homicide,23,1212261
+2023,7,Karnataka,Bengaluru,Kidnapping,52,1276066
+2023,7,Karnataka,Bengaluru,Robbery,48,1213060
+2023,8,Karnataka,Bengaluru,Assault,20,798663
+2023,8,Karnataka,Bengaluru,Burglary,39,681155
+2023,8,Karnataka,Bengaluru,Robbery,74,893450
+2023,10,Karnataka,Bengaluru,Fraud,5,878008
+2023,10,Karnataka,Bengaluru,Homicide,71,1020455
+2023,10,Karnataka,Bengaluru,Robbery,21,802467
+2023,11,Karnataka,Bengaluru,Assault,15,417083
+2023,11,Karnataka,Bengaluru,Homicide,31,1166883
+2023,11,Karnataka,Bengaluru,Kidnapping,14,455147
+2023,1,Karnataka,Mangaluru,Homicide,50,429928
+2023,1,Karnataka,Mangaluru,Robbery,20,483527
+2023,1,Karnataka,Mangaluru,Theft,41,298230
+2023,2,Karnataka,Mangaluru,Assault,25,1255221
+2023,2,Karnataka,Mangaluru,Fraud,32,576313
+2023,2,Karnataka,Mangaluru,Kidnapping,13,452362
+2023,6,Karnataka,Mangaluru,Assault,64,326567
+2023,6,Karnataka,Mangaluru,Homicide,34,967580
+2023,6,Karnataka,Mangaluru,Theft,44,737375
+2023,7,Karnataka,Mangaluru,Fraud,43,286109
+2023,7,Karnataka,Mangaluru,Robbery,52,1397625
+2023,7,Karnataka,Mangaluru,Theft,16,550510
+2023,8,Karnataka,Mangaluru,Assault,19,556202
+2023,8,Karnataka,Mangaluru,Burglary,59,774490
+2023,8,Karnataka,Mangaluru,Theft,53,247961
+2023,11,Karnataka,Mangaluru,Assault,78,918501
+2023,11,Karnataka,Mangaluru,Fraud,18,149385
+2023,11,Karnataka,Mangaluru,Homicide,53,515583
+2023,2,Karnataka,Mysuru,Cyber Crime,47,690992
+2023,2,Karnataka,Mysuru,Homicide,31,1361729
+2023,2,Karnataka,Mysuru,Kidnapping,55,1221710
+2023,3,Karnataka,Mysuru,Burglary,33,992558
+2023,3,Karnataka,Mysuru,Homicide,63,116376
+2023,3,Karnataka,Mysuru,Kidnapping,18,984092
+2023,6,Karnataka,Mysuru,Cyber Crime,24,698224
+2023,6,Karnataka,Mysuru,Homicide,60,1284349
+2023,6,Karnataka,Mysuru,Robbery,61,1382276
+2023,8,Karnataka,Mysuru,Fraud,27,746582
+2023,8,Karnataka,Mysuru,Homicide,15,907935
+2023,8,Karnataka,Mysuru,Theft,10,780134
+2023,10,Karnataka,Mysuru,Assault,44,508009
+2023,10,Karnataka,Mysuru,Fraud,31,363515
+2023,10,Karnataka,Mysuru,Homicide,69,1331215
+2023,11,Karnataka,Mysuru,Burglary,63,256337
+2023,11,Karnataka,Mysuru,Fraud,71,1431086
+2023,11,Karnataka,Mysuru,Homicide,12,1454164
+2023,1,Kerala,Kochi,Burglary,6,1297402
+2023,1,Kerala,Kochi,Kidnapping,41,406021
+2023,1,Kerala,Kochi,Robbery,51,1429126
+2023,6,Kerala,Kochi,Kidnapping,63,571285
+2023,6,Kerala,Kochi,Robbery,40,1038053
+2023,6,Kerala,Kochi,Theft,33,578789
+2023,9,Kerala,Kochi,Assault,38,583927
+2023,9,Kerala,Kochi,Fraud,37,171729
+2023,9,Kerala,Kochi,Theft,37,1126841
+2023,10,Kerala,Kochi,Fraud,23,455940
+2023,10,Kerala,Kochi,Homicide,14,275745
+2023,10,Kerala,Kochi,Robbery,28,524299
+2023,11,Kerala,Kochi,Assault,39,534142
+2023,11,Kerala,Kochi,Fraud,54,686041
+2023,11,Kerala,Kochi,Robbery,18,688403
+2023,12,Kerala,Kochi,Cyber Crime,3,570547
+2023,12,Kerala,Kochi,Kidnapping,67,1394190
+2023,12,Kerala,Kochi,Theft,21,1158071
+2023,4,Kerala,Kozhikode,Burglary,7,1112269
+2023,4,Kerala,Kozhikode,Kidnapping,38,1317621
+2023,4,Kerala,Kozhikode,Theft,52,829405
+2023,5,Kerala,Kozhikode,Cyber Crime,32,1169555
+2023,5,Kerala,Kozhikode,Fraud,74,347835
+2023,5,Kerala,Kozhikode,Robbery,58,1221248
+2023,8,Kerala,Kozhikode,Burglary,35,1240914
+2023,8,Kerala,Kozhikode,Kidnapping,36,1273310
+2023,8,Kerala,Kozhikode,Robbery,11,1226349
+2023,10,Kerala,Kozhikode,Assault,57,863958
+2023,10,Kerala,Kozhikode,Homicide,13,1051673
+2023,10,Kerala,Kozhikode,Kidnapping,41,142999
+2023,11,Kerala,Kozhikode,Assault,14,1433282
+2023,11,Kerala,Kozhikode,Robbery,49,335405
+2023,11,Kerala,Kozhikode,Theft,74,450847
+2023,12,Kerala,Kozhikode,Cyber Crime,57,239084
+2023,12,Kerala,Kozhikode,Fraud,43,1300467
+2023,12,Kerala,Kozhikode,Kidnapping,50,1408743
+2023,1,Kerala,Thiruvananthapuram,Burglary,62,189642
+2023,1,Kerala,Thiruvananthapuram,Cyber Crime,32,248951
+2023,1,Kerala,Thiruvananthapuram,Fraud,71,1122176
+2023,2,Kerala,Thiruvananthapuram,Homicide,48,530974
+2023,2,Kerala,Thiruvananthapuram,Robbery,68,172434
+2023,2,Kerala,Thiruvananthapuram,Theft,16,115943
+2023,5,Kerala,Thiruvananthapuram,Burglary,43,1166672
+2023,5,Kerala,Thiruvananthapuram,Cyber Crime,58,1161073
+2023,5,Kerala,Thiruvananthapuram,Theft,23,797898
+2023,9,Kerala,Thiruvananthapuram,Cyber Crime,9,446595
+2023,9,Kerala,Thiruvananthapuram,Fraud,46,159172
+2023,9,Kerala,Thiruvananthapuram,Kidnapping,60,229367
+2023,10,Kerala,Thiruvananthapuram,Assault,21,716046
+2023,10,Kerala,Thiruvananthapuram,Burglary,34,383779
+2023,10,Kerala,Thiruvananthapuram,Cyber Crime,35,554809
+2023,12,Kerala,Thiruvananthapuram,Burglary,59,1184298
+2023,12,Kerala,Thiruvananthapuram,Fraud,40,525164
+2023,12,Kerala,Thiruvananthapuram,Homicide,40,343399
+2023,1,Maharashtra,Nagpur,Burglary,56,646404
+2023,1,Maharashtra,Nagpur,Kidnapping,44,291481
+2023,1,Maharashtra,Nagpur,Robbery,46,550897
+2023,5,Maharashtra,Nagpur,Cyber Crime,6,1290614
+2023,5,Maharashtra,Nagpur,Robbery,47,401162
+2023,5,Maharashtra,Nagpur,Theft,39,232901
+2023,7,Maharashtra,Nagpur,Cyber Crime,43,481415
+2023,7,Maharashtra,Nagpur,Kidnapping,52,293769
+2023,7,Maharashtra,Nagpur,Theft,24,256483
+2023,8,Maharashtra,Nagpur,Cyber Crime,19,366715
+2023,8,Maharashtra,Nagpur,Fraud,10,1441062
+2023,8,Maharashtra,Nagpur,Homicide,48,294341
+2023,9,Maharashtra,Nagpur,Assault,24,569273
+2023,9,Maharashtra,Nagpur,Burglary,17,205312
+2023,9,Maharashtra,Nagpur,Cyber Crime,64,1060991
+2023,11,Maharashtra,Nagpur,Cyber Crime,35,1176711
+2023,11,Maharashtra,Nagpur,Fraud,46,803852
+2023,11,Maharashtra,Nagpur,Robbery,50,1120274
+2023,1,Maharashtra,Nashik,Fraud,27,890986
+2023,1,Maharashtra,Nashik,Kidnapping,16,605294
+2023,1,Maharashtra,Nashik,Robbery,30,880419
+2023,3,Maharashtra,Nashik,Assault,20,1329278
+2023,3,Maharashtra,Nashik,Fraud,33,454042
+2023,3,Maharashtra,Nashik,Robbery,15,1383024
+2023,6,Maharashtra,Nashik,Cyber Crime,19,134169
+2023,6,Maharashtra,Nashik,Kidnapping,18,1182253
+2023,6,Maharashtra,Nashik,Theft,20,1362843
+2023,7,Maharashtra,Nashik,Burglary,19,1019657
+2023,7,Maharashtra,Nashik,Cyber Crime,51,509929
+2023,7,Maharashtra,Nashik,Robbery,32,671305
+2023,8,Maharashtra,Nashik,Burglary,18,257620
+2023,8,Maharashtra,Nashik,Fraud,63,1473671
+2023,8,Maharashtra,Nashik,Kidnapping,20,749517
+2023,9,Maharashtra,Nashik,Assault,3,1178186
+2023,9,Maharashtra,Nashik,Cyber Crime,69,391861
+2023,9,Maharashtra,Nashik,Homicide,15,221274
+2023,1,Maharashtra,Pune,Fraud,35,657915
+2023,1,Maharashtra,Pune,Homicide,48,790673
+2023,1,Maharashtra,Pune,Kidnapping,30,258882
+2023,2,Maharashtra,Pune,Burglary,12,1478240
+2023,2,Maharashtra,Pune,Kidnapping,57,1048716
+2023,2,Maharashtra,Pune,Theft,22,1136705
+2023,3,Maharashtra,Pune,Fraud,5,413809
+2023,3,Maharashtra,Pune,Robbery,38,731314
+2023,3,Maharashtra,Pune,Theft,22,666262
+2023,5,Maharashtra,Pune,Kidnapping,10,406229
+2023,5,Maharashtra,Pune,Robbery,62,174695
+2023,5,Maharashtra,Pune,Theft,19,1288846
+2023,10,Maharashtra,Pune,Assault,50,1353207
+2023,10,Maharashtra,Pune,Cyber Crime,18,912022
+2023,10,Maharashtra,Pune,Fraud,30,1101035
+2023,12,Maharashtra,Pune,Burglary,44,123981
+2023,12,Maharashtra,Pune,Homicide,29,836125
+2023,12,Maharashtra,Pune,Robbery,2,664550
+2023,3,Rajasthan,Jaipur,Burglary,73,685599
+2023,3,Rajasthan,Jaipur,Homicide,61,663494
+2023,3,Rajasthan,Jaipur,Kidnapping,60,173648
+2023,5,Rajasthan,Jaipur,Cyber Crime,59,344933
+2023,5,Rajasthan,Jaipur,Homicide,52,1302887
+2023,5,Rajasthan,Jaipur,Theft,68,1283201
+2023,7,Rajasthan,Jaipur,Burglary,44,1489200
+2023,7,Rajasthan,Jaipur,Cyber Crime,28,824224
+2023,7,Rajasthan,Jaipur,Kidnapping,53,994297
+2023,8,Rajasthan,Jaipur,Burglary,7,1334413
+2023,8,Rajasthan,Jaipur,Homicide,41,1311773
+2023,8,Rajasthan,Jaipur,Robbery,38,797697
+2023,9,Rajasthan,Jaipur,Burglary,15,721517
+2023,9,Rajasthan,Jaipur,Fraud,40,300224
+2023,9,Rajasthan,Jaipur,Kidnapping,65,689061
+2023,11,Rajasthan,Jaipur,Burglary,62,553581
+2023,11,Rajasthan,Jaipur,Fraud,39,734863
+2023,11,Rajasthan,Jaipur,Kidnapping,34,274336
+2023,1,Rajasthan,Jodhpur,Homicide,42,914184
+2023,1,Rajasthan,Jodhpur,Robbery,33,677325
+2023,1,Rajasthan,Jodhpur,Theft,36,870576
+2023,2,Rajasthan,Jodhpur,Cyber Crime,23,1044661
+2023,2,Rajasthan,Jodhpur,Fraud,30,420412
+2023,2,Rajasthan,Jodhpur,Homicide,40,1254938
+2023,3,Rajasthan,Jodhpur,Burglary,16,138183
+2023,3,Rajasthan,Jodhpur,Fraud,75,1231100
+2023,3,Rajasthan,Jodhpur,Robbery,50,875976
+2023,4,Rajasthan,Jodhpur,Assault,7,574097
+2023,4,Rajasthan,Jodhpur,Homicide,12,981023
+2023,4,Rajasthan,Jodhpur,Theft,75,870888
+2023,9,Rajasthan,Jodhpur,Burglary,49,973698
+2023,9,Rajasthan,Jodhpur,Fraud,14,944529
+2023,9,Rajasthan,Jodhpur,Theft,71,1445666
+2023,11,Rajasthan,Jodhpur,Fraud,21,221910
+2023,11,Rajasthan,Jodhpur,Homicide,35,693036
+2023,11,Rajasthan,Jodhpur,Robbery,60,319974
+2023,3,Rajasthan,Udaipur,Kidnapping,53,527356
+2023,3,Rajasthan,Udaipur,Robbery,61,1225648
+2023,3,Rajasthan,Udaipur,Theft,51,129048
+2023,5,Rajasthan,Udaipur,Burglary,68,1182025
+2023,5,Rajasthan,Udaipur,Homicide,33,1326806
+2023,5,Rajasthan,Udaipur,Robbery,9,1087905
+2023,7,Rajasthan,Udaipur,Assault,34,1175832
+2023,7,Rajasthan,Udaipur,Fraud,49,205966
+2023,7,Rajasthan,Udaipur,Robbery,66,216237
+2023,10,Rajasthan,Udaipur,Assault,62,982154
+2023,10,Rajasthan,Udaipur,Burglary,54,501551
+2023,10,Rajasthan,Udaipur,Homicide,21,957516
+2023,11,Rajasthan,Udaipur,Assault,71,792514
+2023,11,Rajasthan,Udaipur,Kidnapping,46,1039836
+2023,11,Rajasthan,Udaipur,Robbery,50,241111
+2023,12,Rajasthan,Udaipur,Burglary,18,1449931
+2023,12,Rajasthan,Udaipur,Fraud,12,560328
+2023,12,Rajasthan,Udaipur,Homicide,26,829075
+2023,4,Tamil Nadu,Coimbatore,Assault,49,401014
+2023,4,Tamil Nadu,Coimbatore,Kidnapping,28,184422
+2023,4,Tamil Nadu,Coimbatore,Theft,9,789573
+2023,6,Tamil Nadu,Coimbatore,Assault,13,946215
+2023,6,Tamil Nadu,Coimbatore,Cyber Crime,45,240928
+2023,6,Tamil Nadu,Coimbatore,Theft,31,1262676
+2023,7,Tamil Nadu,Coimbatore,Cyber Crime,52,926520
+2023,7,Tamil Nadu,Coimbatore,Homicide,72,918116
+2023,7,Tamil Nadu,Coimbatore,Theft,72,1099600
+2023,9,Tamil Nadu,Coimbatore,Cyber Crime,48,454572
+2023,9,Tamil Nadu,Coimbatore,Fraud,60,1024214
+2023,9,Tamil Nadu,Coimbatore,Kidnapping,58,798752
+2023,10,Tamil Nadu,Coimbatore,Assault,12,1024614
+2023,10,Tamil Nadu,Coimbatore,Burglary,25,1263059
+2023,10,Tamil Nadu,Coimbatore,Kidnapping,29,1304499
+2023,11,Tamil Nadu,Coimbatore,Cyber Crime,64,1379971
+2023,11,Tamil Nadu,Coimbatore,Kidnapping,62,370978
+2023,11,Tamil Nadu,Coimbatore,Theft,26,1419834
+2023,4,Tamil Nadu,Madurai,Kidnapping,32,1051386
+2023,4,Tamil Nadu,Madurai,Robbery,33,1084858
+2023,4,Tamil Nadu,Madurai,Theft,63,477038
+2023,5,Tamil Nadu,Madurai,Fraud,11,1180285
+2023,5,Tamil Nadu,Madurai,Homicide,44,1240283
+2023,5,Tamil Nadu,Madurai,Theft,44,696234
+2023,8,Tamil Nadu,Madurai,Homicide,5,1218375
+2023,8,Tamil Nadu,Madurai,Robbery,61,798153
+2023,8,Tamil Nadu,Madurai,Theft,25,1236779
+2023,9,Tamil Nadu,Madurai,Assault,70,936039
+2023,9,Tamil Nadu,Madurai,Homicide,17,282133
+2023,9,Tamil Nadu,Madurai,Robbery,50,1011551
+2023,11,Tamil Nadu,Madurai,Kidnapping,40,510037
+2023,11,Tamil Nadu,Madurai,Robbery,5,1092599
+2023,11,Tamil Nadu,Madurai,Theft,9,327160
+2023,12,Tamil Nadu,Madurai,Cyber Crime,47,827538
+2023,12,Tamil Nadu,Madurai,Homicide,44,1101624
+2023,12,Tamil Nadu,Madurai,Robbery,15,1439239
+2023,1,Tamil Nadu,Tiruchirappalli,Burglary,13,975326
+2023,1,Tamil Nadu,Tiruchirappalli,Homicide,50,201858
+2023,1,Tamil Nadu,Tiruchirappalli,Theft,66,1489338
+2023,4,Tamil Nadu,Tiruchirappalli,Cyber Crime,8,1069632
+2023,4,Tamil Nadu,Tiruchirappalli,Homicide,44,1411697
+2023,4,Tamil Nadu,Tiruchirappalli,Robbery,75,628492
+2023,6,Tamil Nadu,Tiruchirappalli,Homicide,12,647382
+2023,6,Tamil Nadu,Tiruchirappalli,Kidnapping,4,329137
+2023,6,Tamil Nadu,Tiruchirappalli,Theft,42,106255
+2023,10,Tamil Nadu,Tiruchirappalli,Burglary,33,878915
+2023,10,Tamil Nadu,Tiruchirappalli,Fraud,54,1311710
+2023,10,Tamil Nadu,Tiruchirappalli,Kidnapping,40,1490613
+2023,11,Tamil Nadu,Tiruchirappalli,Burglary,62,174705
+2023,11,Tamil Nadu,Tiruchirappalli,Robbery,12,529433
+2023,11,Tamil Nadu,Tiruchirappalli,Theft,8,938909
+2023,12,Tamil Nadu,Tiruchirappalli,Burglary,39,439453
+2023,12,Tamil Nadu,Tiruchirappalli,Kidnapping,22,1176322
+2023,12,Tamil Nadu,Tiruchirappalli,Theft,28,1364118
+2023,1,Telangana,Hyderabad,Burglary,18,791371
+2023,1,Telangana,Hyderabad,Robbery,33,210678
+2023,1,Telangana,Hyderabad,Theft,41,1102680
+2023,5,Telangana,Hyderabad,Assault,53,1222133
+2023,5,Telangana,Hyderabad,Cyber Crime,24,483658
+2023,5,Telangana,Hyderabad,Theft,49,267088
+2023,6,Telangana,Hyderabad,Assault,18,193595
+2023,6,Telangana,Hyderabad,Cyber Crime,57,214133
+2023,6,Telangana,Hyderabad,Homicide,19,1434907
+2023,8,Telangana,Hyderabad,Fraud,21,695158
+2023,8,Telangana,Hyderabad,Robbery,29,1139321
+2023,8,Telangana,Hyderabad,Theft,67,790802
+2023,11,Telangana,Hyderabad,Burglary,45,112958
+2023,11,Telangana,Hyderabad,Kidnapping,12,484417
+2023,11,Telangana,Hyderabad,Robbery,65,1456247
+2023,12,Telangana,Hyderabad,Fraud,31,1092370
+2023,12,Telangana,Hyderabad,Homicide,31,1063916
+2023,12,Telangana,Hyderabad,Kidnapping,18,1310661
+2023,1,Telangana,Karimnagar,Kidnapping,20,646699
+2023,1,Telangana,Karimnagar,Robbery,55,1278397
+2023,1,Telangana,Karimnagar,Theft,70,985073
+2023,2,Telangana,Karimnagar,Assault,65,1156496
+2023,2,Telangana,Karimnagar,Kidnapping,70,690407
+2023,2,Telangana,Karimnagar,Theft,22,130889
+2023,3,Telangana,Karimnagar,Assault,36,102083
+2023,3,Telangana,Karimnagar,Fraud,65,326627
+2023,3,Telangana,Karimnagar,Robbery,24,1495706
+2023,5,Telangana,Karimnagar,Fraud,38,784121
+2023,5,Telangana,Karimnagar,Homicide,64,447439
+2023,5,Telangana,Karimnagar,Theft,49,673795
+2023,6,Telangana,Karimnagar,Burglary,57,1084669
+2023,6,Telangana,Karimnagar,Cyber Crime,12,209311
+2023,6,Telangana,Karimnagar,Theft,26,1065665
+2023,9,Telangana,Karimnagar,Assault,22,1108932
+2023,9,Telangana,Karimnagar,Cyber Crime,19,1319658
+2023,9,Telangana,Karimnagar,Kidnapping,11,1242643
+2023,2,Telangana,Warangal,Burglary,42,557590
+2023,2,Telangana,Warangal,Cyber Crime,11,981654
+2023,2,Telangana,Warangal,Fraud,48,627685
+2023,5,Telangana,Warangal,Cyber Crime,32,1320000
+2023,5,Telangana,Warangal,Fraud,39,1486202
+2023,5,Telangana,Warangal,Robbery,20,1108867
+2023,7,Telangana,Warangal,Fraud,12,1345671
+2023,7,Telangana,Warangal,Homicide,22,1142784
+2023,7,Telangana,Warangal,Robbery,59,958652
+2023,9,Telangana,Warangal,Burglary,68,163161
+2023,9,Telangana,Warangal,Cyber Crime,55,957805
+2023,9,Telangana,Warangal,Fraud,67,800762
+2023,11,Telangana,Warangal,Burglary,13,498239
+2023,11,Telangana,Warangal,Cyber Crime,28,643179
+2023,11,Telangana,Warangal,Homicide,46,309374
+2023,12,Telangana,Warangal,Assault,46,966242
+2023,12,Telangana,Warangal,Kidnapping,18,1466067
+2023,12,Telangana,Warangal,Theft,59,1122655
+2023,2,Uttar Pradesh,Lucknow,Burglary,32,1393598
+2023,2,Uttar Pradesh,Lucknow,Fraud,40,1421242
+2023,2,Uttar Pradesh,Lucknow,Theft,49,280497
+2023,4,Uttar Pradesh,Lucknow,Assault,71,408593
+2023,4,Uttar Pradesh,Lucknow,Fraud,46,1231623
+2023,4,Uttar Pradesh,Lucknow,Robbery,34,1042461
+2023,5,Uttar Pradesh,Lucknow,Assault,18,527803
+2023,5,Uttar Pradesh,Lucknow,Cyber Crime,51,1100838
+2023,5,Uttar Pradesh,Lucknow,Kidnapping,48,338949
+2023,6,Uttar Pradesh,Lucknow,Cyber Crime,56,973399
+2023,6,Uttar Pradesh,Lucknow,Kidnapping,62,1417882
+2023,6,Uttar Pradesh,Lucknow,Theft,53,1112537
+2023,9,Uttar Pradesh,Lucknow,Assault,15,1430474
+2023,9,Uttar Pradesh,Lucknow,Fraud,4,1280644
+2023,9,Uttar Pradesh,Lucknow,Homicide,15,448507
+2023,10,Uttar Pradesh,Lucknow,Assault,35,122722
+2023,10,Uttar Pradesh,Lucknow,Cyber Crime,17,569251
+2023,10,Uttar Pradesh,Lucknow,Robbery,19,1043467
+2023,2,Uttar Pradesh,Noida,Burglary,51,585171
+2023,2,Uttar Pradesh,Noida,Homicide,73,1399933
+2023,2,Uttar Pradesh,Noida,Kidnapping,9,1316858
+2023,3,Uttar Pradesh,Noida,Assault,61,788001
+2023,3,Uttar Pradesh,Noida,Burglary,43,1145649
+2023,3,Uttar Pradesh,Noida,Robbery,37,1247309
+2023,5,Uttar Pradesh,Noida,Assault,46,581485
+2023,5,Uttar Pradesh,Noida,Cyber Crime,22,192773
+2023,5,Uttar Pradesh,Noida,Theft,45,345762
+2023,7,Uttar Pradesh,Noida,Kidnapping,24,240592
+2023,7,Uttar Pradesh,Noida,Robbery,14,849915
+2023,7,Uttar Pradesh,Noida,Theft,30,553284
+2023,9,Uttar Pradesh,Noida,Burglary,36,234525
+2023,9,Uttar Pradesh,Noida,Cyber Crime,40,615296
+2023,9,Uttar Pradesh,Noida,Homicide,14,340283
+2023,12,Uttar Pradesh,Noida,Assault,39,1438476
+2023,12,Uttar Pradesh,Noida,Burglary,72,467965
+2023,12,Uttar Pradesh,Noida,Cyber Crime,3,623807
+2023,1,Uttar Pradesh,Varanasi,Fraud,53,251545
+2023,1,Uttar Pradesh,Varanasi,Robbery,33,1235417
+2023,1,Uttar Pradesh,Varanasi,Theft,7,769216
+2023,2,Uttar Pradesh,Varanasi,Fraud,48,244673
+2023,2,Uttar Pradesh,Varanasi,Homicide,26,125605
+2023,2,Uttar Pradesh,Varanasi,Robbery,61,279272
+2023,8,Uttar Pradesh,Varanasi,Burglary,59,1023955
+2023,8,Uttar Pradesh,Varanasi,Kidnapping,48,497976
+2023,8,Uttar Pradesh,Varanasi,Robbery,40,325614
+2023,9,Uttar Pradesh,Varanasi,Assault,55,456153
+2023,9,Uttar Pradesh,Varanasi,Burglary,36,547178
+2023,9,Uttar Pradesh,Varanasi,Kidnapping,12,971848
+2023,10,Uttar Pradesh,Varanasi,Burglary,63,1369546
+2023,10,Uttar Pradesh,Varanasi,Fraud,31,713106
+2023,10,Uttar Pradesh,Varanasi,Theft,21,987999
+2023,11,Uttar Pradesh,Varanasi,Burglary,5,589040
+2023,11,Uttar Pradesh,Varanasi,Fraud,51,1232662
+2023,11,Uttar Pradesh,Varanasi,Kidnapping,22,113410
+2023,2,West Bengal,Durgapur,Assault,14,931610
+2023,2,West Bengal,Durgapur,Burglary,22,294161
+2023,2,West Bengal,Durgapur,Kidnapping,55,1265701
+2023,4,West Bengal,Durgapur,Burglary,29,935558
+2023,4,West Bengal,Durgapur,Homicide,58,952411
+2023,4,West Bengal,Durgapur,Theft,48,333033
+2023,5,West Bengal,Durgapur,Burglary,59,136862
+2023,5,West Bengal,Durgapur,Cyber Crime,32,810568
+2023,5,West Bengal,Durgapur,Homicide,45,700719
+2023,6,West Bengal,Durgapur,Cyber Crime,45,142936
+2023,6,West Bengal,Durgapur,Fraud,20,603418
+2023,6,West Bengal,Durgapur,Homicide,62,561423
+2023,11,West Bengal,Durgapur,Fraud,22,1171259
+2023,11,West Bengal,Durgapur,Kidnapping,42,937807
+2023,11,West Bengal,Durgapur,Robbery,56,587991
+2023,12,West Bengal,Durgapur,Burglary,65,836453
+2023,12,West Bengal,Durgapur,Homicide,18,1432642
+2023,12,West Bengal,Durgapur,Theft,29,795289
+2023,2,West Bengal,Howrah,Assault,52,149052
+2023,2,West Bengal,Howrah,Homicide,13,997798
+2023,2,West Bengal,Howrah,Theft,31,1241807
+2023,3,West Bengal,Howrah,Fraud,18,1050537
+2023,3,West Bengal,Howrah,Kidnapping,9,906357
+2023,3,West Bengal,Howrah,Robbery,13,379437
+2023,5,West Bengal,Howrah,Cyber Crime,53,484981
+2023,5,West Bengal,Howrah,Fraud,36,1372472
+2023,5,West Bengal,Howrah,Theft,60,465808
+2023,6,West Bengal,Howrah,Burglary,50,198720
+2023,6,West Bengal,Howrah,Fraud,39,616949
+2023,6,West Bengal,Howrah,Kidnapping,74,411691
+2023,9,West Bengal,Howrah,Assault,63,970944
+2023,9,West Bengal,Howrah,Burglary,22,919868
+2023,9,West Bengal,Howrah,Kidnapping,13,1194717
+2023,11,West Bengal,Howrah,Cyber Crime,60,536366
+2023,11,West Bengal,Howrah,Fraud,9,602562
+2023,11,West Bengal,Howrah,Theft,9,557064
+2023,1,West Bengal,Kolkata,Burglary,14,390369
+2023,1,West Bengal,Kolkata,Cyber Crime,42,1266416
+2023,1,West Bengal,Kolkata,Kidnapping,12,941218
+2023,2,West Bengal,Kolkata,Cyber Crime,33,507581
+2023,2,West Bengal,Kolkata,Homicide,3,346752
+2023,2,West Bengal,Kolkata,Theft,7,1374694
+2023,4,West Bengal,Kolkata,Burglary,33,645274
+2023,4,West Bengal,Kolkata,Robbery,40,770743
+2023,4,West Bengal,Kolkata,Theft,46,1030687
+2023,7,West Bengal,Kolkata,Cyber Crime,72,934897
+2023,7,West Bengal,Kolkata,Fraud,35,242872
+2023,7,West Bengal,Kolkata,Robbery,39,1168521
+2023,9,West Bengal,Kolkata,Burglary,14,1245837
+2023,9,West Bengal,Kolkata,Fraud,60,579875
+2023,9,West Bengal,Kolkata,Theft,45,253671
+2023,10,West Bengal,Kolkata,Burglary,62,1141069
+2023,10,West Bengal,Kolkata,Fraud,10,990924
+2023,10,West Bengal,Kolkata,Theft,10,1159852
+2024,3,Delhi,Dwarka,Burglary,19,1112477
+2024,3,Delhi,Dwarka,Cyber Crime,68,1106270
+2024,3,Delhi,Dwarka,Fraud,64,1169600
+2024,5,Delhi,Dwarka,Cyber Crime,45,675111
+2024,5,Delhi,Dwarka,Fraud,12,846456
+2024,5,Delhi,Dwarka,Robbery,13,1490471
+2024,7,Delhi,Dwarka,Assault,56,1485717
+2024,7,Delhi,Dwarka,Kidnapping,8,672134
+2024,7,Delhi,Dwarka,Robbery,41,169190
+2024,8,Delhi,Dwarka,Kidnapping,31,457267
+2024,8,Delhi,Dwarka,Robbery,14,219902
+2024,8,Delhi,Dwarka,Theft,34,806201
+2024,10,Delhi,Dwarka,Burglary,29,1234299
+2024,10,Delhi,Dwarka,Cyber Crime,51,477508
+2024,10,Delhi,Dwarka,Homicide,29,844279
+2024,11,Delhi,Dwarka,Cyber Crime,59,336945
+2024,11,Delhi,Dwarka,Fraud,53,323507
+2024,11,Delhi,Dwarka,Robbery,34,108341
+2024,1,Delhi,New Delhi,Fraud,33,989518
+2024,1,Delhi,New Delhi,Robbery,53,1348658
+2024,1,Delhi,New Delhi,Theft,18,285925
+2024,2,Delhi,New Delhi,Assault,17,175290
+2024,2,Delhi,New Delhi,Burglary,58,355465
+2024,2,Delhi,New Delhi,Robbery,36,522196
+2024,4,Delhi,New Delhi,Burglary,31,766066
+2024,4,Delhi,New Delhi,Homicide,5,802156
+2024,4,Delhi,New Delhi,Theft,18,1059493
+2024,6,Delhi,New Delhi,Burglary,27,1438051
+2024,6,Delhi,New Delhi,Fraud,63,1197947
+2024,6,Delhi,New Delhi,Robbery,76,164769
+2024,7,Delhi,New Delhi,Assault,51,458554
+2024,7,Delhi,New Delhi,Burglary,66,1443612
+2024,7,Delhi,New Delhi,Robbery,40,425922
+2024,9,Delhi,New Delhi,Burglary,47,535134
+2024,9,Delhi,New Delhi,Fraud,76,666418
+2024,9,Delhi,New Delhi,Homicide,57,921054
+2024,1,Delhi,Rohini,Fraud,35,958835
+2024,1,Delhi,Rohini,Kidnapping,37,265155
+2024,1,Delhi,Rohini,Robbery,15,715702
+2024,3,Delhi,Rohini,Burglary,31,1333687
+2024,3,Delhi,Rohini,Kidnapping,8,1419520
+2024,3,Delhi,Rohini,Theft,27,160102
+2024,6,Delhi,Rohini,Cyber Crime,61,1257223
+2024,6,Delhi,Rohini,Fraud,29,1344169
+2024,6,Delhi,Rohini,Robbery,64,839194
+2024,9,Delhi,Rohini,Burglary,41,1071997
+2024,9,Delhi,Rohini,Kidnapping,15,952693
+2024,9,Delhi,Rohini,Robbery,47,541797
+2024,11,Delhi,Rohini,Kidnapping,36,530167
+2024,11,Delhi,Rohini,Robbery,52,773938
+2024,11,Delhi,Rohini,Theft,48,1470506
+2024,12,Delhi,Rohini,Fraud,52,1437450
+2024,12,Delhi,Rohini,Kidnapping,62,584374
+2024,12,Delhi,Rohini,Robbery,27,421097
+2024,3,Gujarat,Ahmedabad,Burglary,65,167234
+2024,3,Gujarat,Ahmedabad,Homicide,4,626203
+2024,3,Gujarat,Ahmedabad,Kidnapping,71,841298
+2024,4,Gujarat,Ahmedabad,Homicide,27,941411
+2024,4,Gujarat,Ahmedabad,Kidnapping,40,1155722
+2024,4,Gujarat,Ahmedabad,Theft,10,127324
+2024,6,Gujarat,Ahmedabad,Assault,61,1146561
+2024,6,Gujarat,Ahmedabad,Cyber Crime,32,781153
+2024,6,Gujarat,Ahmedabad,Robbery,48,1276250
+2024,8,Gujarat,Ahmedabad,Assault,28,451109
+2024,8,Gujarat,Ahmedabad,Homicide,47,748405
+2024,8,Gujarat,Ahmedabad,Theft,56,791042
+2024,9,Gujarat,Ahmedabad,Cyber Crime,4,1106812
+2024,9,Gujarat,Ahmedabad,Homicide,4,1038904
+2024,9,Gujarat,Ahmedabad,Robbery,11,1232331
+2024,11,Gujarat,Ahmedabad,Burglary,18,866879
+2024,11,Gujarat,Ahmedabad,Homicide,33,799377
+2024,11,Gujarat,Ahmedabad,Kidnapping,60,1087485
+2024,3,Gujarat,Surat,Cyber Crime,37,858516
+2024,3,Gujarat,Surat,Fraud,48,782715
+2024,3,Gujarat,Surat,Theft,31,829321
+2024,4,Gujarat,Surat,Fraud,58,1089389
+2024,4,Gujarat,Surat,Homicide,52,838722
+2024,4,Gujarat,Surat,Kidnapping,45,1171593
+2024,7,Gujarat,Surat,Assault,6,1059449
+2024,7,Gujarat,Surat,Homicide,19,920261
+2024,7,Gujarat,Surat,Robbery,37,1436230
+2024,8,Gujarat,Surat,Burglary,5,608942
+2024,8,Gujarat,Surat,Kidnapping,52,155587
+2024,8,Gujarat,Surat,Theft,9,672839
+2024,9,Gujarat,Surat,Cyber Crime,39,307921
+2024,9,Gujarat,Surat,Homicide,30,1116439
+2024,9,Gujarat,Surat,Theft,17,1109515
+2024,10,Gujarat,Surat,Assault,27,881691
+2024,10,Gujarat,Surat,Homicide,40,360135
+2024,10,Gujarat,Surat,Theft,38,1185964
+2024,3,Gujarat,Vadodara,Burglary,10,174511
+2024,3,Gujarat,Vadodara,Homicide,18,1003230
+2024,3,Gujarat,Vadodara,Kidnapping,50,644322
+2024,4,Gujarat,Vadodara,Burglary,54,882844
+2024,4,Gujarat,Vadodara,Kidnapping,50,1296043
+2024,4,Gujarat,Vadodara,Theft,54,1212833
+2024,6,Gujarat,Vadodara,Cyber Crime,53,117089
+2024,6,Gujarat,Vadodara,Fraud,41,538234
+2024,6,Gujarat,Vadodara,Homicide,35,1436172
+2024,7,Gujarat,Vadodara,Burglary,8,166595
+2024,7,Gujarat,Vadodara,Homicide,51,446935
+2024,7,Gujarat,Vadodara,Kidnapping,16,575349
+2024,8,Gujarat,Vadodara,Homicide,3,740713
+2024,8,Gujarat,Vadodara,Robbery,43,242132
+2024,8,Gujarat,Vadodara,Theft,40,912099
+2024,12,Gujarat,Vadodara,Homicide,57,1028354
+2024,12,Gujarat,Vadodara,Kidnapping,27,1098044
+2024,12,Gujarat,Vadodara,Theft,14,505931
+2024,2,Karnataka,Bengaluru,Assault,50,1062213
+2024,2,Karnataka,Bengaluru,Homicide,40,377321
+2024,2,Karnataka,Bengaluru,Kidnapping,16,154420
+2024,5,Karnataka,Bengaluru,Assault,52,1042508
+2024,5,Karnataka,Bengaluru,Kidnapping,55,390435
+2024,5,Karnataka,Bengaluru,Robbery,18,860446
+2024,6,Karnataka,Bengaluru,Cyber Crime,62,1307531
+2024,6,Karnataka,Bengaluru,Kidnapping,8,505226
+2024,6,Karnataka,Bengaluru,Theft,32,326955
+2024,8,Karnataka,Bengaluru,Fraud,81,777168
+2024,8,Karnataka,Bengaluru,Robbery,7,899118
+2024,8,Karnataka,Bengaluru,Theft,35,1409697
+2024,10,Karnataka,Bengaluru,Cyber Crime,75,1303009
+2024,10,Karnataka,Bengaluru,Fraud,76,1036491
+2024,10,Karnataka,Bengaluru,Robbery,64,1456862
+2024,12,Karnataka,Bengaluru,Cyber Crime,12,499189
+2024,12,Karnataka,Bengaluru,Kidnapping,22,1231896
+2024,12,Karnataka,Bengaluru,Robbery,12,1203656
+2024,1,Karnataka,Mangaluru,Burglary,36,326164
+2024,1,Karnataka,Mangaluru,Cyber Crime,41,796433
+2024,1,Karnataka,Mangaluru,Fraud,62,1153895
+2024,4,Karnataka,Mangaluru,Assault,5,1481597
+2024,4,Karnataka,Mangaluru,Homicide,62,1451636
+2024,4,Karnataka,Mangaluru,Robbery,61,1008953
+2024,5,Karnataka,Mangaluru,Assault,24,362720
+2024,5,Karnataka,Mangaluru,Homicide,47,1064135
+2024,5,Karnataka,Mangaluru,Theft,29,353436
+2024,8,Karnataka,Mangaluru,Burglary,67,1271345
+2024,8,Karnataka,Mangaluru,Cyber Crime,6,453904
+2024,8,Karnataka,Mangaluru,Fraud,50,861027
+2024,9,Karnataka,Mangaluru,Assault,13,901901
+2024,9,Karnataka,Mangaluru,Burglary,7,168729
+2024,9,Karnataka,Mangaluru,Homicide,55,1207026
+2024,12,Karnataka,Mangaluru,Assault,38,1098130
+2024,12,Karnataka,Mangaluru,Robbery,52,194227
+2024,12,Karnataka,Mangaluru,Theft,56,1287363
+2024,1,Karnataka,Mysuru,Assault,78,493738
+2024,1,Karnataka,Mysuru,Cyber Crime,32,212475
+2024,1,Karnataka,Mysuru,Robbery,45,1326954
+2024,2,Karnataka,Mysuru,Assault,56,1009900
+2024,2,Karnataka,Mysuru,Kidnapping,31,576181
+2024,2,Karnataka,Mysuru,Theft,9,733520
+2024,6,Karnataka,Mysuru,Assault,36,1270317
+2024,6,Karnataka,Mysuru,Fraud,58,1422727
+2024,6,Karnataka,Mysuru,Kidnapping,10,947792
+2024,7,Karnataka,Mysuru,Burglary,49,965615
+2024,7,Karnataka,Mysuru,Homicide,29,249926
+2024,7,Karnataka,Mysuru,Robbery,50,314971
+2024,8,Karnataka,Mysuru,Assault,24,847417
+2024,8,Karnataka,Mysuru,Fraud,24,434529
+2024,8,Karnataka,Mysuru,Homicide,52,1310900
+2024,9,Karnataka,Mysuru,Assault,58,1072307
+2024,9,Karnataka,Mysuru,Robbery,62,1430018
+2024,9,Karnataka,Mysuru,Theft,64,132175
+2024,1,Kerala,Kochi,Fraud,23,1159102
+2024,1,Kerala,Kochi,Homicide,58,242448
+2024,1,Kerala,Kochi,Theft,5,1297095
+2024,2,Kerala,Kochi,Fraud,36,1462701
+2024,2,Kerala,Kochi,Kidnapping,33,259102
+2024,2,Kerala,Kochi,Theft,53,1082603
+2024,4,Kerala,Kochi,Burglary,71,1108163
+2024,4,Kerala,Kochi,Cyber Crime,46,917139
+2024,4,Kerala,Kochi,Fraud,11,198824
+2024,5,Kerala,Kochi,Burglary,23,1138305
+2024,5,Kerala,Kochi,Homicide,52,931777
+2024,5,Kerala,Kochi,Kidnapping,12,1291840
+2024,9,Kerala,Kochi,Homicide,12,761394
+2024,9,Kerala,Kochi,Robbery,73,406804
+2024,9,Kerala,Kochi,Theft,39,797821
+2024,10,Kerala,Kochi,Homicide,54,846353
+2024,10,Kerala,Kochi,Kidnapping,30,602746
+2024,10,Kerala,Kochi,Robbery,24,1038936
+2024,2,Kerala,Kozhikode,Cyber Crime,13,1252928
+2024,2,Kerala,Kozhikode,Homicide,28,295218
+2024,2,Kerala,Kozhikode,Theft,72,1208533
+2024,5,Kerala,Kozhikode,Assault,66,941933
+2024,5,Kerala,Kozhikode,Homicide,73,1299684
+2024,5,Kerala,Kozhikode,Kidnapping,59,1168365
+2024,9,Kerala,Kozhikode,Assault,56,1231725
+2024,9,Kerala,Kozhikode,Fraud,54,1066682
+2024,9,Kerala,Kozhikode,Theft,44,1454731
+2024,10,Kerala,Kozhikode,Cyber Crime,42,787990
+2024,10,Kerala,Kozhikode,Kidnapping,23,626418
+2024,10,Kerala,Kozhikode,Theft,21,1337482
+2024,11,Kerala,Kozhikode,Burglary,30,852693
+2024,11,Kerala,Kozhikode,Fraud,7,830041
+2024,11,Kerala,Kozhikode,Theft,51,714013
+2024,12,Kerala,Kozhikode,Assault,71,964626
+2024,12,Kerala,Kozhikode,Homicide,6,1453318
+2024,12,Kerala,Kozhikode,Theft,44,411083
+2024,3,Kerala,Thiruvananthapuram,Fraud,25,235130
+2024,3,Kerala,Thiruvananthapuram,Homicide,45,1040821
+2024,3,Kerala,Thiruvananthapuram,Kidnapping,29,793546
+2024,4,Kerala,Thiruvananthapuram,Cyber Crime,33,349458
+2024,4,Kerala,Thiruvananthapuram,Fraud,19,1029696
+2024,4,Kerala,Thiruvananthapuram,Homicide,54,882492
+2024,7,Kerala,Thiruvananthapuram,Burglary,32,610836
+2024,7,Kerala,Thiruvananthapuram,Fraud,48,1032283
+2024,7,Kerala,Thiruvananthapuram,Homicide,18,532455
+2024,9,Kerala,Thiruvananthapuram,Fraud,53,209049
+2024,9,Kerala,Thiruvananthapuram,Homicide,22,289911
+2024,9,Kerala,Thiruvananthapuram,Kidnapping,24,739401
+2024,11,Kerala,Thiruvananthapuram,Assault,50,419350
+2024,11,Kerala,Thiruvananthapuram,Cyber Crime,16,884803
+2024,11,Kerala,Thiruvananthapuram,Fraud,28,1353575
+2024,12,Kerala,Thiruvananthapuram,Assault,14,1146405
+2024,12,Kerala,Thiruvananthapuram,Fraud,21,520655
+2024,12,Kerala,Thiruvananthapuram,Homicide,77,1063090
+2024,1,Maharashtra,Nagpur,Burglary,43,1399477
+2024,1,Maharashtra,Nagpur,Cyber Crime,37,213999
+2024,1,Maharashtra,Nagpur,Fraud,50,1402765
+2024,3,Maharashtra,Nagpur,Assault,23,1488677
+2024,3,Maharashtra,Nagpur,Fraud,68,1368446
+2024,3,Maharashtra,Nagpur,Homicide,36,1383093
+2024,8,Maharashtra,Nagpur,Assault,40,1486372
+2024,8,Maharashtra,Nagpur,Cyber Crime,12,610421
+2024,8,Maharashtra,Nagpur,Theft,40,996661
+2024,9,Maharashtra,Nagpur,Cyber Crime,20,755818
+2024,9,Maharashtra,Nagpur,Fraud,58,606029
+2024,9,Maharashtra,Nagpur,Homicide,69,526097
+2024,10,Maharashtra,Nagpur,Cyber Crime,40,974436
+2024,10,Maharashtra,Nagpur,Fraud,55,730359
+2024,10,Maharashtra,Nagpur,Theft,45,325251
+2024,12,Maharashtra,Nagpur,Assault,34,621859
+2024,12,Maharashtra,Nagpur,Burglary,22,581288
+2024,12,Maharashtra,Nagpur,Robbery,54,978160
+2024,1,Maharashtra,Nashik,Cyber Crime,26,341933
+2024,1,Maharashtra,Nashik,Fraud,7,636476
+2024,1,Maharashtra,Nashik,Kidnapping,18,281846
+2024,2,Maharashtra,Nashik,Burglary,55,1158953
+2024,2,Maharashtra,Nashik,Kidnapping,59,1160735
+2024,2,Maharashtra,Nashik,Robbery,43,584818
+2024,3,Maharashtra,Nashik,Burglary,70,529280
+2024,3,Maharashtra,Nashik,Homicide,20,490012
+2024,3,Maharashtra,Nashik,Robbery,45,201207
+2024,5,Maharashtra,Nashik,Assault,72,1124304
+2024,5,Maharashtra,Nashik,Robbery,42,259642
+2024,5,Maharashtra,Nashik,Theft,67,1133194
+2024,7,Maharashtra,Nashik,Assault,41,176252
+2024,7,Maharashtra,Nashik,Burglary,6,735299
+2024,7,Maharashtra,Nashik,Theft,57,1065231
+2024,11,Maharashtra,Nashik,Homicide,54,265024
+2024,11,Maharashtra,Nashik,Kidnapping,22,1028026
+2024,11,Maharashtra,Nashik,Robbery,61,1276090
+2024,1,Maharashtra,Pune,Cyber Crime,25,678071
+2024,1,Maharashtra,Pune,Robbery,77,1342608
+2024,1,Maharashtra,Pune,Theft,25,1207567
+2024,3,Maharashtra,Pune,Homicide,31,794317
+2024,3,Maharashtra,Pune,Kidnapping,76,175203
+2024,3,Maharashtra,Pune,Robbery,15,955687
+2024,4,Maharashtra,Pune,Burglary,36,886261
+2024,4,Maharashtra,Pune,Homicide,16,1374015
+2024,4,Maharashtra,Pune,Kidnapping,31,863721
+2024,6,Maharashtra,Pune,Fraud,20,690082
+2024,6,Maharashtra,Pune,Kidnapping,78,603060
+2024,6,Maharashtra,Pune,Theft,47,958335
+2024,7,Maharashtra,Pune,Fraud,16,390997
+2024,7,Maharashtra,Pune,Homicide,26,421894
+2024,7,Maharashtra,Pune,Kidnapping,36,392717
+2024,8,Maharashtra,Pune,Assault,26,1437995
+2024,8,Maharashtra,Pune,Burglary,31,622975
+2024,8,Maharashtra,Pune,Theft,48,521163
+2024,3,Rajasthan,Jaipur,Assault,46,701493
+2024,3,Rajasthan,Jaipur,Cyber Crime,60,189347
+2024,3,Rajasthan,Jaipur,Fraud,21,709820
+2024,5,Rajasthan,Jaipur,Assault,7,551074
+2024,5,Rajasthan,Jaipur,Burglary,10,829626
+2024,5,Rajasthan,Jaipur,Kidnapping,11,1142284
+2024,6,Rajasthan,Jaipur,Assault,53,560553
+2024,6,Rajasthan,Jaipur,Burglary,5,240114
+2024,6,Rajasthan,Jaipur,Kidnapping,40,1288051
+2024,10,Rajasthan,Jaipur,Fraud,19,961684
+2024,10,Rajasthan,Jaipur,Homicide,59,215553
+2024,10,Rajasthan,Jaipur,Robbery,28,114736
+2024,11,Rajasthan,Jaipur,Assault,14,731005
+2024,11,Rajasthan,Jaipur,Homicide,27,510245
+2024,11,Rajasthan,Jaipur,Theft,44,1419017
+2024,12,Rajasthan,Jaipur,Cyber Crime,34,1025012
+2024,12,Rajasthan,Jaipur,Homicide,59,1084700
+2024,12,Rajasthan,Jaipur,Kidnapping,69,503643
+2024,2,Rajasthan,Jodhpur,Assault,64,381174
+2024,2,Rajasthan,Jodhpur,Homicide,52,696399
+2024,2,Rajasthan,Jodhpur,Kidnapping,34,1165870
+2024,3,Rajasthan,Jodhpur,Fraud,67,215548
+2024,3,Rajasthan,Jodhpur,Homicide,58,1086290
+2024,3,Rajasthan,Jodhpur,Kidnapping,75,332157
+2024,5,Rajasthan,Jodhpur,Fraud,48,529188
+2024,5,Rajasthan,Jodhpur,Kidnapping,57,638506
+2024,5,Rajasthan,Jodhpur,Robbery,35,256491
+2024,7,Rajasthan,Jodhpur,Assault,54,1027298
+2024,7,Rajasthan,Jodhpur,Burglary,29,1292960
+2024,7,Rajasthan,Jodhpur,Kidnapping,13,598021
+2024,8,Rajasthan,Jodhpur,Homicide,21,244524
+2024,8,Rajasthan,Jodhpur,Kidnapping,27,227764
+2024,8,Rajasthan,Jodhpur,Robbery,36,648292
+2024,10,Rajasthan,Jodhpur,Cyber Crime,16,379131
+2024,10,Rajasthan,Jodhpur,Homicide,37,492501
+2024,10,Rajasthan,Jodhpur,Theft,21,931414
+2024,2,Rajasthan,Udaipur,Cyber Crime,43,682564
+2024,2,Rajasthan,Udaipur,Fraud,33,1055909
+2024,2,Rajasthan,Udaipur,Theft,63,1241431
+2024,5,Rajasthan,Udaipur,Assault,14,896415
+2024,5,Rajasthan,Udaipur,Robbery,3,615105
+2024,5,Rajasthan,Udaipur,Theft,52,1089270
+2024,6,Rajasthan,Udaipur,Assault,45,1016808
+2024,6,Rajasthan,Udaipur,Burglary,39,972601
+2024,6,Rajasthan,Udaipur,Kidnapping,13,1401897
+2024,8,Rajasthan,Udaipur,Cyber Crime,41,333311
+2024,8,Rajasthan,Udaipur,Fraud,47,1409103
+2024,8,Rajasthan,Udaipur,Robbery,32,1162774
+2024,9,Rajasthan,Udaipur,Burglary,31,1470530
+2024,9,Rajasthan,Udaipur,Homicide,60,552179
+2024,9,Rajasthan,Udaipur,Kidnapping,48,237469
+2024,11,Rajasthan,Udaipur,Assault,7,1144776
+2024,11,Rajasthan,Udaipur,Fraud,34,376192
+2024,11,Rajasthan,Udaipur,Robbery,30,575141
+2024,1,Tamil Nadu,Coimbatore,Assault,77,1142589
+2024,1,Tamil Nadu,Coimbatore,Cyber Crime,24,526876
+2024,1,Tamil Nadu,Coimbatore,Robbery,44,770876
+2024,3,Tamil Nadu,Coimbatore,Assault,47,363382
+2024,3,Tamil Nadu,Coimbatore,Burglary,70,1289644
+2024,3,Tamil Nadu,Coimbatore,Kidnapping,57,690321
+2024,4,Tamil Nadu,Coimbatore,Burglary,52,962178
+2024,4,Tamil Nadu,Coimbatore,Homicide,31,885108
+2024,4,Tamil Nadu,Coimbatore,Theft,73,609838
+2024,7,Tamil Nadu,Coimbatore,Cyber Crime,57,1100939
+2024,7,Tamil Nadu,Coimbatore,Homicide,26,395917
+2024,7,Tamil Nadu,Coimbatore,Robbery,51,1301694
+2024,9,Tamil Nadu,Coimbatore,Cyber Crime,24,377920
+2024,9,Tamil Nadu,Coimbatore,Homicide,50,415908
+2024,9,Tamil Nadu,Coimbatore,Kidnapping,11,731370
+2024,11,Tamil Nadu,Coimbatore,Burglary,31,264105
+2024,11,Tamil Nadu,Coimbatore,Kidnapping,53,635698
+2024,11,Tamil Nadu,Coimbatore,Theft,16,441534
+2024,2,Tamil Nadu,Madurai,Burglary,14,949408
+2024,2,Tamil Nadu,Madurai,Kidnapping,66,1326365
+2024,2,Tamil Nadu,Madurai,Theft,51,734877
+2024,3,Tamil Nadu,Madurai,Assault,44,313865
+2024,3,Tamil Nadu,Madurai,Fraud,13,889991
+2024,3,Tamil Nadu,Madurai,Theft,38,1001542
+2024,5,Tamil Nadu,Madurai,Cyber Crime,6,646063
+2024,5,Tamil Nadu,Madurai,Fraud,6,853644
+2024,5,Tamil Nadu,Madurai,Homicide,13,639016
+2024,7,Tamil Nadu,Madurai,Assault,16,951443
+2024,7,Tamil Nadu,Madurai,Kidnapping,4,118042
+2024,7,Tamil Nadu,Madurai,Robbery,66,745133
+2024,10,Tamil Nadu,Madurai,Assault,48,1366231
+2024,10,Tamil Nadu,Madurai,Cyber Crime,51,1354391
+2024,10,Tamil Nadu,Madurai,Theft,47,763330
+2024,12,Tamil Nadu,Madurai,Burglary,23,318712
+2024,12,Tamil Nadu,Madurai,Kidnapping,19,990521
+2024,12,Tamil Nadu,Madurai,Robbery,11,539121
+2024,2,Tamil Nadu,Tiruchirappalli,Burglary,67,514162
+2024,2,Tamil Nadu,Tiruchirappalli,Cyber Crime,66,122322
+2024,2,Tamil Nadu,Tiruchirappalli,Kidnapping,16,1202258
+2024,3,Tamil Nadu,Tiruchirappalli,Burglary,69,431149
+2024,3,Tamil Nadu,Tiruchirappalli,Cyber Crime,55,1368164
+2024,3,Tamil Nadu,Tiruchirappalli,Theft,48,1082750
+2024,5,Tamil Nadu,Tiruchirappalli,Burglary,31,1356014
+2024,5,Tamil Nadu,Tiruchirappalli,Robbery,48,616080
+2024,5,Tamil Nadu,Tiruchirappalli,Theft,15,267050
+2024,7,Tamil Nadu,Tiruchirappalli,Burglary,20,1293963
+2024,7,Tamil Nadu,Tiruchirappalli,Fraud,39,1091295
+2024,7,Tamil Nadu,Tiruchirappalli,Kidnapping,57,817669
+2024,8,Tamil Nadu,Tiruchirappalli,Burglary,29,1384154
+2024,8,Tamil Nadu,Tiruchirappalli,Fraud,21,1323449
+2024,8,Tamil Nadu,Tiruchirappalli,Homicide,58,347377
+2024,9,Tamil Nadu,Tiruchirappalli,Assault,16,1332515
+2024,9,Tamil Nadu,Tiruchirappalli,Burglary,50,1298663
+2024,9,Tamil Nadu,Tiruchirappalli,Fraud,16,259776
+2024,2,Telangana,Hyderabad,Kidnapping,63,1371335
+2024,2,Telangana,Hyderabad,Robbery,62,343514
+2024,2,Telangana,Hyderabad,Theft,51,1083845
+2024,5,Telangana,Hyderabad,Assault,37,718283
+2024,5,Telangana,Hyderabad,Cyber Crime,25,398524
+2024,5,Telangana,Hyderabad,Robbery,16,1103566
+2024,6,Telangana,Hyderabad,Assault,4,337355
+2024,6,Telangana,Hyderabad,Burglary,14,365535
+2024,6,Telangana,Hyderabad,Robbery,64,882545
+2024,8,Telangana,Hyderabad,Assault,13,782667
+2024,8,Telangana,Hyderabad,Kidnapping,44,378599
+2024,8,Telangana,Hyderabad,Robbery,67,585209
+2024,10,Telangana,Hyderabad,Assault,11,882217
+2024,10,Telangana,Hyderabad,Burglary,30,571116
+2024,10,Telangana,Hyderabad,Robbery,7,360650
+2024,11,Telangana,Hyderabad,Assault,43,1221926
+2024,11,Telangana,Hyderabad,Burglary,78,458004
+2024,11,Telangana,Hyderabad,Theft,70,1293364
+2024,2,Telangana,Karimnagar,Assault,32,415243
+2024,2,Telangana,Karimnagar,Cyber Crime,14,1240197
+2024,2,Telangana,Karimnagar,Robbery,36,167762
+2024,3,Telangana,Karimnagar,Assault,46,910159
+2024,3,Telangana,Karimnagar,Kidnapping,32,405989
+2024,3,Telangana,Karimnagar,Theft,28,266010
+2024,6,Telangana,Karimnagar,Cyber Crime,10,158303
+2024,6,Telangana,Karimnagar,Homicide,7,745170
+2024,6,Telangana,Karimnagar,Kidnapping,39,790770
+2024,7,Telangana,Karimnagar,Burglary,29,1028771
+2024,7,Telangana,Karimnagar,Robbery,75,836722
+2024,7,Telangana,Karimnagar,Theft,48,511401
+2024,8,Telangana,Karimnagar,Fraud,31,1179948
+2024,8,Telangana,Karimnagar,Robbery,48,429414
+2024,8,Telangana,Karimnagar,Theft,34,1332466
+2024,10,Telangana,Karimnagar,Assault,37,979062
+2024,10,Telangana,Karimnagar,Fraud,9,1121303
+2024,10,Telangana,Karimnagar,Robbery,41,1340468
+2024,1,Telangana,Warangal,Assault,3,1134657
+2024,1,Telangana,Warangal,Robbery,38,1014838
+2024,1,Telangana,Warangal,Theft,5,376727
+2024,4,Telangana,Warangal,Burglary,20,257057
+2024,4,Telangana,Warangal,Homicide,50,478378
+2024,4,Telangana,Warangal,Theft,70,1188615
+2024,5,Telangana,Warangal,Burglary,42,443136
+2024,5,Telangana,Warangal,Kidnapping,35,1158070
+2024,5,Telangana,Warangal,Robbery,12,817306
+2024,7,Telangana,Warangal,Assault,19,271321
+2024,7,Telangana,Warangal,Kidnapping,42,1073667
+2024,7,Telangana,Warangal,Robbery,63,1087451
+2024,9,Telangana,Warangal,Cyber Crime,49,1224728
+2024,9,Telangana,Warangal,Homicide,24,1461352
+2024,9,Telangana,Warangal,Robbery,6,797529
+2024,12,Telangana,Warangal,Cyber Crime,80,1414884
+2024,12,Telangana,Warangal,Fraud,11,706872
+2024,12,Telangana,Warangal,Homicide,42,1236062
+2024,2,Uttar Pradesh,Lucknow,Cyber Crime,55,548233
+2024,2,Uttar Pradesh,Lucknow,Homicide,50,1404927
+2024,2,Uttar Pradesh,Lucknow,Theft,30,1359627
+2024,4,Uttar Pradesh,Lucknow,Cyber Crime,31,467352
+2024,4,Uttar Pradesh,Lucknow,Homicide,49,1399494
+2024,4,Uttar Pradesh,Lucknow,Theft,17,751655
+2024,5,Uttar Pradesh,Lucknow,Assault,40,980533
+2024,5,Uttar Pradesh,Lucknow,Homicide,57,559179
+2024,5,Uttar Pradesh,Lucknow,Theft,59,183505
+2024,9,Uttar Pradesh,Lucknow,Fraud,6,360749
+2024,9,Uttar Pradesh,Lucknow,Kidnapping,4,1105859
+2024,9,Uttar Pradesh,Lucknow,Robbery,71,523161
+2024,10,Uttar Pradesh,Lucknow,Fraud,11,647426
+2024,10,Uttar Pradesh,Lucknow,Robbery,58,344889
+2024,10,Uttar Pradesh,Lucknow,Theft,14,669725
+2024,11,Uttar Pradesh,Lucknow,Burglary,20,233752
+2024,11,Uttar Pradesh,Lucknow,Fraud,20,701331
+2024,11,Uttar Pradesh,Lucknow,Kidnapping,64,1004958
+2024,5,Uttar Pradesh,Noida,Homicide,57,974245
+2024,5,Uttar Pradesh,Noida,Kidnapping,25,920272
+2024,5,Uttar Pradesh,Noida,Theft,54,818202
+2024,7,Uttar Pradesh,Noida,Burglary,17,1060019
+2024,7,Uttar Pradesh,Noida,Robbery,50,429423
+2024,7,Uttar Pradesh,Noida,Theft,27,1150956
+2024,8,Uttar Pradesh,Noida,Cyber Crime,37,209733
+2024,8,Uttar Pradesh,Noida,Kidnapping,30,719130
+2024,8,Uttar Pradesh,Noida,Robbery,48,1155602
+2024,9,Uttar Pradesh,Noida,Assault,38,753787
+2024,9,Uttar Pradesh,Noida,Kidnapping,72,175132
+2024,9,Uttar Pradesh,Noida,Robbery,26,788350
+2024,10,Uttar Pradesh,Noida,Cyber Crime,38,603728
+2024,10,Uttar Pradesh,Noida,Homicide,57,290493
+2024,10,Uttar Pradesh,Noida,Kidnapping,27,1317309
+2024,12,Uttar Pradesh,Noida,Homicide,18,796260
+2024,12,Uttar Pradesh,Noida,Kidnapping,18,1137175
+2024,12,Uttar Pradesh,Noida,Robbery,29,438168
+2024,1,Uttar Pradesh,Varanasi,Cyber Crime,23,439622
+2024,1,Uttar Pradesh,Varanasi,Homicide,3,1356457
+2024,1,Uttar Pradesh,Varanasi,Kidnapping,53,231449
+2024,3,Uttar Pradesh,Varanasi,Burglary,65,945200
+2024,3,Uttar Pradesh,Varanasi,Kidnapping,67,1498799
+2024,3,Uttar Pradesh,Varanasi,Theft,14,351554
+2024,5,Uttar Pradesh,Varanasi,Assault,63,236321
+2024,5,Uttar Pradesh,Varanasi,Cyber Crime,68,430688
+2024,5,Uttar Pradesh,Varanasi,Theft,69,914849
+2024,8,Uttar Pradesh,Varanasi,Cyber Crime,50,1021624
+2024,8,Uttar Pradesh,Varanasi,Kidnapping,33,1272001
+2024,8,Uttar Pradesh,Varanasi,Robbery,15,586037
+2024,11,Uttar Pradesh,Varanasi,Homicide,9,849655
+2024,11,Uttar Pradesh,Varanasi,Robbery,7,313972
+2024,11,Uttar Pradesh,Varanasi,Theft,71,150337
+2024,12,Uttar Pradesh,Varanasi,Cyber Crime,11,402225
+2024,12,Uttar Pradesh,Varanasi,Fraud,38,217498
+2024,12,Uttar Pradesh,Varanasi,Homicide,17,1054966
+2024,1,West Bengal,Durgapur,Fraud,71,572012
+2024,1,West Bengal,Durgapur,Homicide,41,1320084
+2024,1,West Bengal,Durgapur,Robbery,50,544482
+2024,4,West Bengal,Durgapur,Assault,22,1330656
+2024,4,West Bengal,Durgapur,Cyber Crime,52,152704
+2024,4,West Bengal,Durgapur,Kidnapping,11,1274231
+2024,5,West Bengal,Durgapur,Burglary,6,724423
+2024,5,West Bengal,Durgapur,Fraud,32,960401
+2024,5,West Bengal,Durgapur,Homicide,42,1135157
+2024,8,West Bengal,Durgapur,Burglary,43,1394761
+2024,8,West Bengal,Durgapur,Homicide,3,1086820
+2024,8,West Bengal,Durgapur,Kidnapping,29,1004299
+2024,11,West Bengal,Durgapur,Assault,3,1298405
+2024,11,West Bengal,Durgapur,Fraud,33,727632
+2024,11,West Bengal,Durgapur,Kidnapping,12,1176247
+2024,12,West Bengal,Durgapur,Assault,57,202823
+2024,12,West Bengal,Durgapur,Cyber Crime,66,1364636
+2024,12,West Bengal,Durgapur,Kidnapping,4,836696
+2024,1,West Bengal,Howrah,Burglary,31,1422622
+2024,1,West Bengal,Howrah,Cyber Crime,71,239059
+2024,1,West Bengal,Howrah,Kidnapping,35,506027
+2024,2,West Bengal,Howrah,Assault,31,1090311
+2024,2,West Bengal,Howrah,Fraud,56,1143840
+2024,2,West Bengal,Howrah,Theft,26,1204603
+2024,5,West Bengal,Howrah,Cyber Crime,34,564356
+2024,5,West Bengal,Howrah,Fraud,9,469697
+2024,5,West Bengal,Howrah,Robbery,60,956518
+2024,6,West Bengal,Howrah,Cyber Crime,3,650856
+2024,6,West Bengal,Howrah,Fraud,22,838444
+2024,6,West Bengal,Howrah,Robbery,16,805641
+2024,9,West Bengal,Howrah,Cyber Crime,30,205380
+2024,9,West Bengal,Howrah,Fraud,7,835808
+2024,9,West Bengal,Howrah,Theft,6,1274299
+2024,10,West Bengal,Howrah,Assault,52,159108
+2024,10,West Bengal,Howrah,Fraud,28,110748
+2024,10,West Bengal,Howrah,Theft,6,669971
+2024,2,West Bengal,Kolkata,Kidnapping,36,302166
+2024,2,West Bengal,Kolkata,Robbery,26,700411
+2024,2,West Bengal,Kolkata,Theft,28,1084240
+2024,3,West Bengal,Kolkata,Homicide,42,1347297
+2024,3,West Bengal,Kolkata,Robbery,44,586297
+2024,3,West Bengal,Kolkata,Theft,65,449104
+2024,4,West Bengal,Kolkata,Fraud,41,401595
+2024,4,West Bengal,Kolkata,Homicide,13,214410
+2024,4,West Bengal,Kolkata,Kidnapping,68,629859
+2024,5,West Bengal,Kolkata,Burglary,56,876447
+2024,5,West Bengal,Kolkata,Homicide,36,350935
+2024,5,West Bengal,Kolkata,Robbery,18,1331595
+2024,7,West Bengal,Kolkata,Assault,49,214029
+2024,7,West Bengal,Kolkata,Homicide,5,270744
+2024,7,West Bengal,Kolkata,Robbery,21,324275
+2024,11,West Bengal,Kolkata,Assault,23,1292739
+2024,11,West Bengal,Kolkata,Burglary,57,238752
+2024,11,West Bengal,Kolkata,Homicide,11,462825
